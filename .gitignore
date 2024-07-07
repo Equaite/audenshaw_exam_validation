@@ -1,0 +1,7 @@
+.env
+.DS_Store
+__pycache__
+counting_tokens.ipynb
+extract_marks_manual_function_scratchpad.ipynb
+requirements.txt
+reformat.ipynb

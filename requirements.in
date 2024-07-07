@@ -1,0 +1,3 @@
+-e ../llm_assessor
+python-dotenv==1.0.0
+pip-tools==7.3.0
