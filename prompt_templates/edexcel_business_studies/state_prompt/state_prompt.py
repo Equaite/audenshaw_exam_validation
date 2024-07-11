@@ -6,16 +6,16 @@ import json
 
 if __name__== "__main__":
 
-    question_type = "explain"
+    question_type = "state"
     subject = "edexcel_business_studies"
 
     # Save Directory
     save_dir = Path(f"./prompt_templates/{subject}/{question_type}_prompt")
 
     # Import Examples
-    with open(save_dir / f"{question_type}_few_shot_examples.json", "r") as openfile:
-        # Reading from json file
-        few_shot_examples = json.load(openfile)
+    # with open(save_dir / f"{question_type}_few_shot_examples.json", "r") as openfile:
+    #     # Reading from json file
+    #     few_shot_examples = json.load(openfile)
 
     # Weave examples into the recursive prompt
     instruction = """
@@ -34,11 +34,25 @@ if __name__== "__main__":
     7. When the Answer is referring to the business in question, ensure that the reference is supported from the Context.
 
     Provide a thorough step-by-step explanation of your reasoning.
-    Below are some examples of how to grade student answers: 
+
+    Question:
+    {question}
+
+    Mark Scheme:
+    {mark_scheme}
+
+    Context:
+    {context}
+
+    Answer:
+    {answer}
+
+    Response:
     """.strip()
 
     # Make Prompt Template
-    prompt_template = construct_prompt_template(instruction=instruction, few_shot_examples=few_shot_examples).strip()
+    #prompt_template = construct_prompt_template(instruction=instruction, few_shot_examples=few_shot_examples).strip()
+    prompt_template = instruction
 
     GRADE_ANSWER_PROMPT = PromptTemplate.from_template(
         prompt_template
