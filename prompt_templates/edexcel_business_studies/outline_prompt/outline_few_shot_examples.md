@@ -1,0 +1,67 @@
+## Question:
+Outline one impact of changing levels of consumer incomes on Good and Proper Tea.
+
+## Mark Scheme:
+marking_criteria:
+  - Linked points outlining an impact of changing consumer income on Good and Proper Tea (up to 2 marks)
+  - Points not linked (maximum 1 mark)
+example_answers:
+  - If incomes are rising people will have more disposable income (1). This will mean that luxuries, such as Good and Proper Tea, are more likely to become popular and sales may increase (1).
+  - Falling incomes means people will have less disposable income (1) and may resort to cheaper types of tea, rather than higher quality products like Good and Proper Tea (1).
+marking_notes:
+  - Do not accept impacts that would not be appropriate for a Good and Proper Tea. For example, the demand for all foods will rise.
+total_marks:
+  - 2
+
+## Context:
+Good and Proper Tea was founded in 2012 by Emilie Holmes.
+The business website states:
+‘We source our teas from around the world, from Kenya to India, Japan to China and many more places in between. It is important to us that we know exactly where each tea comes from and who is responsible for harvesting the leaves we buy. We will always share this information with our customers’.
+The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business.
+To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers eachprovided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012.
+The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful.
+As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its cost have
+increased.
+
+## Answer:
+One impact is that revenue and therefore profits are not guaranteed and they cannot plan for future investments.
+
+## Response:
+The fact that revenue and profits are not guaranteed is valid and there is
+development through ‘they cannot plan for future investments’. However, there is no
+contextualisation offered and the response is generic. As a result, the response can
+only be awarded 1 mark.
+
+## Question:
+Outline one impact of changing levels of consumer incomes on Good and Proper Tea.
+
+## Mark Scheme:
+marking_criteria:
+  - Linked points outlining an impact of changing consumer income on Good and Proper Tea (up to 2 marks)
+  - Points not linked (maximum 1 mark)
+example_answers:
+  - If incomes are rising people will have more disposable income (1). This will mean that luxuries, such as Good and Proper Tea, are more likely to become popular and sales may increase (1).
+  - Falling incomes means people will have less disposable income (1) and may resort to cheaper types of tea, rather than higher quality products like Good and Proper Tea (1).
+marking_notes:
+  - Do not accept impacts that would not be appropriate for a Good and Proper Tea. For example, the demand for all foods will rise.
+total_marks:
+  - 2
+
+## Context:
+Good and Proper Tea was founded in 2012 by Emilie Holmes.
+The business website states:
+‘We source our teas from around the world, from Kenya to India, Japan to China and many more places in between. It is important to us that we know exactly where each tea comes from and who is responsible for harvesting the leaves we buy. We will always share this information with our customers’.
+The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business.
+To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers eachprovided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012.
+The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful.
+As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its cost have
+increased.
+
+## Answer:
+Higher consumer income will increase sales of indian tea as more people could afford premium beverages.
+
+## Response:
+The candidate has given an impact ‘increase sales of Indian tea’ and there is
+development through ‘as more people could afford premium beverages’. The context
+is provided by ‘Indian’ and ‘beverages’. Note that the word ‘tea’ does not count since it
+is repeated in the question. Overall, the answer should be awarded 2 marks.
