@@ -1,0 +1,14 @@
+{
+    "input_variables": [
+        "answer",
+        "context",
+        "mark_scheme",
+        "question"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "You will be given a Question, Answer, Context and a Mark Scheme to grade the Answer.\n    For each bulleted marking criteria in the Mark Scheme, mention if the Answer successfully answers the Question and fulfills the criteria in the Mark Scheme, using evidence from the answer.\n    The Mark Scheme has example answers that you can use to guide how to award marks.\n    The Mark Scheme has marking notes which gives additional information for grading the answer.\n\n    Here are some strict guidelines to abide by:\n    1. Quote the answer as much as possible and accurately, do not invent anything.\n    2. Refer to the mark scheme as often as possible, justify any of your remarks with reference to the mark scheme.\n    3. Remark on each criteria sentence in the mark scheme and mention if the answer satisfies the criteria.\n    4. At the end of your answer, give the number of marks that should be awarded. The Mark Scheme has the total marks to be awarded for the question, do not award more than that amount.\n    5. Do not award the same point with more than one mark.\n    6. When awarding marks for justification, ensure that any decision or opinion made is supported with a rationale.\n    7. When the Answer is referring to the business in question, ensure that the reference is supported from the Context.\n\n    Provide a thorough step-by-step explanation of your reasoning.\n\n    Question:\n    {question}\n\n    Mark Scheme:\n    {mark_scheme}\n\n    Context:\n    {context}\n\n    Answer:\n    {answer}\n\n    Response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

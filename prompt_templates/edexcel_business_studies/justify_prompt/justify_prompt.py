@@ -6,8 +6,8 @@ import json
 
 if __name__== "__main__":
 
-    question_type = "explain"
-    subject = "aqa_history"
+    question_type = "justify"
+    subject = "edexcel_business_studies"
 
     # Save Directory
     save_dir = Path(f"./prompt_templates/{subject}/{question_type}_prompt")

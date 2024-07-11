@@ -7,9 +7,10 @@ import json
 if __name__== "__main__":
 
     question_type = "analyse"
+    subject = "aqa_history"
 
     # Save Directory
-    save_dir = Path(f"./prompt_templates/aqa_history/{question_type}_prompt")
+    save_dir = Path(f"./prompt_templates/{subject}/{question_type}_prompt")
 
     # Import Examples
     with open(save_dir / f"{question_type}_few_shot_examples.json", "r") as openfile:
@@ -54,13 +55,13 @@ if __name__== "__main__":
 
     Provide a thorough step-by-step explanation of your reasoning. 
     Below are some examples of how to grade student answers:
-    """
+    """.strip()
 
     # Make Prompt Template
-    prompt_template = construct_prompt_template(instruction=instruction, few_shot_examples=few_shot_examples)
+    prompt_template = construct_prompt_template(instruction=instruction, few_shot_examples=few_shot_examples).strip()
 
     GRADE_ANSWER_PROMPT = PromptTemplate.from_template(
         prompt_template
     )
 
-    GRADE_ANSWER_PROMPT.save(save_dir / f"grade_answer_aqa_history_{question_type}_prompt.json")
+    GRADE_ANSWER_PROMPT.save(save_dir / f"grade_answer_{subject}_{question_type}_prompt.json")

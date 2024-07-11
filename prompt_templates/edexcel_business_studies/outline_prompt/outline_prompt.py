@@ -6,7 +6,7 @@ import json
 
 if __name__== "__main__":
 
-    question_type = "explain"
+    question_type = "outline"
     subject = "edexcel_business_studies"
 
     # Save Directory
