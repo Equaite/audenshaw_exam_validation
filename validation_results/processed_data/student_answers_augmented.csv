@@ -1,0 +1,1385 @@
+subject_id,question_id,question_type,student_id,question_text,mark_scheme_text,context,answer_text,total_marks,answer_id,linked_answer_id,topic_id,answer_scanned_image
+aqa_history,1.0,hs_explain,5000,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
+  description: 
+    - Developed analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Developed analysis of source based on content and/or provenance
+  progression:
+    - Students may progress from a simple analysis of the source with extended reasoning supported by factual knowledge and understanding related to the features of the source.
+  example_answer: 
+    - 'The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.'
+
+Level_1:
+  description: 
+    - Simple analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Simple analysis of source based on content and/or provenance
+  progression:
+    - Students identify relevant features in the source and support them with simple factual knowledge and understanding.
+  example_answer: 
+    - 'the Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.'
+
+Level_0:
+  description: 
+    - Response does not address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
+the doorway is the German Kaiser.","Source A is critical of the 
+Bolsheviks as in the source it
+shows them taking German gold
+away from Russia. Also the
+source looks as though the
+German Kaiser has sent the
+Bolsheviks to steal from Russia and
+betray them, the Kaiser stood in
+the doorway rubbing his hands
+together shows that he will get
+something out of it.",4,,,,
+aqa_history,2.0,hs_explain,5000,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
+  description: 
+    - Complex evaluation of both sources with sustained judgment based on content and provenance
+  marks_awarded:
+    maximum: 12
+    minimum: 10
+  criteria:
+    - Students may progress from a developed evaluation of the sources by complex reasoning related to utility on the basis of content and provenance.
+    - They may evaluate the relationship between the sources based on analysis of provenance and contextual knowledge.
+  progression:
+    - Students may progress to this level through complex reasoning related to utility on the basis of content and provenance.
+  example_answer: 
+    - 'The sources show that military technology and tactics had to change over time in response to the difficulty of succeeding in trench warfare and breaking the stalemate on the Western Front. The date of Source B in particular shows an historian that in contrast to the earlier years of the war the public was given a much more realistic picture of battlefield tactics.'
+
+Level_3:
+  description: 
+    - Developed evaluation of sources based on the content and/or provenance
+  marks_awarded:
+    maximum: 9
+    minimum: 7
+  criteria:
+    - Students may progress from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  progression:
+    - Students may progress to this level from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it illustrates the development of new infantry tactics in the course of the First World War; ‘over the top’ attrition assaults on the enemy trenches were replaced with ‘creeping barrage’ which was the practice of providing sustained artillery cover to protect the advancing troops.
+      Source C is useful because the author is an experienced soldier. His account gives an accurate picture of the threat posed by Germany’s successful advance in the Spring Offensive using storm troopers. The new design of British tank was one of the ways in which this threat was countered.'
+
+Level_2:
+  description: 
+    - Simple evaluation of source(s) based on content and/or provenance
+  marks_awarded:
+    maximum: 6
+    minimum: 4
+  criteria:
+    - Students may progress from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  progression:
+    - Students may progress to this level from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it was printed in the later years of the war and shows how the new technology of aircraft was being used as part of the attack on the enemy.
+      Source C is useful because it is a first-hand account of how the design of tanks developed during the war.'
+
+Level_1:
+  description: 
+    - Basic analysis of sources(s)
+  marks_awarded:
+    maximum: 3
+    minimum: 1
+  criteria:
+    - Answers may show understanding/support for one or both sources, but the case is made by assertion/basic inference.
+    - Students identify basic features which are valid about the sources and related to the enquiry point, for example, Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.
+  progression:
+    - Students may progress to this level by identifying basic features which are valid about the sources and related to the enquiry point.
+  example_answer: 
+    - 'Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.'
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - None
+  progression:
+    - None
+  example_answer: 
+    - None","Source B A picture published in a British newspaper in October 1917. It shows readers
+how British soldiers advance under an artillery barrage.
+
+Source C: Adapted from the book ‘Tank Warfare: the Story of the Tank in the Great War’ by
+Frank Mitchell, published after the war.
+Mitchell was a tank commander in the First World War and describes part of a
+tank battle which took place during the German Spring Offensive in
+April 1918. Mitchell was awarded a medal for bravery in this battle.
+
+```
+We were stuck and German soldiers were preparing to attack my tank. But
+then on my right I saw seven of our newest and fastest tanks, ‘Whippets’,
+racing into action.
+Firing their machine guns, they drove straight into the German soldiers, and
+scattered them in all directions. They quickly destroyed the German threat.
+```","
+I think Sources
+B and C are very useful to 
+a historian studying military 
+technology and tactics in the 
+First World War as in 
+Source B it shows us British 
+soldiers advancing under an artillery 
+barrage. This was called the creeping 
+barrage. The creeping barrage was used
+to destroy anything infront of 
+the soldiers then they would 
+all follow in clearing up the 
+rest including the tanks going in.
+Source C is also useful as it 
+shows how big of a difference tanks 
+made in war as they could 
+quickly destroy through German 
+soldiers and smash through anything 
+in its path.",12,,,,
+aqa_history,3.0,hs_analyse,5000,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
+  description: 
+    - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 8
+    minimum: 7
+  criteria:
+    - Extends Level 3
+  progression:
+    - Students may progress from a developed narrative of causation/consequence with complex sequencing and reasoning supported by a range of accurate and detailed factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at different stages and/or showing understanding about how much each part of the sequence increased tension and led to a crisis.
+  example_answer: 
+    - 'the success of the Schlieffen Plan depended on the speed of its execution but the Germans failed to defeat France within the planned timescale of 6 weeks. The Germans underestimated the resolve and reaction times of its enemies. However, whilst the Germans were not successful in their primary objective, neither were they entirely defeated. When both sides sought to protect the territory gained by digging trenches, stalemate resulted.'
+
+Level_3:
+  description: 
+    - Developed analysis of causation/consequence
+    - Answer is presented in a structured and well-ordered narrative/account that demonstrates a range of accurate knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 6
+    minimum: 5
+  criteria:
+    - Extends level 2
+  progression:
+    - Students may progress from a simple narrative of causation/consequence with developed sequencing and reasoning supported by a range of accurate factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at one stage in the process.
+  example_answer: 
+    - 'the German advance on Paris was weakened by the need to send troops east as Russia had mobilised more quickly than expected. The failure of the Schlieffen Plan led to a stalemate in the fighting on the Western Front because after the Battle of the Marne, both sides dug a line of trenches that stretched across France.'
+
+Level_2:
+  description: 
+    - Simple analysis of causation/consequence
+    - Answer is presented in a structured account that demonstrates specific knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Students may progress from a basic narrative of causation/consequence by showing a simple understanding of sequencing, supporting it with factual knowledge and understanding.
+  example_answer: 
+    - 'the German advance through Belgium was slowed down by fighting Belgian and British troops. The French were able to push back the German front line but both sides needed to build trenches to protect themselves.'
+
+Level_1:
+  description: 
+    - Basic analysis of causation/consequence
+    - Answer is presented as general statements which demonstrates basic knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Students identify cause(s)/consequence(s) about the events such as the Schlieffen Plan did not happen as quickly as planned and so the German army had to dig trenches.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria: []
+  progression: []
+  example_answer: []",,"The Schlieffen plan led to problems in 1914 as
+ Germany wanted to have an empire like Britain or France. 
+ This led to a large increase in power and size of the army in order to invade and colonise. 
+ This led to problems as Britain, France and other global powers were starting to get worried about their empires.",8,,,,
+aqa_history,4.1,hs_judgement,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
+    - Answer demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+    - Answer demonstrates a complex, sustained line of reasoning which has a sharply-focused coherence and logical structure that is fully substantiated, with well-judged relevance.
+    - Extends Level 3.
+  marks_awarded:
+    maximum: 16
+    minimum: 12
+  criteria:
+    - Complex explanation of stated factor and other factor(s)
+    - Accurate and detailed knowledge and understanding
+    - Complex, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a developed explanation of causation by complex explanation of the relationship between causes supported by detailed factual knowledge and understanding to form a sustained judgement.
+  example_answer:
+    - ‘the Alliance system was one of the long term causes of the war in the wider context of European rivalry over empires. It did not in itself make war inevitable, but it created a framework for conflict. This was triggered in the short-term by the Austrian ultimatum to Serbia in 1914.’
+
+Level_3:
+  description: 
+    - Developed explanation of the stated factor and other factor(s)
+    - Answer demonstrates a range of accurate knowledge and understanding that is relevant to the question
+    - Answer demonstrates a developed, sustained line of reasoning which has coherence and logical structure; it is well substantiated, and with sustained, explicit relevance.
+    - Extends level 2 
+    - Answer may suggest that one reason has greater merit.
+  marks_awarded:
+    maximum: 12
+    minimum: 9
+  criteria:
+    - Developed explanation of the stated factor and other factor(s)
+    - Accurate knowledge and understanding
+    - Developed, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a simple explanation of causation with developed reasoning supported by factual knowledge and understanding.
+  example_answer:
+    - “explaining the motives and rivalries that led to the Triple Alliance and the Triple Entente. This system resulted in Europe being divided into opposing armed camps and resulted in Germany worrying about ‘encirclement’.”
+
+Level_2:
+  description: 
+    - Simple explanation of stated factor or other factor(s)
+    - Answer demonstrates specific knowledge and understanding that is relevant to the question
+    - Answer demonstrates a simple, sustained line of reasoning which is coherent, structured, substantiated and explicitly relevant.
+    - Answers arguing a preference for one judgement but with only basic explanation of another view will be marked at this level.
+  marks_awarded:
+    maximum: 8
+    minimum: 5
+  criteria:
+    - Simple explanation of stated factor or other factor(s)
+    - Specific knowledge and understanding
+    - Simple, sustained line of reasoning with coherence and structure
+  progression:
+    - Students may progress from a basic explanation of causation by simple reasoning and supporting it with factual knowledge and understanding.
+  example_answer:
+    - ‘the main reason a war broke out was the rivalry that had been developing between Britain and Germany over the size of their empires and their armed forces. Both countries felt threatened by the development of the other and wanted an opportunity to show their superiority by winning a war.’
+
+Level_1:
+  description: 
+    - Basic explanation of one or more factors
+    - Answer demonstrates basic knowledge and understanding that is relevant to the question
+    - Answer demonstrates a basic line of reasoning, which is coherent, structured with some substantiation; the relevance might be implicit.
+  marks_awarded:
+    maximum: 4
+    minimum: 1
+  criteria:
+    - Basic explanation of one or more factors
+    - Basic knowledge and understanding
+    - Basic line of reasoning with coherence and structure
+  progression:
+    - Students recognise and provide a basic explanation of one or more factors.
+  example_answer:
+    - Students may offer a basic explanation of the stated factor, such as, the Alliance system brought all the European powers into a war together. They had promised to support each other if a war broke out.
+    - Students may offer basic explanations of other factor(s), for example, the assassination of Archduke Franz Ferdinand caused Austria to declare war and this became a World War.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - No evidence or fail to address the question
+  progression:
+    - N/A
+  example_answer:
+    - N/A",," I agree with this statement as I believe the pressure France, 
+Britain and Russia were putting on Germany built made tensions high in Europe, this made Germany very wary of what it did. 
+However, another main cause of the First World War was the assassination of Archduke Franz Ferdinand in Austria-Hungary,
+ this also built tension as many people thought it was the German goverment behind it.
+
+The Alliance System also meant that each country would have to help if one was attacked by Germany, 
+this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
+they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",16,,,,
+aqa_history,4.2,hs_spag,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - High Performance
+  marks_awarded:
+    maximum: 4
+    minimum: 4
+  criteria:
+    - Learners spell and punctuate with consistent accuracy
+    - Learners use rules of grammar with effective control of meaning overall
+    - Learners use a wide range of specialist terms as appropriate
+  progression:
+    - This level demonstrates advanced proficiency in spelling, punctuation, and grammar, showcasing a high degree of control and accuracy in written communication.
+  example_answer: 
+    - Learners spell and punctuate with consistent accuracy. Learners use rules of grammar with effective control of meaning overall. Learners use a wide range of specialist terms as appropriate.
+
+Level_3:
+  description: 
+    - Intermediate Performance
+  marks_awarded:
+    maximum: 3
+    minimum: 2
+  criteria:
+    - Learners spell and punctuate with considerable accuracy
+    - Learners use rules of grammar with general control of meaning overall
+    - Learners use a good range of specialist terms as appropriate
+  progression:
+    - This level indicates solid control and accuracy in spelling, punctuation, and grammar, with minor errors that do not detract from overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with considerable accuracy. Learners use rules of grammar with general control of meaning overall. Learners use a good range of specialist terms as appropriate.
+
+Level_2:
+  description: 
+    - Threshold Performance
+  marks_awarded:
+    maximum: 1
+    minimum: 1
+  criteria:
+    - Learners spell and punctuate with reasonable accuracy
+    - Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall
+    - Learners use a limited range of specialist terms as appropriate
+  progression:
+    - This level shows basic competency in spelling, punctuation, and grammar, with errors present but not significantly impacting the overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with reasonable accuracy. Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall. Learners use a limited range of specialist terms as appropriate.
+
+Level_1:
+  description: 
+    - No marks awarded
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - The learner writes nothing
+    - The learner’s response does not relate to the question
+    - The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning
+  progression:
+    - To progress from this level, learners need to focus on improving their basic spelling, punctuation, and grammar skills to meet the minimum threshold of accuracy and coherence.
+  example_answer: 
+    - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",," I agree with this statement as I believe the pressure France, 
+Britain and Russia were putting on Germany built made tensions high in Europe, this made Germany very wary of what it did. 
+However, another main cause of the First World War was the assassination of Archduke Franz Ferdinand in Austria-Hungary,
+ this also built tension as many people thought it was the German goverment behind it.
+
+The Alliance System also meant that each country would have to help if one was attacked by Germany, 
+this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
+they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",4,,,,
+aqa_history,1.0,hs_explain,5001,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
+  description: 
+    - Developed analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Developed analysis of source based on content and/or provenance
+  progression:
+    - Students may progress from a simple analysis of the source with extended reasoning supported by factual knowledge and understanding related to the features of the source.
+  example_answer: 
+    - 'The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.'
+
+Level_1:
+  description: 
+    - Simple analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Simple analysis of source based on content and/or provenance
+  progression:
+    - Students identify relevant features in the source and support them with simple factual knowledge and understanding.
+  example_answer: 
+    - 'the Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.'
+
+Level_0:
+  description: 
+    - Response does not address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
+the doorway is the German Kaiser.","Contextually, source A displays how during the Russian resolution of 1917 which led to the bolsheviks becoming in power, the bolsheviks 'backstabbed the allies' and russia while Kaiser Wilhelm II is very eagerly watching in the background. This represents the allies frustration against russia and especially the bolsheviks as they left the war and had signed a peace treaty with Germany giving up significant portions of valueable land.
+",4,,,,
+aqa_history,2.0,hs_explain,5001,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
+  description: 
+    - Complex evaluation of both sources with sustained judgment based on content and provenance
+  marks_awarded:
+    maximum: 12
+    minimum: 10
+  criteria:
+    - Students may progress from a developed evaluation of the sources by complex reasoning related to utility on the basis of content and provenance.
+    - They may evaluate the relationship between the sources based on analysis of provenance and contextual knowledge.
+  progression:
+    - Students may progress to this level through complex reasoning related to utility on the basis of content and provenance.
+  example_answer: 
+    - 'The sources show that military technology and tactics had to change over time in response to the difficulty of succeeding in trench warfare and breaking the stalemate on the Western Front. The date of Source B in particular shows an historian that in contrast to the earlier years of the war the public was given a much more realistic picture of battlefield tactics.'
+
+Level_3:
+  description: 
+    - Developed evaluation of sources based on the content and/or provenance
+  marks_awarded:
+    maximum: 9
+    minimum: 7
+  criteria:
+    - Students may progress from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  progression:
+    - Students may progress to this level from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it illustrates the development of new infantry tactics in the course of the First World War; ‘over the top’ attrition assaults on the enemy trenches were replaced with ‘creeping barrage’ which was the practice of providing sustained artillery cover to protect the advancing troops.
+      Source C is useful because the author is an experienced soldier. His account gives an accurate picture of the threat posed by Germany’s successful advance in the Spring Offensive using storm troopers. The new design of British tank was one of the ways in which this threat was countered.'
+
+Level_2:
+  description: 
+    - Simple evaluation of source(s) based on content and/or provenance
+  marks_awarded:
+    maximum: 6
+    minimum: 4
+  criteria:
+    - Students may progress from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  progression:
+    - Students may progress to this level from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it was printed in the later years of the war and shows how the new technology of aircraft was being used as part of the attack on the enemy.
+      Source C is useful because it is a first-hand account of how the design of tanks developed during the war.'
+
+Level_1:
+  description: 
+    - Basic analysis of sources(s)
+  marks_awarded:
+    maximum: 3
+    minimum: 1
+  criteria:
+    - Answers may show understanding/support for one or both sources, but the case is made by assertion/basic inference.
+    - Students identify basic features which are valid about the sources and related to the enquiry point, for example, Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.
+  progression:
+    - Students may progress to this level by identifying basic features which are valid about the sources and related to the enquiry point.
+  example_answer: 
+    - 'Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.'
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - None
+  progression:
+    - None
+  example_answer: 
+    - None","Source B A picture published in a British newspaper in October 1917. It shows readers
+how British soldiers advance under an artillery barrage.
+
+Source C: Adapted from the book ‘Tank Warfare: the Story of the Tank in the Great War’ by
+Frank Mitchell, published after the war.
+Mitchell was a tank commander in the First World War and describes part of a
+tank battle which took place during the German Spring Offensive in
+April 1918. Mitchell was awarded a medal for bravery in this battle.
+
+```
+We were stuck and German soldiers were preparing to attack my tank. But
+then on my right I saw seven of our newest and fastest tanks, ‘Whippets’,
+racing into action.
+Firing their machine guns, they drove straight into the German soldiers, and
+scattered them in all directions. They quickly destroyed the German threat.
+```","In source B, we can see an image displaying the tradectory of artillery bombardments. The allies use the cover created by the smoke and explosions to advance through no-mans land with the element of surprise. This allowed it so that the enemy would have a difficult time discerning where the enemy were attacking from. This form of tactical manouvering is known as a 'creeping barrage'. The allies would time artillery bombardment at certain angles and simultaneously the soldiers would 'creep in'.
+
+Tanks were first introduced in the battle of the Somme 1916, but were largely inneffective as they were slow (only reaching speeds of 4 mph), many tactics were
+
+not developed for them as the British thought of not much use for them. But by 1917 and 1918, tanks were being deployed in large rows of 200-300 tanks which would cross over no-mans land and destroy the barbed wire defences. In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower. These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.",12,,,,
+aqa_history,3.0,hs_analyse,5001,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
+  description: 
+    - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 8
+    minimum: 7
+  criteria:
+    - Extends Level 3
+  progression:
+    - Students may progress from a developed narrative of causation/consequence with complex sequencing and reasoning supported by a range of accurate and detailed factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at different stages and/or showing understanding about how much each part of the sequence increased tension and led to a crisis.
+  example_answer: 
+    - 'the success of the Schlieffen Plan depended on the speed of its execution but the Germans failed to defeat France within the planned timescale of 6 weeks. The Germans underestimated the resolve and reaction times of its enemies. However, whilst the Germans were not successful in their primary objective, neither were they entirely defeated. When both sides sought to protect the territory gained by digging trenches, stalemate resulted.'
+
+Level_3:
+  description: 
+    - Developed analysis of causation/consequence
+    - Answer is presented in a structured and well-ordered narrative/account that demonstrates a range of accurate knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 6
+    minimum: 5
+  criteria:
+    - Extends level 2
+  progression:
+    - Students may progress from a simple narrative of causation/consequence with developed sequencing and reasoning supported by a range of accurate factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at one stage in the process.
+  example_answer: 
+    - 'the German advance on Paris was weakened by the need to send troops east as Russia had mobilised more quickly than expected. The failure of the Schlieffen Plan led to a stalemate in the fighting on the Western Front because after the Battle of the Marne, both sides dug a line of trenches that stretched across France.'
+
+Level_2:
+  description: 
+    - Simple analysis of causation/consequence
+    - Answer is presented in a structured account that demonstrates specific knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Students may progress from a basic narrative of causation/consequence by showing a simple understanding of sequencing, supporting it with factual knowledge and understanding.
+  example_answer: 
+    - 'the German advance through Belgium was slowed down by fighting Belgian and British troops. The French were able to push back the German front line but both sides needed to build trenches to protect themselves.'
+
+Level_1:
+  description: 
+    - Basic analysis of causation/consequence
+    - Answer is presented as general statements which demonstrates basic knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Students identify cause(s)/consequence(s) about the events such as the Schlieffen Plan did not happen as quickly as planned and so the German army had to dig trenches.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria: []
+  progression: []
+  example_answer: []",,"The Schlieffen plan was heavily reliant on Russia taking a long time to mobilize and a very quick and decisive win against France (in 40 days). The plan was to have a large bulk of the German army invade France by cutting into Belgium, the Netherlands and Luxembourg to surprise the French, who would be anticipating an attack directly into France on the boarder between them. However, the Schlieffen plan failed as Russia only took 10 days to mobilize (faster than expected) and Belgium put up a fierce and resistance fight against the Germans (much more resistance than Germany had anticipated). Ultimately, invading through Belgium only helped the stalemate last longer as Britain was forced to join the war effort as invading Belgium initiated an 1843 treaty of London where Britain vowed to protect Belgium. This prolonged the war significantly, turning 40 days into 4 years.
+",8,,,,
+aqa_history,4.1,hs_judgement,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
+    - Answer demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+    - Answer demonstrates a complex, sustained line of reasoning which has a sharply-focused coherence and logical structure that is fully substantiated, with well-judged relevance.
+    - Extends Level 3.
+  marks_awarded:
+    maximum: 16
+    minimum: 12
+  criteria:
+    - Complex explanation of stated factor and other factor(s)
+    - Accurate and detailed knowledge and understanding
+    - Complex, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a developed explanation of causation by complex explanation of the relationship between causes supported by detailed factual knowledge and understanding to form a sustained judgement.
+  example_answer:
+    - ‘the Alliance system was one of the long term causes of the war in the wider context of European rivalry over empires. It did not in itself make war inevitable, but it created a framework for conflict. This was triggered in the short-term by the Austrian ultimatum to Serbia in 1914.’
+
+Level_3:
+  description: 
+    - Developed explanation of the stated factor and other factor(s)
+    - Answer demonstrates a range of accurate knowledge and understanding that is relevant to the question
+    - Answer demonstrates a developed, sustained line of reasoning which has coherence and logical structure; it is well substantiated, and with sustained, explicit relevance.
+    - Extends level 2 
+    - Answer may suggest that one reason has greater merit.
+  marks_awarded:
+    maximum: 12
+    minimum: 9
+  criteria:
+    - Developed explanation of the stated factor and other factor(s)
+    - Accurate knowledge and understanding
+    - Developed, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a simple explanation of causation with developed reasoning supported by factual knowledge and understanding.
+  example_answer:
+    - “explaining the motives and rivalries that led to the Triple Alliance and the Triple Entente. This system resulted in Europe being divided into opposing armed camps and resulted in Germany worrying about ‘encirclement’.”
+
+Level_2:
+  description: 
+    - Simple explanation of stated factor or other factor(s)
+    - Answer demonstrates specific knowledge and understanding that is relevant to the question
+    - Answer demonstrates a simple, sustained line of reasoning which is coherent, structured, substantiated and explicitly relevant.
+    - Answers arguing a preference for one judgement but with only basic explanation of another view will be marked at this level.
+  marks_awarded:
+    maximum: 8
+    minimum: 5
+  criteria:
+    - Simple explanation of stated factor or other factor(s)
+    - Specific knowledge and understanding
+    - Simple, sustained line of reasoning with coherence and structure
+  progression:
+    - Students may progress from a basic explanation of causation by simple reasoning and supporting it with factual knowledge and understanding.
+  example_answer:
+    - ‘the main reason a war broke out was the rivalry that had been developing between Britain and Germany over the size of their empires and their armed forces. Both countries felt threatened by the development of the other and wanted an opportunity to show their superiority by winning a war.’
+
+Level_1:
+  description: 
+    - Basic explanation of one or more factors
+    - Answer demonstrates basic knowledge and understanding that is relevant to the question
+    - Answer demonstrates a basic line of reasoning, which is coherent, structured with some substantiation; the relevance might be implicit.
+  marks_awarded:
+    maximum: 4
+    minimum: 1
+  criteria:
+    - Basic explanation of one or more factors
+    - Basic knowledge and understanding
+    - Basic line of reasoning with coherence and structure
+  progression:
+    - Students recognise and provide a basic explanation of one or more factors.
+  example_answer:
+    - Students may offer a basic explanation of the stated factor, such as, the Alliance system brought all the European powers into a war together. They had promised to support each other if a war broke out.
+    - Students may offer basic explanations of other factor(s), for example, the assassination of Archduke Franz Ferdinand caused Austria to declare war and this became a World War.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - No evidence or fail to address the question
+  progression:
+    - N/A
+  example_answer:
+    - N/A",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
+
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",16,,,,
+aqa_history,4.2,hs_spag,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - High Performance
+  marks_awarded:
+    maximum: 4
+    minimum: 4
+  criteria:
+    - Learners spell and punctuate with consistent accuracy
+    - Learners use rules of grammar with effective control of meaning overall
+    - Learners use a wide range of specialist terms as appropriate
+  progression:
+    - This level demonstrates advanced proficiency in spelling, punctuation, and grammar, showcasing a high degree of control and accuracy in written communication.
+  example_answer: 
+    - Learners spell and punctuate with consistent accuracy. Learners use rules of grammar with effective control of meaning overall. Learners use a wide range of specialist terms as appropriate.
+
+Level_3:
+  description: 
+    - Intermediate Performance
+  marks_awarded:
+    maximum: 3
+    minimum: 2
+  criteria:
+    - Learners spell and punctuate with considerable accuracy
+    - Learners use rules of grammar with general control of meaning overall
+    - Learners use a good range of specialist terms as appropriate
+  progression:
+    - This level indicates solid control and accuracy in spelling, punctuation, and grammar, with minor errors that do not detract from overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with considerable accuracy. Learners use rules of grammar with general control of meaning overall. Learners use a good range of specialist terms as appropriate.
+
+Level_2:
+  description: 
+    - Threshold Performance
+  marks_awarded:
+    maximum: 1
+    minimum: 1
+  criteria:
+    - Learners spell and punctuate with reasonable accuracy
+    - Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall
+    - Learners use a limited range of specialist terms as appropriate
+  progression:
+    - This level shows basic competency in spelling, punctuation, and grammar, with errors present but not significantly impacting the overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with reasonable accuracy. Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall. Learners use a limited range of specialist terms as appropriate.
+
+Level_1:
+  description: 
+    - No marks awarded
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - The learner writes nothing
+    - The learner’s response does not relate to the question
+    - The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning
+  progression:
+    - To progress from this level, learners need to focus on improving their basic spelling, punctuation, and grammar skills to meet the minimum threshold of accuracy and coherence.
+  example_answer: 
+    - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
+
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",4,,,,
+aqa_history,1.0,hs_explain,5002,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
+  description: 
+    - Developed analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Developed analysis of source based on content and/or provenance
+  progression:
+    - Students may progress from a simple analysis of the source with extended reasoning supported by factual knowledge and understanding related to the features of the source.
+  example_answer: 
+    - 'The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.'
+
+Level_1:
+  description: 
+    - Simple analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Simple analysis of source based on content and/or provenance
+  progression:
+    - Students identify relevant features in the source and support them with simple factual knowledge and understanding.
+  example_answer: 
+    - 'the Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.'
+
+Level_0:
+  description: 
+    - Response does not address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
+the doorway is the German Kaiser.","In Source A it shows that the russian people and the bolshevik. And the 
+German kaiser. It looks as if the Kaiser wants the bolsheviks 
+to steal or steal back the german gold. This was also
+Set in the first word war. (During WW1). The lady
+which is labeled russia seems like she cannot do
+anything about the bolskveiks trying to steal the gold. They
+have put 'BETRAYED' this is because Bosnia had asked
+russia for help whilst having war threats. So they 
+asked russia for help and it shows now that they are stealing
+money for the germans in WWI and they are taking it from the russians. ",4,,,,
+aqa_history,2.0,hs_explain,5002,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
+  description: 
+    - Complex evaluation of both sources with sustained judgment based on content and provenance
+  marks_awarded:
+    maximum: 12
+    minimum: 10
+  criteria:
+    - Students may progress from a developed evaluation of the sources by complex reasoning related to utility on the basis of content and provenance.
+    - They may evaluate the relationship between the sources based on analysis of provenance and contextual knowledge.
+  progression:
+    - Students may progress to this level through complex reasoning related to utility on the basis of content and provenance.
+  example_answer: 
+    - 'The sources show that military technology and tactics had to change over time in response to the difficulty of succeeding in trench warfare and breaking the stalemate on the Western Front. The date of Source B in particular shows an historian that in contrast to the earlier years of the war the public was given a much more realistic picture of battlefield tactics.'
+
+Level_3:
+  description: 
+    - Developed evaluation of sources based on the content and/or provenance
+  marks_awarded:
+    maximum: 9
+    minimum: 7
+  criteria:
+    - Students may progress from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  progression:
+    - Students may progress to this level from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it illustrates the development of new infantry tactics in the course of the First World War; ‘over the top’ attrition assaults on the enemy trenches were replaced with ‘creeping barrage’ which was the practice of providing sustained artillery cover to protect the advancing troops.
+      Source C is useful because the author is an experienced soldier. His account gives an accurate picture of the threat posed by Germany’s successful advance in the Spring Offensive using storm troopers. The new design of British tank was one of the ways in which this threat was countered.'
+
+Level_2:
+  description: 
+    - Simple evaluation of source(s) based on content and/or provenance
+  marks_awarded:
+    maximum: 6
+    minimum: 4
+  criteria:
+    - Students may progress from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  progression:
+    - Students may progress to this level from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it was printed in the later years of the war and shows how the new technology of aircraft was being used as part of the attack on the enemy.
+      Source C is useful because it is a first-hand account of how the design of tanks developed during the war.'
+
+Level_1:
+  description: 
+    - Basic analysis of sources(s)
+  marks_awarded:
+    maximum: 3
+    minimum: 1
+  criteria:
+    - Answers may show understanding/support for one or both sources, but the case is made by assertion/basic inference.
+    - Students identify basic features which are valid about the sources and related to the enquiry point, for example, Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.
+  progression:
+    - Students may progress to this level by identifying basic features which are valid about the sources and related to the enquiry point.
+  example_answer: 
+    - 'Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.'
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - None
+  progression:
+    - None
+  example_answer: 
+    - None","Source B A picture published in a British newspaper in October 1917. It shows readers
+how British soldiers advance under an artillery barrage.
+
+Source C: Adapted from the book ‘Tank Warfare: the Story of the Tank in the Great War’ by
+Frank Mitchell, published after the war.
+Mitchell was a tank commander in the First World War and describes part of a
+tank battle which took place during the German Spring Offensive in
+April 1918. Mitchell was awarded a medal for bravery in this battle.
+
+```
+We were stuck and German soldiers were preparing to attack my tank. But
+then on my right I saw seven of our newest and fastest tanks, ‘Whippets’,
+racing into action.
+Firing their machine guns, they drove straight into the German soldiers, and
+scattered them in all directions. They quickly destroyed the German threat.
+```","In source B it shows the British Soilders advancing under an artillery barrage. The british Soilder were running in waves all in different waves. this is because they cannot be in any artillery barage. you can see that all the soilders are running and still alive and not getting under an artillery barage. Each wave protects you from a plane and from bombs dropping on you.
+
+In Source C it Shows that the german Soilder were preparing an attack on the british tank, but then 7 of the newest and fastest tanks named whippets came and drove straight into the german Soilders and scattered them in all directions, which this had destroyed the German threat. This helps the students studying military technology understand about how fast and powerful the Whippet was. In source B shows how useful and how good the strategy was used by the british soldiers were they could run across the battlefield without dying this helps the student studying Military technology.
+
+",12,,,,
+aqa_history,3.0,hs_analyse,5002,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
+  description: 
+    - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 8
+    minimum: 7
+  criteria:
+    - Extends Level 3
+  progression:
+    - Students may progress from a developed narrative of causation/consequence with complex sequencing and reasoning supported by a range of accurate and detailed factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at different stages and/or showing understanding about how much each part of the sequence increased tension and led to a crisis.
+  example_answer: 
+    - 'the success of the Schlieffen Plan depended on the speed of its execution but the Germans failed to defeat France within the planned timescale of 6 weeks. The Germans underestimated the resolve and reaction times of its enemies. However, whilst the Germans were not successful in their primary objective, neither were they entirely defeated. When both sides sought to protect the territory gained by digging trenches, stalemate resulted.'
+
+Level_3:
+  description: 
+    - Developed analysis of causation/consequence
+    - Answer is presented in a structured and well-ordered narrative/account that demonstrates a range of accurate knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 6
+    minimum: 5
+  criteria:
+    - Extends level 2
+  progression:
+    - Students may progress from a simple narrative of causation/consequence with developed sequencing and reasoning supported by a range of accurate factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at one stage in the process.
+  example_answer: 
+    - 'the German advance on Paris was weakened by the need to send troops east as Russia had mobilised more quickly than expected. The failure of the Schlieffen Plan led to a stalemate in the fighting on the Western Front because after the Battle of the Marne, both sides dug a line of trenches that stretched across France.'
+
+Level_2:
+  description: 
+    - Simple analysis of causation/consequence
+    - Answer is presented in a structured account that demonstrates specific knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Students may progress from a basic narrative of causation/consequence by showing a simple understanding of sequencing, supporting it with factual knowledge and understanding.
+  example_answer: 
+    - 'the German advance through Belgium was slowed down by fighting Belgian and British troops. The French were able to push back the German front line but both sides needed to build trenches to protect themselves.'
+
+Level_1:
+  description: 
+    - Basic analysis of causation/consequence
+    - Answer is presented as general statements which demonstrates basic knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Students identify cause(s)/consequence(s) about the events such as the Schlieffen Plan did not happen as quickly as planned and so the German army had to dig trenches.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria: []
+  progression: []
+  example_answer: []",,,8,,,,
+aqa_history,4.1,hs_judgement,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
+    - Answer demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+    - Answer demonstrates a complex, sustained line of reasoning which has a sharply-focused coherence and logical structure that is fully substantiated, with well-judged relevance.
+    - Extends Level 3.
+  marks_awarded:
+    maximum: 16
+    minimum: 12
+  criteria:
+    - Complex explanation of stated factor and other factor(s)
+    - Accurate and detailed knowledge and understanding
+    - Complex, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a developed explanation of causation by complex explanation of the relationship between causes supported by detailed factual knowledge and understanding to form a sustained judgement.
+  example_answer:
+    - ‘the Alliance system was one of the long term causes of the war in the wider context of European rivalry over empires. It did not in itself make war inevitable, but it created a framework for conflict. This was triggered in the short-term by the Austrian ultimatum to Serbia in 1914.’
+
+Level_3:
+  description: 
+    - Developed explanation of the stated factor and other factor(s)
+    - Answer demonstrates a range of accurate knowledge and understanding that is relevant to the question
+    - Answer demonstrates a developed, sustained line of reasoning which has coherence and logical structure; it is well substantiated, and with sustained, explicit relevance.
+    - Extends level 2 
+    - Answer may suggest that one reason has greater merit.
+  marks_awarded:
+    maximum: 12
+    minimum: 9
+  criteria:
+    - Developed explanation of the stated factor and other factor(s)
+    - Accurate knowledge and understanding
+    - Developed, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a simple explanation of causation with developed reasoning supported by factual knowledge and understanding.
+  example_answer:
+    - “explaining the motives and rivalries that led to the Triple Alliance and the Triple Entente. This system resulted in Europe being divided into opposing armed camps and resulted in Germany worrying about ‘encirclement’.”
+
+Level_2:
+  description: 
+    - Simple explanation of stated factor or other factor(s)
+    - Answer demonstrates specific knowledge and understanding that is relevant to the question
+    - Answer demonstrates a simple, sustained line of reasoning which is coherent, structured, substantiated and explicitly relevant.
+    - Answers arguing a preference for one judgement but with only basic explanation of another view will be marked at this level.
+  marks_awarded:
+    maximum: 8
+    minimum: 5
+  criteria:
+    - Simple explanation of stated factor or other factor(s)
+    - Specific knowledge and understanding
+    - Simple, sustained line of reasoning with coherence and structure
+  progression:
+    - Students may progress from a basic explanation of causation by simple reasoning and supporting it with factual knowledge and understanding.
+  example_answer:
+    - ‘the main reason a war broke out was the rivalry that had been developing between Britain and Germany over the size of their empires and their armed forces. Both countries felt threatened by the development of the other and wanted an opportunity to show their superiority by winning a war.’
+
+Level_1:
+  description: 
+    - Basic explanation of one or more factors
+    - Answer demonstrates basic knowledge and understanding that is relevant to the question
+    - Answer demonstrates a basic line of reasoning, which is coherent, structured with some substantiation; the relevance might be implicit.
+  marks_awarded:
+    maximum: 4
+    minimum: 1
+  criteria:
+    - Basic explanation of one or more factors
+    - Basic knowledge and understanding
+    - Basic line of reasoning with coherence and structure
+  progression:
+    - Students recognise and provide a basic explanation of one or more factors.
+  example_answer:
+    - Students may offer a basic explanation of the stated factor, such as, the Alliance system brought all the European powers into a war together. They had promised to support each other if a war broke out.
+    - Students may offer basic explanations of other factor(s), for example, the assassination of Archduke Franz Ferdinand caused Austria to declare war and this became a World War.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - No evidence or fail to address the question
+  progression:
+    - N/A
+  example_answer:
+    - N/A",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
+
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",16,,,,
+aqa_history,4.2,hs_spag,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - High Performance
+  marks_awarded:
+    maximum: 4
+    minimum: 4
+  criteria:
+    - Learners spell and punctuate with consistent accuracy
+    - Learners use rules of grammar with effective control of meaning overall
+    - Learners use a wide range of specialist terms as appropriate
+  progression:
+    - This level demonstrates advanced proficiency in spelling, punctuation, and grammar, showcasing a high degree of control and accuracy in written communication.
+  example_answer: 
+    - Learners spell and punctuate with consistent accuracy. Learners use rules of grammar with effective control of meaning overall. Learners use a wide range of specialist terms as appropriate.
+
+Level_3:
+  description: 
+    - Intermediate Performance
+  marks_awarded:
+    maximum: 3
+    minimum: 2
+  criteria:
+    - Learners spell and punctuate with considerable accuracy
+    - Learners use rules of grammar with general control of meaning overall
+    - Learners use a good range of specialist terms as appropriate
+  progression:
+    - This level indicates solid control and accuracy in spelling, punctuation, and grammar, with minor errors that do not detract from overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with considerable accuracy. Learners use rules of grammar with general control of meaning overall. Learners use a good range of specialist terms as appropriate.
+
+Level_2:
+  description: 
+    - Threshold Performance
+  marks_awarded:
+    maximum: 1
+    minimum: 1
+  criteria:
+    - Learners spell and punctuate with reasonable accuracy
+    - Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall
+    - Learners use a limited range of specialist terms as appropriate
+  progression:
+    - This level shows basic competency in spelling, punctuation, and grammar, with errors present but not significantly impacting the overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with reasonable accuracy. Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall. Learners use a limited range of specialist terms as appropriate.
+
+Level_1:
+  description: 
+    - No marks awarded
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - The learner writes nothing
+    - The learner’s response does not relate to the question
+    - The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning
+  progression:
+    - To progress from this level, learners need to focus on improving their basic spelling, punctuation, and grammar skills to meet the minimum threshold of accuracy and coherence.
+  example_answer: 
+    - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
+
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",4,,,,
+aqa_history,1.0,hs_explain,5091,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
+  description: 
+    - Developed analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Developed analysis of source based on content and/or provenance
+  progression:
+    - Students may progress from a simple analysis of the source with extended reasoning supported by factual knowledge and understanding related to the features of the source.
+  example_answer: 
+    - 'The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.'
+
+Level_1:
+  description: 
+    - Simple analysis of source based on content and/or provenance
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Simple analysis of source based on content and/or provenance
+  progression:
+    - Students identify relevant features in the source and support them with simple factual knowledge and understanding.
+  example_answer: 
+    - 'the Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.'
+
+Level_0:
+  description: 
+    - Response does not address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
+the doorway is the German Kaiser.","Source A shows a bearded man tussling with a young woman and stealing her wealth. This has been used to show the actions of the Bolsheviks in December 1917 and how, encouraged by the kaiser in the doorway, they stole wealth from there own country, and gave it to the Germans. We know in late 1917 Russia signed the Treaty of Brest-Litovsk and lost lots of its land and resources in return for a cease fire in the Eastern Front. The British created the cartoon to show how the Triple Entente had been betrayed by russia and to criticise there actions; Russian withdrawl from the War meant war was only now fought from one front.",4,,,,
+aqa_history,2.0,hs_explain,5091,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
+  description: 
+    - Complex evaluation of both sources with sustained judgment based on content and provenance
+  marks_awarded:
+    maximum: 12
+    minimum: 10
+  criteria:
+    - Students may progress from a developed evaluation of the sources by complex reasoning related to utility on the basis of content and provenance.
+    - They may evaluate the relationship between the sources based on analysis of provenance and contextual knowledge.
+  progression:
+    - Students may progress to this level through complex reasoning related to utility on the basis of content and provenance.
+  example_answer: 
+    - 'The sources show that military technology and tactics had to change over time in response to the difficulty of succeeding in trench warfare and breaking the stalemate on the Western Front. The date of Source B in particular shows an historian that in contrast to the earlier years of the war the public was given a much more realistic picture of battlefield tactics.'
+
+Level_3:
+  description: 
+    - Developed evaluation of sources based on the content and/or provenance
+  marks_awarded:
+    maximum: 9
+    minimum: 7
+  criteria:
+    - Students may progress from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  progression:
+    - Students may progress to this level from a simple evaluation of the sources with extended reasoning related to utility on the basis of content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it illustrates the development of new infantry tactics in the course of the First World War; ‘over the top’ attrition assaults on the enemy trenches were replaced with ‘creeping barrage’ which was the practice of providing sustained artillery cover to protect the advancing troops.
+      Source C is useful because the author is an experienced soldier. His account gives an accurate picture of the threat posed by Germany’s successful advance in the Spring Offensive using storm troopers. The new design of British tank was one of the ways in which this threat was countered.'
+
+Level_2:
+  description: 
+    - Simple evaluation of source(s) based on content and/or provenance
+  marks_awarded:
+    maximum: 6
+    minimum: 4
+  criteria:
+    - Students may progress from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  progression:
+    - Students may progress to this level from a basic analysis of the source(s) to simple evaluation of the content and/or provenance.
+  example_answer: 
+    - 'Source B is useful because it was printed in the later years of the war and shows how the new technology of aircraft was being used as part of the attack on the enemy.
+      Source C is useful because it is a first-hand account of how the design of tanks developed during the war.'
+
+Level_1:
+  description: 
+    - Basic analysis of sources(s)
+  marks_awarded:
+    maximum: 3
+    minimum: 1
+  criteria:
+    - Answers may show understanding/support for one or both sources, but the case is made by assertion/basic inference.
+    - Students identify basic features which are valid about the sources and related to the enquiry point, for example, Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.
+  progression:
+    - Students may progress to this level by identifying basic features which are valid about the sources and related to the enquiry point.
+  example_answer: 
+    - 'Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.'
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - None
+  progression:
+    - None
+  example_answer: 
+    - None","Source B A picture published in a British newspaper in October 1917. It shows readers
+how British soldiers advance under an artillery barrage.
+
+Source C: Adapted from the book ‘Tank Warfare: the Story of the Tank in the Great War’ by
+Frank Mitchell, published after the war.
+Mitchell was a tank commander in the First World War and describes part of a
+tank battle which took place during the German Spring Offensive in
+April 1918. Mitchell was awarded a medal for bravery in this battle.
+
+```
+We were stuck and German soldiers were preparing to attack my tank. But
+then on my right I saw seven of our newest and fastest tanks, ‘Whippets’,
+racing into action.
+Firing their machine guns, they drove straight into the German soldiers, and
+scattered them in all directions. They quickly destroyed the German threat.
+```","Source B shows a depiction of the Western Front with two types of new technology and tactics being shown. The Creeping barrage (presented in 1915) was when shells were fired in front of the advancing foot soldiers to hide them from enemy vision. This meant a decrease in loss of lives and allowed more prepared assaults rather than men going over the top and getting shot in their thousands. One of the reasons this was perfected in 1918 was the better use of communication. Radio being used more frequently helped communiction between aerial support, the troops and the artillery gunners. This minimised the chance of friendly deaths from friendly fire showing Source B is a very useful piece of evidence to show the impact and versatility of technology and tactic in the the First World War. 
+
+Source C is a account of a tank commander who fought against the Germans in the Spring offensive. Tanks were first used in the Battle of the Somme and were unreliable and used sparingly. however as the war went on they were produced in vast numbers and used in groups. they could decimate trenches and cause great havoc. though the Germans did make some, the Allies used them in wide-scale front and they were pivotal to the end of the stalemate. Source C 
+describes how the army constantly made new prototypes 
+as the tanks so they could be faster and cause 
+more casualties. This meant there was less hand to 
+hand fighting because of the tanks physiological and 
+devastating effects they had on the enemy. Source C 
+is useful to a historian because it has personal 
+story from someone actually experiencing the power 
+of tanks, showing how the threat they brought. ",12,,,,
+aqa_history,3.0,hs_analyse,5091,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
+  description: 
+    - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 8
+    minimum: 7
+  criteria:
+    - Extends Level 3
+  progression:
+    - Students may progress from a developed narrative of causation/consequence with complex sequencing and reasoning supported by a range of accurate and detailed factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at different stages and/or showing understanding about how much each part of the sequence increased tension and led to a crisis.
+  example_answer: 
+    - 'the success of the Schlieffen Plan depended on the speed of its execution but the Germans failed to defeat France within the planned timescale of 6 weeks. The Germans underestimated the resolve and reaction times of its enemies. However, whilst the Germans were not successful in their primary objective, neither were they entirely defeated. When both sides sought to protect the territory gained by digging trenches, stalemate resulted.'
+
+Level_3:
+  description: 
+    - Developed analysis of causation/consequence
+    - Answer is presented in a structured and well-ordered narrative/account that demonstrates a range of accurate knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 6
+    minimum: 5
+  criteria:
+    - Extends level 2
+  progression:
+    - Students may progress from a simple narrative of causation/consequence with developed sequencing and reasoning supported by a range of accurate factual knowledge and understanding which might be related, for example, to an analysis of how/why tension increased at one stage in the process.
+  example_answer: 
+    - 'the German advance on Paris was weakened by the need to send troops east as Russia had mobilised more quickly than expected. The failure of the Schlieffen Plan led to a stalemate in the fighting on the Western Front because after the Battle of the Marne, both sides dug a line of trenches that stretched across France.'
+
+Level_2:
+  description: 
+    - Simple analysis of causation/consequence
+    - Answer is presented in a structured account that demonstrates specific knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 4
+    minimum: 3
+  criteria:
+    - Students may progress from a basic narrative of causation/consequence by showing a simple understanding of sequencing, supporting it with factual knowledge and understanding.
+  example_answer: 
+    - 'the German advance through Belgium was slowed down by fighting Belgian and British troops. The French were able to push back the German front line but both sides needed to build trenches to protect themselves.'
+
+Level_1:
+  description: 
+    - Basic analysis of causation/consequence
+    - Answer is presented as general statements which demonstrates basic knowledge and understanding that is relevant to the question
+  marks_awarded:
+    maximum: 2
+    minimum: 1
+  criteria:
+    - Students identify cause(s)/consequence(s) about the events such as the Schlieffen Plan did not happen as quickly as planned and so the German army had to dig trenches.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria: []
+  progression: []
+  example_answer: []",,"The Schlieffen plan already had some problems to it, even before it was put into practise. For example it relied on the slow mobilisation of Russia. As the Germans would find out, the Russian army mobilised in just 10 days and had already consigned plans to attack in the East. This meant the Germans would have to fight a war on two fronts, exactly what was trying to be avoided. Furthermore after the death of Alfred Von Schlieffen in 1913, the next general made the army smaller for the assault on France, and also missed Holland from the plan entirely. This meant the Germans would have a weaker force in battle, additioning to them having to divide there army in half to fight in two fronts.
+
+The German plan also relied on Belgium’s invasion which they thought would be quick and easy. However, the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement. This gave France and Russia time to communicate and mobilise. Furthermore the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty. Therefore when they invaded Belgium and entered through France, The BEF was sent out to stop the Germany army. to May 1914 France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan.",8,,,,
+aqa_history,4.1,hs_judgement,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
+    - Answer demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
+    - Answer demonstrates a complex, sustained line of reasoning which has a sharply-focused coherence and logical structure that is fully substantiated, with well-judged relevance.
+    - Extends Level 3.
+  marks_awarded:
+    maximum: 16
+    minimum: 12
+  criteria:
+    - Complex explanation of stated factor and other factor(s)
+    - Accurate and detailed knowledge and understanding
+    - Complex, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a developed explanation of causation by complex explanation of the relationship between causes supported by detailed factual knowledge and understanding to form a sustained judgement.
+  example_answer:
+    - ‘the Alliance system was one of the long term causes of the war in the wider context of European rivalry over empires. It did not in itself make war inevitable, but it created a framework for conflict. This was triggered in the short-term by the Austrian ultimatum to Serbia in 1914.’
+
+Level_3:
+  description: 
+    - Developed explanation of the stated factor and other factor(s)
+    - Answer demonstrates a range of accurate knowledge and understanding that is relevant to the question
+    - Answer demonstrates a developed, sustained line of reasoning which has coherence and logical structure; it is well substantiated, and with sustained, explicit relevance.
+    - Extends level 2 
+    - Answer may suggest that one reason has greater merit.
+  marks_awarded:
+    maximum: 12
+    minimum: 9
+  criteria:
+    - Developed explanation of the stated factor and other factor(s)
+    - Accurate knowledge and understanding
+    - Developed, sustained line of reasoning with coherence and logical structure
+  progression:
+    - Students may progress from a simple explanation of causation with developed reasoning supported by factual knowledge and understanding.
+  example_answer:
+    - “explaining the motives and rivalries that led to the Triple Alliance and the Triple Entente. This system resulted in Europe being divided into opposing armed camps and resulted in Germany worrying about ‘encirclement’.”
+
+Level_2:
+  description: 
+    - Simple explanation of stated factor or other factor(s)
+    - Answer demonstrates specific knowledge and understanding that is relevant to the question
+    - Answer demonstrates a simple, sustained line of reasoning which is coherent, structured, substantiated and explicitly relevant.
+    - Answers arguing a preference for one judgement but with only basic explanation of another view will be marked at this level.
+  marks_awarded:
+    maximum: 8
+    minimum: 5
+  criteria:
+    - Simple explanation of stated factor or other factor(s)
+    - Specific knowledge and understanding
+    - Simple, sustained line of reasoning with coherence and structure
+  progression:
+    - Students may progress from a basic explanation of causation by simple reasoning and supporting it with factual knowledge and understanding.
+  example_answer:
+    - ‘the main reason a war broke out was the rivalry that had been developing between Britain and Germany over the size of their empires and their armed forces. Both countries felt threatened by the development of the other and wanted an opportunity to show their superiority by winning a war.’
+
+Level_1:
+  description: 
+    - Basic explanation of one or more factors
+    - Answer demonstrates basic knowledge and understanding that is relevant to the question
+    - Answer demonstrates a basic line of reasoning, which is coherent, structured with some substantiation; the relevance might be implicit.
+  marks_awarded:
+    maximum: 4
+    minimum: 1
+  criteria:
+    - Basic explanation of one or more factors
+    - Basic knowledge and understanding
+    - Basic line of reasoning with coherence and structure
+  progression:
+    - Students recognise and provide a basic explanation of one or more factors.
+  example_answer:
+    - Students may offer a basic explanation of the stated factor, such as, the Alliance system brought all the European powers into a war together. They had promised to support each other if a war broke out.
+    - Students may offer basic explanations of other factor(s), for example, the assassination of Archduke Franz Ferdinand caused Austria to declare war and this became a World War.
+
+Level_0:
+  description: 
+    - Students either submit no evidence or fail to address the question
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - No evidence or fail to address the question
+  progression:
+    - N/A
+  example_answer:
+    - N/A",,"In Some ways the Alliance System was a major factor to outbreak of War because it gave Germany an excuse to declare it. When Britian Russia and France signed the Triple Entente in retaliation of the Triple Alliance Germany used it to complain that they were being circled in. The Triple entente was used to make Germany back down but could of been a factor for war. Once the two sides were created it was clear War was imminent but Germany and its allies were keen for war then in contrast France and Russia and Britain made a pact us Allience to detterent Germany.
+
+However the assasination os archduke Franz Ferdinand by Serbia's black hand Gang also was a jumpstart to war. After the Assassin Austria-Hungery blamed Serbia and had intellignce the Black hand Gang was helped by the Serb government this gave the kaiser a motivation for war due to it alliance with Austria - Hungery. The Austrian government gave Serbia a 10 point deal which they agreed to all but one (letting Austrian soldiers into Serbia). Within a
+
+days War was declared. Russia was dragged in due to its alliance with Serbia and the Germans started there Schlieffen plan in the West turning the Balkans war to a world war.
+
+Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
+France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
+when Franz Ferdinand was killed, Germany declared War.",16,,,,
+aqa_history,4.2,hs_spag,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
+  description: 
+    - High Performance
+  marks_awarded:
+    maximum: 4
+    minimum: 4
+  criteria:
+    - Learners spell and punctuate with consistent accuracy
+    - Learners use rules of grammar with effective control of meaning overall
+    - Learners use a wide range of specialist terms as appropriate
+  progression:
+    - This level demonstrates advanced proficiency in spelling, punctuation, and grammar, showcasing a high degree of control and accuracy in written communication.
+  example_answer: 
+    - Learners spell and punctuate with consistent accuracy. Learners use rules of grammar with effective control of meaning overall. Learners use a wide range of specialist terms as appropriate.
+
+Level_3:
+  description: 
+    - Intermediate Performance
+  marks_awarded:
+    maximum: 3
+    minimum: 2
+  criteria:
+    - Learners spell and punctuate with considerable accuracy
+    - Learners use rules of grammar with general control of meaning overall
+    - Learners use a good range of specialist terms as appropriate
+  progression:
+    - This level indicates solid control and accuracy in spelling, punctuation, and grammar, with minor errors that do not detract from overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with considerable accuracy. Learners use rules of grammar with general control of meaning overall. Learners use a good range of specialist terms as appropriate.
+
+Level_2:
+  description: 
+    - Threshold Performance
+  marks_awarded:
+    maximum: 1
+    minimum: 1
+  criteria:
+    - Learners spell and punctuate with reasonable accuracy
+    - Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall
+    - Learners use a limited range of specialist terms as appropriate
+  progression:
+    - This level shows basic competency in spelling, punctuation, and grammar, with errors present but not significantly impacting the overall meaning.
+  example_answer: 
+    - Learners spell and punctuate with reasonable accuracy. Learners use rules of grammar with some control of meaning and any errors do not significantly hinder meaning overall. Learners use a limited range of specialist terms as appropriate.
+
+Level_1:
+  description: 
+    - No marks awarded
+  marks_awarded:
+    maximum: 0
+    minimum: 0
+  criteria:
+    - The learner writes nothing
+    - The learner’s response does not relate to the question
+    - The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning
+  progression:
+    - To progress from this level, learners need to focus on improving their basic spelling, punctuation, and grammar skills to meet the minimum threshold of accuracy and coherence.
+  example_answer: 
+    - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"In Some ways the Alliance System was a major factor to outbreak of war because it gave Germany an excuse to declare it. When Britian Russia and France signed the Triple Entente in retaliation of the Triple Alliance Germany used it to complain that they were being circled in. The Triple entente was used to make Germany back down but could of been a factor for war. Once the two sides were created it was clear War was imminent but Germany and its allies were keen for war then in contrast France and Russia and Britain made a pact us Allience to detterent Germany.
+
+However the assasination os archduke Franz Ferdinand by Serbia's black hand Gang also was a jumpstart to war. After the Assassin Austria-Hungery blamed Serbia and had intellignce the Black hand Gang was helped by the Serb government this gave the kaiser a motivation for war due to it alliance with Austria - Hungery. The Austrian government gave Serbia a 10 point deal which they agreed to all but one (letting Austrian soldiers into Serbia). Within a
+
+days War was declared. Russia was dragged in due to its alliance with Serbia and the Germans started there Schlieffen plan in the West turning the Balkans war to a world war.
+
+Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
+France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
+when Franz Ferdinand was killed, Germany declared War.
+",4,,,,
