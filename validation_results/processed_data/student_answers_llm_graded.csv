@@ -1,4 +1,4 @@
-subject_id,question_id,question_type,student_id,question_text,mark_scheme_text,context,answer_text,awarded_marks,total_marks,answer_id,linked_answer_id,topic_id,answer_scanned_image
+subject_id,question_id,question_type,student_id,question_text,mark_scheme_text,context,answer_text,awarded_marks,total_marks,answer_id,linked_answer_id,topic_id,answer_scanned_image,start_time,llm_graded_answer,llm_graded_answer_token_costing,llm_awarded_marks,llm_awarded_marks_token_costing,llm_mark_hitrate,end_time,elapsed_time_in_seconds
 aqa_history,1.0,hs_explain,5000,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -43,7 +43,66 @@ Bolsheviks to steal from Russia and
 betray them, the Kaiser stood in
 the doorway rubbing his hands
 together shows that he will get
-something out of it.",1,4,,,,
+something out of it.",1,4,,,,,1721053844.628397,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 2:**
+  - Developed analysis of source based on content and/or provenance.
+  - Marks awarded: 3-4.
+  - Criteria: Extended reasoning supported by factual knowledge and understanding related to the features of the source.
+  - Example answer: The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.
+- **Level 1:**
+  - Simple analysis of source based on content and/or provenance.
+  - Marks awarded: 1-2.
+  - Criteria: Identify relevant features in the source and support them with simple factual knowledge and understanding.
+  - Example answer: The Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.
+- **Level 0:**
+  - Response does not address the question.
+  - Marks awarded: 0.
+  - Criteria: No relevant content.
+
+#### 2. **Annotate the Answer:**
+- **Key Points Identified:**
+  - ""shows them taking German gold away from Russia.""
+  - ""the German Kaiser has sent the Bolsheviks to steal from Russia and betray them.""
+  - ""the Kaiser stood in the doorway rubbing his hands together shows that he will get something out of it.""
+
+#### 3. **Determine a Level:**
+- **Level 1 Criteria:**
+  - The answer identifies relevant features in the source: the Bolsheviks taking gold, the German Kaiser in the doorway, and the implication of betrayal.
+  - The analysis is simple and based on the content of the source.
+  - There is no extended reasoning or additional factual knowledge provided.
+
+- **Level 2 Criteria:**
+  - The answer lacks developed analysis and extended reasoning.
+  - There is no contextual knowledge or understanding related to the features of the source (e.g., the historical context of the Bolshevik Revolution, the Treaty of Brest-Litovsk, etc.).
+
+Given the above points, the answer does not meet the criteria for Level 2 but fits well within Level 1.
+
+#### 4. **Determine a Mark:**
+- **Comparison with Example Answers:**
+  - The example answer for Level 1: ""The Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.""
+  - The student's answer is similar in that it identifies relevant features and provides a simple analysis without extended reasoning or contextual knowledge.
+
+- **Best-Fit Approach:**
+  - The student's answer is more detailed than the minimum requirement for Level 1 but does not reach the complexity needed for Level 2.
+  - Therefore, it should be awarded the higher mark within Level 1.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content suggests that valid points should be credited even if not listed.
+- The student's points about the Kaiser and the Bolsheviks are valid and relevant.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question and addresses the source's criticism of the Bolsheviks.
+
+#### 7. **Review as Necessary:**
+- Re-reading the answer confirms that it fits Level 1 criteria and should be awarded 2 marks.
+
+### Final Mark:
+- **Level:** 1
+- **Mark:** 2
+
+The student's answer demonstrates a simple analysis of the source based on content, identifying relevant features and providing a basic understanding. It does not include extended reasoning or contextual knowledge, which is required for Level 2. Therefore, the answer is best placed in Level 1 and awarded 2 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 11066, 'prompt_token_cost': 0.05533, 'completion_tokens': 1462, 'completion_cost': 0.021929999999999998, 'total_cost': 0.07726}",2,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2412, 'prompt_token_cost': 0.01206, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.012074999999999999}",False,1721053884.3474472,39.71905016899109
 aqa_history,2.0,hs_explain,5000,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -145,7 +204,50 @@ shows how big of a difference tanks
 made in war as they could 
 quickly destroy through German 
 soldiers and smash through anything 
-in its path.",4,12,,,,
+in its path.",4,12,,,,,1721053886.3483598,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex evaluation of both sources with sustained judgment based on content and provenance.
+- **Level 3:** Developed evaluation of sources based on content and/or provenance.
+- **Level 2:** Simple evaluation of source(s) based on content and/or provenance.
+- **Level 1:** Basic analysis of sources(s).
+- **Level 0:** No evidence or fails to address the question.
+
+#### 2. **Annotate the Answer:**
+- **Source B:**
+  - ""British soldiers advancing under an artillery barrage.""
+  - ""This was called the creeping barrage.""
+  - ""The creeping barrage was used to destroy anything in front of the soldiers then they would all follow in clearing up the rest including the tanks going in.""
+- **Source C:**
+  - ""Shows how big of a difference tanks made in war.""
+  - ""They could quickly destroy through German soldiers and smash through anything in its path.""
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer identifies basic features of the sources and relates them to the enquiry point. For example, it mentions the creeping barrage in Source B and the effectiveness of tanks in Source C.
+- **Level 2:** The answer provides a simple evaluation of the sources based on content. It explains the concept of the creeping barrage and the impact of tanks, but lacks detailed contextual knowledge or extended reasoning.
+- **Level 3:** The answer does not reach this level as it lacks developed evaluation and extended reasoning related to utility on the basis of content and/or provenance.
+- **Level 4:** The answer does not reach this level as it lacks complex evaluation and sustained judgment.
+
+#### 4. **Determine a Mark:**
+- The answer falls into **Level 2** because it provides a simple evaluation of the sources based on content. It explains the creeping barrage and the impact of tanks but does not provide detailed contextual knowledge or extended reasoning.
+- Within Level 2, the answer is more towards the lower end because it lacks detailed contextual knowledge and does not evaluate the provenance of the sources.
+- Therefore, the answer should be awarded **4 marks**.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content suggests that a simple evaluation based on content and/or provenance is sufficient for Level 2. The answer meets this criterion but does not go beyond it.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question and addresses the usefulness of the sources in studying military technology and tactics in the First World War.
+
+#### 7. **Review as Necessary:**
+- Upon re-reading, the answer is consistent with the criteria for Level 2 and the mark of 4 is appropriate.
+
+### Final Grading
+- **Level:** 2
+- **Marks:** 4
+
+### Explanation:
+The student's answer provides a simple evaluation of the sources based on content. It explains the concept of the creeping barrage in Source B and the impact of tanks in Source C. However, it lacks detailed contextual knowledge and does not evaluate the provenance of the sources, which is necessary for higher levels. Therefore, the answer is placed in Level 2 and awarded 4 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 12444, 'prompt_token_cost': 0.06222, 'completion_tokens': 1286, 'completion_cost': 0.01929, 'total_cost': 0.08151}",4,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2274, 'prompt_token_cost': 0.01137, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011385}",True,1721053913.575148,27.22678828239441
 aqa_history,3.0,hs_analyse,5000,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -206,7 +308,45 @@ Level_0:
   example_answer: []",,"The Schlieffen plan led to problems in 1914 as
  Germany wanted to have an empire like Britain or France. 
  This led to a large increase in power and size of the army in order to invade and colonise. 
- This led to problems as Britain, France and other global powers were starting to get worried about their empires.",0,8,,,,
+ This led to problems as Britain, France and other global powers were starting to get worried about their empires.",0,8,,,,,1721053915.576915,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex analysis of causation/consequence, coherent narrative, detailed knowledge.
+- **Level 3:** Developed analysis of causation/consequence, structured narrative, accurate knowledge.
+- **Level 2:** Simple analysis of causation/consequence, structured account, specific knowledge.
+- **Level 1:** Basic analysis of causation/consequence, general statements, basic knowledge.
+- **Level 0:** No relevant analysis or submission.
+
+#### 2. **Annotate the Answer:**
+- **""The Schlieffen plan led to problems in 1914 as Germany wanted to have an empire like Britain or France.""**
+  - This statement is relevant but lacks depth and specific details about the Schlieffen Plan itself.
+- **""This led to a large increase in power and size of the army in order to invade and colonise.""**
+  - This is a general statement and does not directly address the Schlieffen Plan's execution or its immediate consequences.
+- **""This led to problems as Britain, France and other global powers were starting to get worried about their empires.""**
+  - This is a broad statement and does not provide specific details about the problems caused by the Schlieffen Plan in 1914.
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer provides basic analysis and general statements. It identifies a cause (Germany's desire for an empire) and a consequence (worry among other global powers), but it lacks specific details and depth.
+- **Level 2:** The answer does not progress to Level 2 as it does not provide a structured account or specific knowledge about the Schlieffen Plan's execution and its direct consequences in 1914.
+
+#### 4. **Determine a Mark:**
+- **Level 1:** The answer fits the criteria for Level 1 as it presents general statements and basic knowledge relevant to the question.
+- **Mark within Level 1:** Given the lack of specific details and depth, the answer should be awarded the minimum mark within Level 1.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content for higher levels includes specific details about the Schlieffen Plan's execution, such as the German advance through Belgium, the Battle of the Marne, and the resulting stalemate. The student's answer does not cover these points.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question but lacks depth and specific details.
+
+#### 7. **Review as Necessary:**
+- Re-reading the answer confirms that it fits the criteria for Level 1 and should be awarded the minimum mark within that level.
+
+### Final Mark and Justification
+- **Level:** 1
+- **Mark:** 1
+
+The student's answer provides a basic analysis with general statements about Germany's desire for an empire and the resulting concerns among other global powers. However, it lacks specific details about the Schlieffen Plan's execution and its direct consequences in 1914. Therefore, it fits the criteria for Level 1 and should be awarded 1 mark.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 7692, 'prompt_token_cost': 0.03846, 'completion_tokens': 1373, 'completion_cost': 0.020595000000000002, 'total_cost': 0.059055}",1,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2254, 'prompt_token_cost': 0.01127, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011285}",False,1721053938.4158661,22.838951110839844
 aqa_history,4.1,hs_judgement,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -299,7 +439,47 @@ However, another main cause of the First World War was the assassination of Arch
 The Alliance System also meant that each country would have to help if one was attacked by Germany, 
 this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
 they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
-In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",8,16,,,,
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",8,16,,,,,1721053940.41932,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex explanation of stated factor and other factors leading to a sustained judgement. Accurate and detailed knowledge. Complex, sustained line of reasoning with coherence and logical structure.
+- **Level 3:** Developed explanation of the stated factor and other factors. Accurate knowledge and understanding. Developed, sustained line of reasoning with coherence and logical structure.
+- **Level 2:** Simple explanation of stated factor or other factors. Specific knowledge and understanding. Simple, sustained line of reasoning with coherence and structure.
+- **Level 1:** Basic explanation of one or more factors. Basic knowledge and understanding. Basic line of reasoning with coherence and structure.
+- **Level 0:** No evidence or fail to address the question.
+
+#### 2. **Annotate the Answer:**
+- **First Paragraph:** ""I agree with this statement as I believe the pressure France, Britain and Russia were putting on Germany built made tensions high in Europe, this made Germany very wary of what it did.""
+  - **Annotation:** Mentions the pressure from France, Britain, and Russia, indicating some understanding of the Alliance System. However, the explanation is not detailed.
+- **Second Paragraph:** ""However, another main cause of the First World War was the assassination of Archduke Franz Ferdinand in Austria-Hungary, this also built tension as many people thought it was the German government behind it.""
+  - **Annotation:** Mentions the assassination of Archduke Franz Ferdinand as another cause. The explanation is brief and lacks depth.
+- **Third Paragraph:** ""The Alliance System also meant that each country would have to help if one was attacked by Germany, this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out.""
+  - **Annotation:** Explains the Alliance System and the Triple Entente. Mentions Britain and Belgium's alliance. The explanation is more detailed but still lacks depth.
+- **Conclusion:** ""In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.""
+  - **Annotation:** Reiterates the main point but does not add new information or a complex judgement.
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer goes beyond a basic explanation, as it mentions multiple factors and provides some context.
+- **Level 2:** The answer demonstrates specific knowledge and understanding relevant to the question. It provides a simple, sustained line of reasoning with coherence and structure. The explanation of the Alliance System and the assassination of Archduke Franz Ferdinand are present but not developed in detail.
+- **Level 3:** The answer lacks the developed explanation and sustained line of reasoning required for Level 3. The explanations are brief and do not provide enough depth or detail.
+
+#### 4. **Determine a Mark:**
+- **Level 2:** The answer fits well within Level 2 criteria. It provides specific knowledge and understanding and a simple, sustained line of reasoning. However, it does not reach the developed explanation required for Level 3.
+- **Mark within Level 2:** Given the answer's coherence and structure but lack of depth, it should be awarded a mark towards the higher end of Level 2. Comparing it to exemplar materials, it is of a similar standard to a mid-Level 2 answer.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content mentions the Alliance System, the assassination of Archduke Franz Ferdinand, and the involvement of multiple countries. The student's answer covers these points but lacks depth and detailed explanation.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question and addresses the main points, so it should not be awarded zero marks.
+
+#### 7. **Review as Necessary:**
+- Upon re-reading, the answer is consistent with Level 2 criteria. It provides specific knowledge and understanding but lacks the depth and developed reasoning required for higher levels.
+
+### Final Mark:
+- **Level 2:** 7 marks
+
+The answer demonstrates specific knowledge and understanding relevant to the question and provides a simple, sustained line of reasoning with coherence and structure. However, it lacks the developed explanation and depth required for Level 3. Therefore, it should be awarded 7 marks within Level 2.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 13022, 'prompt_token_cost': 0.06511, 'completion_tokens': 1613, 'completion_cost': 0.024195, 'total_cost': 0.089305}",7,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2531, 'prompt_token_cost': 0.012655, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.012669999999999999}",False,1721053976.7803452,36.36102509498596
 aqa_history,4.2,hs_spag,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -366,7 +546,28 @@ However, another main cause of the First World War was the assassination of Arch
 The Alliance System also meant that each country would have to help if one was attacked by Germany, 
 this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
 they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
-In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",3,4,,,,
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",3,4,,,,,1721053977.784906,"Based on the provided Mark Scheme, let's assess the student's answer step-by-step:
+
+### Spelling and Punctuation
+- **Spelling**: The student has generally spelled words correctly. There are a few minor errors such as ""goverment"" instead of ""government"" and ""Britains'"" instead of ""Britain's"".
+- **Punctuation**: The punctuation is mostly accurate, but there are some issues. For example, the sentence ""Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out."" could be clearer with better punctuation. Additionally, the use of commas and periods could be improved for better readability.
+
+### Grammar
+- **Grammar Control**: The student demonstrates a good grasp of grammar, but there are some areas where the control of meaning could be improved. For example, the phrase ""built made tensions high in Europe"" is awkward and should be corrected to ""built up tensions in Europe."" Another example is ""this also built tension as many people thought it was the German goverment behind it,"" which could be clearer.
+- **Overall Meaning**: Despite some grammatical errors, the overall meaning of the response is clear and understandable. The student effectively communicates their argument and supports it with relevant points.
+
+### Use of Specialist Terms
+- **Specialist Terms**: The student uses several specialist terms appropriately, such as ""Triple Entente,"" ""assassination of Archduke Franz Ferdinand,"" and ""allies."" These terms are relevant to the topic and demonstrate a good understanding of the subject matter.
+
+### Level Assessment
+- **Level 1 Criteria**: The student does not meet the criteria for Level 1 as there are some spelling and punctuation errors, and the control of grammar is not consistently accurate.
+- **Level 2 Criteria**: The student meets most of the criteria for Level 2. They spell and punctuate with considerable accuracy, use rules of grammar with general control of meaning, and employ a good range of specialist terms.
+- **Level 3 Criteria**: The student exceeds the criteria for Level 3 as their spelling and punctuation are more accurate than ""reasonable,"" and their use of specialist terms is more extensive than ""limited.""
+
+### Final Analysis
+Given the student's performance, they fall into Level 2. They demonstrate considerable accuracy in spelling and punctuation, general control of grammar, and a good range of specialist terms. While there are some errors, they do not significantly hinder the overall meaning.
+
+**Marks Awarded: 3**","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 1382, 'prompt_token_cost': 0.00691, 'completion_tokens': 990, 'completion_cost': 0.01485, 'total_cost': 0.02176}",3,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2103, 'prompt_token_cost': 0.010515, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01053}",True,1721053997.910125,20.125219106674194
 aqa_history,1.0,hs_explain,5001,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -402,7 +603,60 @@ Level_0:
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
 the doorway is the German Kaiser.","Contextually, source A displays how during the Russian resolution of 1917 which led to the bolsheviks becoming in power, the bolsheviks 'backstabbed the allies' and russia while Kaiser Wilhelm II is very eagerly watching in the background. This represents the allies frustration against russia and especially the bolsheviks as they left the war and had signed a peace treaty with Germany giving up significant portions of valueable land.
-",4,4,,,,
+",4,4,,,,,1721054000.914958,"### Step-by-Step Explanation of Grading
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 2:**
+  - Developed analysis of source based on content and/or provenance.
+  - Marks: 3-4.
+  - Criteria: Progression from simple analysis with extended reasoning supported by factual knowledge and understanding.
+  - Example Answer: ""The cartoon is British and the title refers to being betrayed by Russia who was one of their allies. The Bolshevik Revolution occurred in 1917 and Lenin made peace with Germany in 1918. This reduced the demands on the German army in the East and allowed them to concentrate all their forces against the Allies on the Western Front.""
+- **Level 1:**
+  - Simple analysis of source based on content and/or provenance.
+  - Marks: 1-2.
+  - Criteria: Identification of relevant features in the source supported by simple factual knowledge and understanding.
+  - Example Answer: ""The Bolshevik is dragging Russia towards Germany against her will; the cartoon was published in the year Russia withdrew from the First World War.""
+- **Level 0:**
+  - Response does not address the question.
+  - Marks: 0.
+  - Criteria: No relevant content.
+
+#### 2. **Annotate the Answer:**
+- **Key Points in the Answer:**
+  - ""Contextually, source A displays how during the Russian resolution of 1917 which led to the bolsheviks becoming in power...""
+  - ""...the bolsheviks 'backstabbed the allies' and russia while Kaiser Wilhelm II is very eagerly watching in the background.""
+  - ""This represents the allies frustration against russia and especially the bolsheviks as they left the war and had signed a peace treaty with Germany giving up significant portions of valueable land.""
+
+#### 3. **Determine a Level:**
+- **Level 1 Criteria:**
+  - The answer identifies relevant features in the source: ""the bolsheviks 'backstabbed the allies' and russia while Kaiser Wilhelm II is very eagerly watching in the background.""
+  - Provides simple factual knowledge: ""during the Russian resolution of 1917 which led to the bolsheviks becoming in power.""
+- **Level 2 Criteria:**
+  - The answer attempts to provide extended reasoning: ""This represents the allies frustration against russia and especially the bolsheviks as they left the war and had signed a peace treaty with Germany giving up significant portions of valueable land.""
+  - However, the factual knowledge is not fully developed or entirely accurate (e.g., ""Russian resolution"" should be ""Russian Revolution"").
+
+#### 4. **Determine a Mark:**
+- **Comparison to Exemplar Materials:**
+  - The answer shows some understanding and attempts to provide context but lacks the depth and accuracy seen in higher-level responses.
+  - The reasoning is not as extended or detailed as required for the higher end of Level 2.
+- **Best-Fit Approach:**
+  - The answer fits better in Level 1 due to its simplicity and lack of detailed factual knowledge.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content suggests that a developed analysis should include specific details about the Bolshevik Revolution, the peace treaty with Germany, and its impact on the war.
+- The student's answer touches on these points but does not develop them fully.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question and addresses the source's criticism of the Bolsheviks.
+
+#### 7. **Review as Necessary:**
+- Upon re-reading, the answer remains consistent with Level 1 criteria due to its simplicity and lack of detailed factual knowledge.
+
+### Final Decision:
+- **Level:** 1
+- **Marks:** 2
+
+The answer demonstrates a basic understanding and simple analysis of the source, identifying relevant features and providing some factual knowledge. However, it lacks the developed analysis and extended reasoning required for Level 2. Therefore, it should be awarded 2 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 11088, 'prompt_token_cost': 0.05544, 'completion_tokens': 1417, 'completion_cost': 0.021255, 'total_cost': 0.076695}",2,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2432, 'prompt_token_cost': 0.01216, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.012175}",False,1721054032.059783,31.144824981689453
 aqa_history,2.0,hs_explain,5001,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -489,7 +743,50 @@ scattered them in all directions. They quickly destroyed the German threat.
 
 Tanks were first introduced in the battle of the Somme 1916, but were largely inneffective as they were slow (only reaching speeds of 4 mph), many tactics were
 
-not developed for them as the British thought of not much use for them. But by 1917 and 1918, tanks were being deployed in large rows of 200-300 tanks which would cross over no-mans land and destroy the barbed wire defences. In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower. These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.",7,12,,,,
+not developed for them as the British thought of not much use for them. But by 1917 and 1918, tanks were being deployed in large rows of 200-300 tanks which would cross over no-mans land and destroy the barbed wire defences. In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower. These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.",7,12,,,,,1721054033.063808,"**Step-by-Step Grading Explanation:**
+
+1. **Understand the Levels and Descriptors:**
+   - **Level 4:** Complex evaluation of both sources with sustained judgment based on content and provenance.
+   - **Level 3:** Developed evaluation of sources based on the content and/or provenance.
+   - **Level 2:** Simple evaluation of source(s) based on content and/or provenance.
+   - **Level 1:** Basic analysis of sources(s).
+   - **Level 0:** No evidence or fails to address the question.
+
+2. **Annotate the Answer:**
+   - **Source B:**
+     - ""In source B, we can see an image displaying the trajectory of artillery bombardments.""
+     - ""The allies use the cover created by the smoke and explosions to advance through no-mans land with the element of surprise.""
+     - ""This form of tactical maneuvering is known as a 'creeping barrage'.""
+   - **Source C:**
+     - ""Tanks were first introduced in the battle of the Somme 1916, but were largely ineffective as they were slow (only reaching speeds of 4 mph).""
+     - ""In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower.""
+     - ""These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.""
+
+3. **Determine a Level:**
+   - **Level 1:** The answer shows basic analysis of the sources, identifying features such as the use of artillery in Source B and the use of tanks in Source C.
+   - **Level 2:** The answer progresses to simple evaluation by explaining the tactical maneuvering in Source B and the development of tanks in Source C.
+   - **Level 3:** The answer includes some developed evaluation, particularly in the explanation of the 'creeping barrage' and the evolution of tank tactics.
+   - **Level 4:** The answer lacks complex evaluation and sustained judgment. It does not fully integrate the content and provenance of both sources or evaluate their relationship.
+
+4. **Determine a Mark:**
+   - The answer demonstrates a developed evaluation of the sources based on content, particularly in the explanation of the 'creeping barrage' and the evolution of tank tactics. However, it lacks a thorough evaluation of the provenance and does not fully integrate the relationship between the sources.
+   - The answer falls into **Level 3**. Given the quality of the evaluation and the contextual knowledge provided, it should be awarded **8 marks**.
+
+5. **Use Indicative Content as a Guide:**
+   - The indicative content suggests that a Level 3 answer should include developed evaluation based on content and/or provenance. The student's answer meets this criterion but does not reach the complexity required for Level 4.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - The answer is relevant and addresses the question, so it is eligible for marks.
+
+7. **Review as Necessary:**
+   - Upon re-reading, the answer is consistent with the criteria for Level 3 and the mark of 8 is appropriate.
+
+**Final Mark: 8/12**
+
+**Reasoning:**
+- The answer provides a developed evaluation of the sources based on content, particularly in explaining the 'creeping barrage' and the evolution of tank tactics.
+- It lacks a thorough evaluation of the provenance and does not fully integrate the relationship between the sources, which is necessary for Level 4.
+- The contextual knowledge is accurate but could be more detailed to push the answer higher within Level 3.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 12666, 'prompt_token_cost': 0.06333, 'completion_tokens': 1435, 'completion_cost': 0.021525000000000002, 'total_cost': 0.084855}",8,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2329, 'prompt_token_cost': 0.011645, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01166}",False,1721054065.9094331,32.845625162124634
 aqa_history,3.0,hs_analyse,5001,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -548,7 +845,52 @@ Level_0:
   criteria: []
   progression: []
   example_answer: []",,"The Schlieffen plan was heavily reliant on Russia taking a long time to mobilize and a very quick and decisive win against France (in 40 days). The plan was to have a large bulk of the German army invade France by cutting into Belgium, the Netherlands and Luxembourg to surprise the French, who would be anticipating an attack directly into France on the boarder between them. However, the Schlieffen plan failed as Russia only took 10 days to mobilize (faster than expected) and Belgium put up a fierce and resistance fight against the Germans (much more resistance than Germany had anticipated). Ultimately, invading through Belgium only helped the stalemate last longer as Britain was forced to join the war effort as invading Belgium initiated an 1843 treaty of London where Britain vowed to protect Belgium. This prolonged the war significantly, turning 40 days into 4 years.
-",8,8,,,,
+",8,8,,,,,1721054067.910763,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex analysis of causation/consequence, coherent narrative, detailed knowledge.
+- **Level 3:** Developed analysis of causation/consequence, structured narrative, accurate knowledge.
+- **Level 2:** Simple analysis of causation/consequence, structured account, specific knowledge.
+- **Level 1:** Basic analysis of causation/consequence, general statements, basic knowledge.
+- **Level 0:** No relevant analysis or submission.
+
+#### 2. **Annotate the Answer:**
+- **Key Points:**
+  - Reliance on Russia taking a long time to mobilize.
+  - Quick and decisive win against France in 40 days.
+  - Invasion through Belgium, the Netherlands, and Luxembourg.
+  - Russia mobilized in 10 days.
+  - Belgium's fierce resistance.
+  - Britain's involvement due to the 1843 Treaty of London.
+  - Prolonged war from 40 days to 4 years.
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer clearly surpasses basic general statements.
+- **Level 2:** The answer provides specific knowledge and a structured account of the Schlieffen Plan and its consequences.
+- **Level 3:** The answer demonstrates developed analysis with accurate knowledge, explaining how the plan's failure led to prolonged war and Britain's involvement.
+- **Level 4:** The answer needs to show complex sequencing and reasoning, with detailed factual knowledge and understanding of how each part of the sequence increased tension and led to a crisis.
+
+#### 4. **Determine a Mark:**
+- The answer provides a coherent narrative and detailed knowledge about the Schlieffen Plan's failure, including the unexpected quick mobilization of Russia, Belgium's resistance, and Britain's involvement due to the Treaty of London.
+- The explanation of how these factors led to a prolonged war shows a developed analysis of causation and consequence.
+- However, the answer lacks the complex sequencing and reasoning required for Level 4, such as a detailed analysis of how tension increased at different stages and the broader implications of these events.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The answer aligns well with the indicative content for Level 3, providing a structured and well-ordered narrative with accurate knowledge.
+- It does not fully meet the criteria for Level 4, which requires a more complex analysis and detailed understanding of the sequence of events.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant and addresses the question directly.
+
+#### 7. **Review as Necessary:**
+- Upon re-reading, the answer consistently demonstrates a developed analysis of the Schlieffen Plan's failure and its consequences, fitting well within Level 3.
+
+### Final Assessment:
+- **Level:** 3
+- **Mark:** 6 (Upper end of Level 3 due to the detailed and accurate knowledge provided, but lacking the complexity required for Level 4)
+
+### Justification:
+The student's answer provides a structured and well-ordered narrative that demonstrates a range of accurate knowledge and understanding relevant to the question. The analysis of how the Schlieffen Plan's failure led to prolonged war and Britain's involvement is developed and clear. However, the answer does not reach the complexity and detailed sequencing required for Level 4. Therefore, it is best placed in Level 3 and awarded 6 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 7902, 'prompt_token_cost': 0.03951, 'completion_tokens': 1318, 'completion_cost': 0.01977, 'total_cost': 0.05928}",6,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2302, 'prompt_token_cost': 0.01151, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011524999999999999}",False,1721054093.739208,25.828444957733154
 aqa_history,4.1,hs_judgement,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -635,7 +977,44 @@ Level_0:
   example_answer:
     - N/A",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
 
-In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",6,16,,,,
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",6,16,,,,,1721054094.7404711,"**Step-by-Step Grading Explanation:**
+
+1. **Understand the Levels and Descriptors:**
+   - Level 4: Complex explanation of stated factor and other factors leading to a sustained judgement. Accurate and detailed knowledge, complex, sustained line of reasoning with coherence and logical structure.
+   - Level 3: Developed explanation of the stated factor and other factors. Accurate knowledge, developed, sustained line of reasoning with coherence and logical structure.
+   - Level 2: Simple explanation of stated factor or other factors. Specific knowledge, simple, sustained line of reasoning with coherence and structure.
+   - Level 1: Basic explanation of one or more factors. Basic knowledge, basic line of reasoning with coherence and structure.
+   - Level 0: No evidence or fail to address the question.
+
+2. **Annotate the Answer:**
+   - The student begins by agreeing with the statement and explaining the role of alliances in dividing Europe into two camps.
+   - The assassination of Archduke Franz Ferdinand and the subsequent chain of declarations of war are described.
+   - The historical context of alliances formed between Germany, Austria-Hungary, Italy, France, Russia, and Britain is provided.
+   - The student explains how the alliance system intensified political disputes and made war inevitable.
+
+3. **Determine a Level:**
+   - **Level 1:** The answer goes beyond a basic explanation by providing specific historical events and details.
+   - **Level 2:** The student demonstrates specific knowledge and understanding relevant to the question, such as the assassination of Archduke Franz Ferdinand and the formation of alliances.
+   - **Level 3:** The answer includes developed explanations of the stated factor (alliances) and other factors (assassination, political disputes). The reasoning is coherent and structured, with accurate knowledge.
+   - **Level 4:** The answer lacks a complex, sustained line of reasoning and a sharply-focused coherence. It does not fully achieve the complexity and depth required for Level 4.
+
+4. **Determine a Mark:**
+   - The answer fits well within Level 3. It provides a developed explanation of the alliance system and other factors, with accurate knowledge and a coherent structure.
+   - The student explains the relationship between the alliances and the outbreak of war, but the reasoning is not complex enough for Level 4.
+   - Comparing to exemplar materials, this answer is of a similar standard to a mid-Level 3 response.
+
+5. **Use Indicative Content as a Guide:**
+   - The indicative content includes explanations of alliances, the assassination of Archduke Franz Ferdinand, and the chain of events leading to war.
+   - The student covers these points, demonstrating a good understanding of the causes of World War I.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - The answer is relevant and addresses the question directly.
+
+7. **Review as Necessary:**
+   - Re-reading the answer confirms that it fits within Level 3, with developed explanations and accurate knowledge.
+
+**Final Mark:**
+- The answer falls into Level 3 and should be awarded 11 marks. The student provides a developed explanation of the alliance system and other factors, with accurate knowledge and a coherent structure, but lacks the complexity and sustained judgement required for Level 4.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 13466, 'prompt_token_cost': 0.06733, 'completion_tokens': 1415, 'completion_cost': 0.021225, 'total_cost': 0.088555}",11,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2256, 'prompt_token_cost': 0.01128, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011295}",False,1721054123.554968,28.814496994018555
 aqa_history,4.2,hs_spag,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -696,7 +1075,30 @@ Level_1:
   example_answer: 
     - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
 
-In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",3,4,,,,
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",3,4,,,,,1721054124.558455,"**Marks Awarded: 3**
+
+**Step-by-Step Explanation:**
+
+1. **Spelling and Punctuation:**
+   - The student spells most words correctly, but there are a few errors such as ""assasinated"" (should be ""assassinated""), ""austrian-hungarian"" (should be ""Austro-Hungarian""), ""cuteral"" (should be ""cultural""), and ""crisises"" (should be ""crises"").
+   - Punctuation is generally accurate, but there are some missing commas and periods that could improve readability. For example, ""Europe was divided in two different camps"" could use a comma after ""camps."" Additionally, ""austrian-hungarian throne"" should be capitalized as ""Austro-Hungarian throne.""
+   - Despite these errors, the overall meaning is not significantly hindered.
+
+2. **Grammar:**
+   - The student uses rules of grammar with general control of meaning overall. There are some awkward phrasings and run-on sentences, but they do not significantly hinder the overall meaning.
+   - For example, ""Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force)"" could be clearer with better punctuation and structure.
+   - The use of parentheses is appropriate but could be better integrated into the sentences.
+
+3. **Use of Specialist Terms:**
+   - The student uses a good range of specialist terms such as ""alliances,"" ""Archduke Franz Ferdinand,"" ""Austro-Hungarian throne,"" ""Entente Cordiale,"" ""triple Entente,"" ""Moroccan crises,"" and ""Balkan wars.""
+   - These terms are used appropriately and demonstrate a good understanding of the historical context.
+
+**Conclusion:**
+- The student demonstrates considerable accuracy in spelling and punctuation, though not consistent accuracy.
+- The student uses rules of grammar with general control of meaning, though there are some areas that could be improved for clarity.
+- The student uses a good range of specialist terms appropriately.
+
+Given the criteria and the forgiving nature of the grading, the student’s answer fits well within **Level 2**. The errors present do not significantly hinder the overall meaning, and the use of specialist terms is strong. Therefore, the answer is awarded **3 marks**.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 1826, 'prompt_token_cost': 0.00913, 'completion_tokens': 1111, 'completion_cost': 0.016665, 'total_cost': 0.025795}",3,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2078, 'prompt_token_cost': 0.01039, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.010405}",True,1721054157.259941,32.701486110687256
 aqa_history,1.0,hs_explain,5002,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -740,7 +1142,41 @@ anything about the bolskveiks trying to steal the gold. They
 have put 'BETRAYED' this is because Bosnia had asked
 russia for help whilst having war threats. So they 
 asked russia for help and it shows now that they are stealing
-money for the germans in WWI and they are taking it from the russians. ",0,4,,,,
+money for the germans in WWI and they are taking it from the russians. ",0,4,,,,,1721054158.264343,"**Step-by-Step Explanation of Grading:**
+
+1. **Understand the Levels and Descriptors:**
+   - **Level 2:** Developed analysis of source based on content and/or provenance. Requires extended reasoning supported by factual knowledge and understanding.
+   - **Level 1:** Simple analysis of source based on content and/or provenance. Requires identification of relevant features supported by simple factual knowledge and understanding.
+   - **Level 0:** Response does not address the question.
+
+2. **Annotate the Answer:**
+   - The student mentions the Russian people, the Bolsheviks, and the German Kaiser.
+   - They describe the Kaiser wanting the Bolsheviks to steal gold.
+   - They mention the setting during WWI.
+   - They describe the lady labeled Russia as unable to stop the Bolsheviks.
+   - They reference the title ""BETRAYED"" and relate it to Bosnia asking Russia for help.
+
+3. **Determine a Level:**
+   - **Level 1 Criteria:** The student identifies relevant features in the source (the Russian people, the Bolsheviks, the German Kaiser, the lady labeled Russia, and the title ""BETRAYED""). They provide simple factual knowledge (setting during WWI, the idea of betrayal).
+   - **Level 2 Criteria:** The student does not provide extended reasoning or detailed factual knowledge. The explanation about Bosnia asking Russia for help is incorrect and irrelevant to the context of the Bolsheviks and WWI.
+
+4. **Determine a Mark:**
+   - The answer meets the criteria for Level 1 as it provides a simple analysis of the source based on content and provenance.
+   - The student identifies relevant features and provides some factual knowledge, though not entirely accurate or relevant.
+   - The answer does not progress to Level 2 as it lacks developed analysis and extended reasoning.
+
+5. **Use Indicative Content as a Guide:**
+   - The indicative content for Level 1 includes identifying relevant features and supporting them with simple factual knowledge.
+   - The student's answer aligns with this by identifying the key figures and the title ""BETRAYED"" and providing a basic explanation.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - The answer is not entirely irrelevant but contains some inaccuracies (e.g., Bosnia asking Russia for help).
+
+7. **Review as Necessary:**
+   - Upon re-reading, the answer is consistent with Level 1 descriptors and does not meet the criteria for Level 2.
+
+**Final Mark:**
+- The answer falls into Level 1 and should be awarded 2 marks. The student provides a simple analysis of the source based on content and provenance, identifying relevant features and supporting them with basic factual knowledge. However, the inaccuracies and lack of extended reasoning prevent it from reaching Level 2.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 11206, 'prompt_token_cost': 0.05603, 'completion_tokens': 1142, 'completion_cost': 0.01713, 'total_cost': 0.07316}",2,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2161, 'prompt_token_cost': 0.010805, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01082}",False,1721054185.425382,27.161038875579834
 aqa_history,2.0,hs_explain,5002,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -827,7 +1263,65 @@ scattered them in all directions. They quickly destroyed the German threat.
 
 In Source C it Shows that the german Soilder were preparing an attack on the british tank, but then 7 of the newest and fastest tanks named whippets came and drove straight into the german Soilders and scattered them in all directions, which this had destroyed the German threat. This helps the students studying military technology understand about how fast and powerful the Whippet was. In source B shows how useful and how good the strategy was used by the british soldiers were they could run across the battlefield without dying this helps the student studying Military technology.
 
-",3,12,,,,
+",3,12,,,,,1721054188.431391,"### Step-by-Step Explanation of Grading
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex evaluation of both sources with sustained judgment based on content and provenance (10-12 marks).
+- **Level 3:** Developed evaluation of sources based on content and/or provenance (7-9 marks).
+- **Level 2:** Simple evaluation of source(s) based on content and/or provenance (4-6 marks).
+- **Level 1:** Basic analysis of sources(s) (1-3 marks).
+- **Level 0:** No evidence or fails to address the question (0 marks).
+
+#### 2. **Annotate the Answer:**
+- **Source B:**
+  - ""British Soldiers advancing under an artillery barrage.""
+  - ""Running in waves all in different waves.""
+  - ""Each wave protects you from a plane and from bombs dropping on you.""
+- **Source C:**
+  - ""German soldiers were preparing an attack on the British tank.""
+  - ""7 of the newest and fastest tanks named Whippets came and drove straight into the German soldiers.""
+  - ""Destroyed the German threat.""
+  - ""Helps the students studying military technology understand about how fast and powerful the Whippet was.""
+
+#### 3. **Determine a Level:**
+- **Level 1 Criteria:**
+  - Basic analysis of sources.
+  - Identifies basic features valid about the sources and related to the enquiry point.
+  - Example: ""Source B shows how heavy artillery as well as soldiers were used to attack trenches. Source C describes how tanks were used during the First World War.""
+
+- **Level 2 Criteria:**
+  - Simple evaluation of source(s) based on content and/or provenance.
+  - Example: ""Source B shows that appeasement seemed to have worked. Chamberlain wanted to use discussion to avoid war with Hitler and this joint statement was seen as evidence that he had achieved his aim.""
+
+- **Level 3 Criteria:**
+  - Developed evaluation of sources based on content and/or provenance.
+  - Example: ""Source B is useful for showing a positive view of appeasement as Chamberlain presented it to the people of Britain. The Munich Agreement allowed Hitler to occupy the Sudetenland in Czechoslovakia despite it not being German land.""
+
+- **Level 4 Criteria:**
+  - Complex evaluation of both sources with sustained judgment based on content and provenance.
+  - Example: ""The sources show that military technology and tactics had to change over time in response to the difficulty of succeeding in trench warfare and breaking the stalemate on the Western Front.""
+
+#### 4. **Determine a Mark:**
+- The student's answer provides a basic analysis of both sources but lacks detailed evaluation or contextual knowledge.
+- The answer identifies basic features of the sources but does not progress to a simple evaluation based on content and/or provenance.
+- The answer does not demonstrate extended reasoning or complex evaluation.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content suggests that a higher level answer would include detailed contextual knowledge and a more developed evaluation of the sources' utility.
+- The student's answer does not meet these criteria.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question but lacks depth and detailed evaluation.
+
+#### 7. **Review as Necessary:**
+- Re-reading the answer confirms that it fits best within Level 1 due to its basic analysis and lack of detailed evaluation.
+
+### Final Assessment:
+- **Level:** 1
+- **Marks:** 3 (maximum for Level 1)
+
+### Explanation:
+The student's answer provides a basic analysis of the sources, identifying relevant features but lacking detailed evaluation or contextual knowledge. The answer does not progress to a simple evaluation based on content and/or provenance, which is required for Level 2. Therefore, the answer falls into Level 1 and should be awarded 3 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 12562, 'prompt_token_cost': 0.06281, 'completion_tokens': 1479, 'completion_cost': 0.022185, 'total_cost': 0.084995}",3,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2399, 'prompt_token_cost': 0.011995, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01201}",True,1721054230.769408,42.338016986846924
 aqa_history,3.0,hs_analyse,5002,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -885,7 +1379,66 @@ Level_0:
     minimum: 0
   criteria: []
   progression: []
-  example_answer: []",,,0,8,,,,
+  example_answer: []",,,0,8,,,,,1721054233.773217,"Since there is no student answer provided for the question ""Write an account of how the Schlieffen Plan led to problems in 1914,"" I cannot directly apply the mark scheme to grade it. However, I can provide a detailed explanation of how I would approach grading such an answer if it were provided.
+
+### Step-by-Step Grading Process:
+
+1. **Understand the Levels and Descriptors:**
+   - **Level 4:** Complex analysis with coherent narrative, detailed knowledge, and understanding. Demonstrates complex sequencing and reasoning.
+   - **Level 3:** Developed analysis with structured narrative, accurate knowledge, and understanding. Shows developed sequencing and reasoning.
+   - **Level 2:** Simple analysis with structured account, specific knowledge, and understanding. Shows simple sequencing and factual support.
+   - **Level 1:** Basic analysis with general statements, basic knowledge, and understanding.
+   - **Level 0:** No relevant analysis or submission.
+
+2. **Annotate the Answer:**
+   - Highlight key points that align with the descriptors for each level.
+   - Identify specific examples and explanations provided by the student.
+
+3. **Determine a Level:**
+   - Start at Level 1 and check if the answer meets the criteria.
+   - Move up to Level 2, Level 3, and Level 4, checking if the answer meets the criteria for each level.
+   - Use a best-fit approach if the answer includes elements from multiple levels.
+
+4. **Determine a Mark:**
+   - Compare the student’s answer to exemplar materials.
+   - Judge if the student's answer is of the same, better, or worse standard than the example.
+   - Assign a mark within the level accordingly.
+
+5. **Use Indicative Content as a Guide:**
+   - Credit valid points made by the student even if they are not listed in the indicative content.
+   - Ensure the student does not need to cover all points to achieve the highest level.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - If the answer contains nothing relevant to the question, award zero marks.
+
+7. **Review as Necessary:**
+   - Re-read the student’s answer to ensure the level and mark are appropriate.
+
+### Hypothetical Example Answer and Grading:
+
+**Hypothetical Answer:**
+""The Schlieffen Plan was Germany's strategy to quickly defeat France by advancing through Belgium and then turning to fight Russia. However, the plan led to several problems in 1914. Firstly, the German advance was slowed down by the unexpected resistance from Belgian and British troops. This delay allowed the French to regroup and counterattack at the Battle of the Marne, leading to a stalemate. Additionally, the Germans had to divert troops to the Eastern Front because Russia mobilized faster than expected. This weakened their forces in the west. As a result, both sides dug trenches, leading to a prolonged and static war on the Western Front.""
+
+**Grading:**
+
+1. **Annotate the Answer:**
+   - ""The Schlieffen Plan was Germany's strategy to quickly defeat France by advancing through Belgium and then turning to fight Russia."" (Basic understanding, Level 1)
+   - ""The German advance was slowed down by the unexpected resistance from Belgian and British troops."" (Simple analysis, Level 2)
+   - ""This delay allowed the French to regroup and counterattack at the Battle of the Marne, leading to a stalemate."" (Developed analysis, Level 3)
+   - ""The Germans had to divert troops to the Eastern Front because Russia mobilized faster than expected."" (Developed analysis, Level 3)
+   - ""As a result, both sides dug trenches, leading to a prolonged and static war on the Western Front."" (Developed analysis, Level 3)
+
+2. **Determine a Level:**
+   - The answer clearly surpasses Level 1 and Level 2.
+   - The answer fits well within Level 3 as it provides developed analysis and a range of accurate knowledge and understanding.
+   - The answer does not fully reach Level 4 as it lacks complex sequencing and reasoning, and does not show how tension increased at different stages or the full consequences of the events.
+
+3. **Determine a Mark:**
+   - Comparing to exemplar answers, this answer is solidly within Level 3 but does not exhibit the depth and complexity required for Level 4.
+   - Therefore, I would award it 6 marks, which is the maximum for Level 3.
+
+### Conclusion:
+By following this detailed process, I ensure that the grading is consistent, fair, and reflective of the student's understanding and analytical skills.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 7556, 'prompt_token_cost': 0.03778, 'completion_tokens': 1907, 'completion_cost': 0.028605, 'total_cost': 0.066385}",6,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2535, 'prompt_token_cost': 0.012675, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01269}",False,1721054264.502432,30.729215145111084
 aqa_history,4.1,hs_judgement,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -972,7 +1525,57 @@ Level_0:
   example_answer:
     - N/A",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
 
-Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",3,16,,,,
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",3,16,,,,,1721054265.5059981,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex explanation of stated factor and other factors, leading to a sustained judgement. Accurate and detailed knowledge, complex reasoning, and logical structure.
+- **Level 3:** Developed explanation of stated factor and other factors. Accurate knowledge, developed reasoning, and logical structure.
+- **Level 2:** Simple explanation of stated factor or other factors. Specific knowledge, simple reasoning, and coherent structure.
+- **Level 1:** Basic explanation of one or more factors. Basic knowledge, basic reasoning, and some structure.
+- **Level 0:** No evidence or fails to address the question.
+
+#### 2. **Annotate the Answer:**
+- **First Paragraph:**
+  - Mentions the Moroccan Crisis as a factor.
+  - Describes Germany's support for Moroccan independence to challenge France.
+  - Mentions Britain's alliance with France.
+- **Second Paragraph:**
+  - Mentions a rebellion in Turkey.
+  - States that countries took advantage of Turkey's weakened state.
+
+#### 3. **Determine a Level:**
+- **Level 1 Criteria:**
+  - Basic explanation of one or more factors.
+  - Basic knowledge and understanding.
+  - Basic line of reasoning with coherence and structure.
+- **Level 2 Criteria:**
+  - Simple explanation of stated factor or other factors.
+  - Specific knowledge and understanding.
+  - Simple, sustained line of reasoning with coherence and structure.
+
+The answer provides basic explanations of two factors (Moroccan Crisis and Turkey's weakened state) but lacks detailed knowledge and developed reasoning. The explanations are brief and do not fully explore the impact of these factors on the outbreak of World War I.
+
+#### 4. **Determine a Mark:**
+- The answer does not reach the level of developed explanation required for Level 3.
+- The explanations provided are basic and lack depth, fitting the criteria for Level 1.
+- The answer demonstrates some coherence and structure but lacks detailed knowledge and understanding.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content for higher levels includes detailed explanations of factors such as the Alliance System, rivalries, and specific events leading to the war.
+- The student's answer does not cover these aspects in detail.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question but lacks depth and detail.
+
+#### 7. **Review as Necessary:**
+- Re-reading the answer confirms that it fits the criteria for Level 1.
+
+### Final Mark:
+- **Level 1:** Basic explanation of one or more factors.
+- **Marks Awarded:** 3 marks (out of a possible 4 for Level 1).
+
+### Explanation:
+The student's answer provides a basic explanation of two factors (Moroccan Crisis and Turkey's weakened state) but lacks detailed knowledge and developed reasoning. The explanations are brief and do not fully explore the impact of these factors on the outbreak of World War I. Therefore, the answer fits the criteria for Level 1 and is awarded 3 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 12872, 'prompt_token_cost': 0.06436, 'completion_tokens': 1349, 'completion_cost': 0.020235000000000003, 'total_cost': 0.084595}",3,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2230, 'prompt_token_cost': 0.01115, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011165}",True,1721054292.413471,26.907472848892212
 aqa_history,4.2,hs_spag,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -1033,7 +1636,55 @@ Level_1:
   example_answer: 
     - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
 
-Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",0,4,,,,
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",0,4,,,,,1721054293.422335,"Based on the provided Mark Scheme, let's analyze the student's answer step-by-step to determine the appropriate level and marks to be awarded.
+
+### Step-by-Step Analysis:
+
+1. **Spelling and Punctuation:**
+   - **Spelling:**
+     - ""Morrocan"" should be ""Moroccan.""
+     - ""Morroco"" should be ""Morocco.""
+     - ""britian"" should be ""Britain.""
+     - ""rebillion"" should be ""rebellion.""
+     - ""tukey"" should be ""Turkey.""
+   - **Punctuation:**
+     - The sentence ""This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence."" is a run-on sentence and needs better punctuation.
+     - ""This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support."" could be better punctuated for clarity.
+     - ""Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state."" needs better punctuation and capitalization.
+
+2. **Grammar:**
+   - The sentence structure is often awkward and lacks clarity.
+   - ""This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence."" is grammatically incorrect and confusing.
+   - ""And Britain was allies with France so if Germany would war with France britian would be there for support."" should be rephrased for better grammatical accuracy.
+   - ""Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state."" is grammatically incorrect and unclear.
+
+3. **Use of Specialist Terms:**
+   - The student uses some specialist terms such as ""Moroccan crisis,"" ""kaiser,"" and ""allies.""
+   - However, the range of specialist terms is limited and not used effectively.
+
+### Level Determination:
+
+- **Level 1 Criteria:**
+  - The student does not spell and punctuate with consistent accuracy.
+  - The student does not use rules of grammar with effective control of meaning overall.
+  - The student does not use a wide range of specialist terms as appropriate.
+
+- **Level 2 Criteria:**
+  - The student does not spell and punctuate with considerable accuracy.
+  - The student does not use rules of grammar with general control of meaning overall.
+  - The student does not use a good range of specialist terms as appropriate.
+
+- **Level 3 Criteria:**
+  - The student spells and punctuates with reasonable accuracy, though there are several errors.
+  - The student uses rules of grammar with some control of meaning, and the errors do not significantly hinder meaning overall.
+  - The student uses a limited range of specialist terms as appropriate.
+
+Given the analysis, the student's answer fits best within **Level 3**. The errors in spelling, punctuation, and grammar are present but do not severely hinder the overall meaning. The use of specialist terms is limited but present.
+
+### Marks Awarded:
+- **Level 3: 1 mark**
+
+The student should be awarded **1 mark** for their answer.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 1232, 'prompt_token_cost': 0.00616, 'completion_tokens': 1325, 'completion_cost': 0.019875, 'total_cost': 0.026035}",1,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2307, 'prompt_token_cost': 0.011535, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01155}",False,1721054318.3249779,24.902642965316772
 aqa_history,1.0,hs_explain,5091,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -1068,7 +1719,44 @@ Level_0:
     minimum: 0
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
-the doorway is the German Kaiser.","Source A shows a bearded man tussling with a young woman and stealing her wealth. This has been used to show the actions of the Bolsheviks in December 1917 and how, encouraged by the kaiser in the doorway, they stole wealth from there own country, and gave it to the Germans. We know in late 1917 Russia signed the Treaty of Brest-Litovsk and lost lots of its land and resources in return for a cease fire in the Eastern Front. The British created the cartoon to show how the Triple Entente had been betrayed by russia and to criticise there actions; Russian withdrawl from the War meant war was only now fought from one front.",4,4,,,,
+the doorway is the German Kaiser.","Source A shows a bearded man tussling with a young woman and stealing her wealth. This has been used to show the actions of the Bolsheviks in December 1917 and how, encouraged by the kaiser in the doorway, they stole wealth from there own country, and gave it to the Germans. We know in late 1917 Russia signed the Treaty of Brest-Litovsk and lost lots of its land and resources in return for a cease fire in the Eastern Front. The British created the cartoon to show how the Triple Entente had been betrayed by russia and to criticise there actions; Russian withdrawl from the War meant war was only now fought from one front.",4,4,,,,,1721054321.336336,"**Step-by-Step Explanation:**
+
+1. **Understand the Levels and Descriptors:**
+   - **Level 2:** Developed analysis of source based on content and/or provenance. Requires extended reasoning supported by factual knowledge and understanding related to the features of the source. (Marks: 3-4)
+   - **Level 1:** Simple analysis of source based on content and/or provenance. Requires identification of relevant features in the source supported by simple factual knowledge and understanding. (Marks: 1-2)
+   - **Level 0:** Response does not address the question. (Marks: 0)
+
+2. **Annotate the Answer:**
+   - The student mentions the bearded man tussling with a young woman and stealing her wealth, which is a relevant feature of the source.
+   - The student connects this to the actions of the Bolsheviks in December 1917.
+   - The student mentions the Treaty of Brest-Litovsk and its consequences, showing factual knowledge.
+   - The student explains the British perspective, indicating the betrayal by Russia and the impact on the war.
+
+3. **Determine a Level:**
+   - **Level 1 Criteria:** The student identifies relevant features in the source (the bearded man, the young woman, the German Kaiser) and supports them with simple factual knowledge (Treaty of Brest-Litovsk, Russian withdrawal).
+   - **Level 2 Criteria:** The student provides extended reasoning by explaining the significance of the Treaty of Brest-Litovsk and its impact on the war, showing understanding of the broader context and the British perspective.
+
+4. **Determine a Mark:**
+   - The answer includes developed analysis with extended reasoning and factual knowledge, meeting the criteria for Level 2.
+   - The student explains how the cartoon is critical of the Bolsheviks by connecting the visual elements to historical events and their consequences.
+   - The answer is coherent and demonstrates a good understanding of the source and its context.
+
+5. **Use Indicative Content as a Guide:**
+   - The indicative content suggests that a developed analysis should include references to the Bolshevik Revolution, the Treaty of Brest-Litovsk, and the impact on the Western Front.
+   - The student's answer aligns well with these points, providing a clear explanation of the source's criticism of the Bolsheviks.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - The answer is relevant and addresses the question directly.
+
+7. **Review as Necessary:**
+   - Upon re-reading, the answer consistently demonstrates developed analysis and extended reasoning.
+
+**Final Decision:**
+- **Level:** 2
+- **Mark:** 4
+
+**Reasoning:**
+The student's answer provides a developed analysis of the source, supported by factual knowledge and understanding. The explanation of the Treaty of Brest-Litovsk and its impact on the war, along with the British perspective on the betrayal by Russia, demonstrates extended reasoning. Therefore, the answer fits well within Level 2 and should be awarded the maximum mark of 4.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 11186, 'prompt_token_cost': 0.05593, 'completion_tokens': 1207, 'completion_cost': 0.018105, 'total_cost': 0.074035}",4,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2215, 'prompt_token_cost': 0.011075, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.01109}",True,1721054345.151383,23.815047025680542
 aqa_history,2.0,hs_explain,5091,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -1161,7 +1849,47 @@ hand fighting because of the tanks physiological and
 devastating effects they had on the enemy. Source C 
 is useful to a historian because it has personal 
 story from someone actually experiencing the power 
-of tanks, showing how the threat they brought. ",9,12,,,,
+of tanks, showing how the threat they brought. ",9,12,,,,,1721054348.2776608,"**Step-by-Step Explanation of Grading:**
+
+1. **Understand the Levels and Descriptors:**
+   - **Level 4:** Complex evaluation of both sources with sustained judgment based on content and provenance.
+   - **Level 3:** Developed evaluation of sources based on content and/or provenance.
+   - **Level 2:** Simple evaluation of source(s) based on content and/or provenance.
+   - **Level 1:** Basic analysis of sources(s).
+   - **Level 0:** No evidence or fails to address the question.
+
+2. **Annotate the Answer:**
+   - **Source B:**
+     - Mentions ""Creeping barrage"" and its introduction in 1915.
+     - Discusses the use of radio for better communication.
+     - Evaluates the impact of these technologies on reducing friendly fire and improving assault preparation.
+   - **Source C:**
+     - Describes the use of tanks during the German Spring Offensive.
+     - Mentions the evolution of tank use from the Battle of the Somme to more widespread use.
+     - Highlights the personal account of a tank commander, emphasizing the psychological and physical impact of tanks.
+
+3. **Determine a Level:**
+   - **Level 1:** The answer clearly surpasses basic analysis as it provides more than just identifying features.
+   - **Level 2:** The answer includes simple evaluation based on content and provenance, such as the introduction of the creeping barrage and the use of tanks.
+   - **Level 3:** The answer shows developed evaluation by discussing the impact of new technologies and tactics, and the personal account in Source C.
+   - **Level 4:** The answer does not fully reach the complexity and sustained judgment required for Level 4. It lacks a more detailed evaluation of the relationship between the sources and more specific factual details.
+
+4. **Determine a Mark:**
+   - The answer fits well within Level 3 as it provides a developed evaluation of both sources, discussing the content and provenance, and includes some contextual knowledge.
+   - However, it does not reach the higher end of Level 3 due to the lack of more detailed factual knowledge and a more explicit evaluation of the relationship between the sources.
+
+5. **Use Indicative Content as a Guide:**
+   - The answer covers key points such as the creeping barrage, the use of radio, and the evolution of tank use, which are relevant to the indicative content.
+   - The personal account in Source C is well-utilized to show the impact of tanks.
+
+6. **Award No Marks for Irrelevant Answers:**
+   - The answer is relevant and addresses the question directly.
+
+7. **Review as Necessary:**
+   - Upon re-reading, the answer is consistent with a Level 3 evaluation but does not reach the complexity required for Level 4.
+
+**Final Mark:**
+- The answer falls into Level 3 and should be awarded 8 marks. This reflects a developed evaluation of the sources with some extended reasoning but lacks the depth and complexity for the highest level.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 12854, 'prompt_token_cost': 0.06427, 'completion_tokens': 1293, 'completion_cost': 0.019395000000000003, 'total_cost': 0.08366499999999999}",8,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2210, 'prompt_token_cost': 0.01105, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011065}",False,1721054374.790136,26.51247525215149
 aqa_history,3.0,hs_analyse,5091,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -1221,7 +1949,58 @@ Level_0:
   progression: []
   example_answer: []",,"The Schlieffen plan already had some problems to it, even before it was put into practise. For example it relied on the slow mobilisation of Russia. As the Germans would find out, the Russian army mobilised in just 10 days and had already consigned plans to attack in the East. This meant the Germans would have to fight a war on two fronts, exactly what was trying to be avoided. Furthermore after the death of Alfred Von Schlieffen in 1913, the next general made the army smaller for the assault on France, and also missed Holland from the plan entirely. This meant the Germans would have a weaker force in battle, additioning to them having to divide there army in half to fight in two fronts.
 
-The German plan also relied on Belgium’s invasion which they thought would be quick and easy. However, the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement. This gave France and Russia time to communicate and mobilise. Furthermore the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty. Therefore when they invaded Belgium and entered through France, The BEF was sent out to stop the Germany army. to May 1914 France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan.",8,8,,,,
+The German plan also relied on Belgium’s invasion which they thought would be quick and easy. However, the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement. This gave France and Russia time to communicate and mobilise. Furthermore the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty. Therefore when they invaded Belgium and entered through France, The BEF was sent out to stop the Germany army. to May 1914 France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan.",8,8,,,,,1721054376.796076,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex analysis of causation/consequence, coherent narrative, detailed knowledge.
+- **Level 3:** Developed analysis of causation/consequence, structured narrative, accurate knowledge.
+- **Level 2:** Simple analysis of causation/consequence, structured account, specific knowledge.
+- **Level 1:** Basic analysis of causation/consequence, general statements, basic knowledge.
+- **Level 0:** No relevant analysis or submission.
+
+#### 2. **Annotate the Answer:**
+- **First Paragraph:**
+  - ""The Schlieffen plan already had some problems to it, even before it was put into practise."" (Introduction to causation)
+  - ""it relied on the slow mobilisation of Russia."" (Specific knowledge)
+  - ""the Russian army mobilised in just 10 days and had already consigned plans to attack in the East."" (Accurate and detailed knowledge)
+  - ""This meant the Germans would have to fight a war on two fronts, exactly what was trying to be avoided."" (Analysis of consequence)
+  - ""the next general made the army smaller for the assault on France, and also missed Holland from the plan entirely."" (Specific knowledge)
+  - ""This meant the Germans would have a weaker force in battle, additioning to them having to divide there army in half to fight in two fronts."" (Analysis of consequence)
+
+- **Second Paragraph:**
+  - ""The German plan also relied on Belgium’s invasion which they thought would be quick and easy."" (Specific knowledge)
+  - ""the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement."" (Accurate and detailed knowledge)
+  - ""This gave France and Russia time to communicate and mobilise."" (Analysis of consequence)
+  - ""the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty."" (Specific knowledge)
+  - ""The BEF was sent out to stop the Germany army."" (Accurate knowledge)
+  - ""France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan."" (Analysis of consequence)
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer clearly surpasses basic general statements and demonstrates specific knowledge.
+- **Level 2:** The answer provides structured accounts and specific knowledge, showing simple analysis of causation/consequence.
+- **Level 3:** The answer includes developed analysis of causation/consequence, structured narrative, and a range of accurate knowledge.
+- **Level 4:** The answer needs to show complex analysis, sequencing, and reasoning.
+
+#### 4. **Determine a Mark:**
+- The answer demonstrates a range of accurate and detailed knowledge and understanding relevant to the question.
+- The student explains the consequences of different events in a structured manner.
+- The answer shows developed analysis but lacks the complex sequencing and reasoning required for Level 4.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The answer covers key points such as the rapid mobilization of Russia, the resistance of Belgium, and the involvement of the BEF.
+- The student does not need to cover all points in the indicative content to achieve the highest level.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant and addresses the question directly.
+
+#### 7. **Review as Necessary:**
+- The answer is re-read to ensure the level and mark are appropriate.
+
+### Final Assessment:
+- **Level:** 3
+- **Mark:** 6
+
+The answer is placed in Level 3 because it demonstrates developed analysis of causation/consequence with a structured and well-ordered narrative. The student provides a range of accurate knowledge and understanding relevant to the question. However, it does not reach Level 4 as it lacks the complex sequencing and reasoning required. Therefore, the answer is awarded 6 marks.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 8108, 'prompt_token_cost': 0.04054, 'completion_tokens': 1628, 'completion_cost': 0.02442, 'total_cost': 0.06496}",6,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2426, 'prompt_token_cost': 0.01213, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.012145}",False,1721054412.431594,35.635517835617065
 aqa_history,4.1,hs_judgement,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -1314,7 +2093,54 @@ days War was declared. Russia was dragged in due to its alliance with Serbia and
 
 Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
 France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
-when Franz Ferdinand was killed, Germany declared War.",10,16,,,,
+when Franz Ferdinand was killed, Germany declared War.",10,16,,,,,1721054415.4393752,"### Step-by-Step Grading Explanation
+
+#### 1. **Understand the Levels and Descriptors:**
+- **Level 4:** Complex explanation of stated factor and other factors leading to a sustained judgement. Accurate and detailed knowledge, complex reasoning, and logical structure.
+- **Level 3:** Developed explanation of the stated factor and other factors. Accurate knowledge, developed reasoning, and logical structure.
+- **Level 2:** Simple explanation of stated factor or other factors. Specific knowledge, simple reasoning, and coherent structure.
+- **Level 1:** Basic explanation of one or more factors. Basic knowledge, basic reasoning, and some structure.
+- **Level 0:** No evidence or fails to address the question.
+
+#### 2. **Annotate the Answer:**
+- **First Paragraph:**
+  - Mentions the Alliance System and its impact on Germany's perception of encirclement.
+  - Discusses the Triple Entente and Triple Alliance.
+  - Lacks detailed explanation and reasoning.
+- **Second Paragraph:**
+  - Discusses the assassination of Archduke Franz Ferdinand.
+  - Mentions Austria-Hungary's ultimatum to Serbia and the involvement of Russia.
+  - Provides some factual details but lacks depth in explanation.
+- **Third Paragraph:**
+  - Discusses the Moroccan Crisis.
+  - Mentions Germany's actions and the resulting humiliation.
+  - Provides some factual details but lacks a clear link to the main argument.
+
+#### 3. **Determine a Level:**
+- **Level 1:** The answer goes beyond basic explanations by mentioning multiple factors and providing some factual details.
+- **Level 2:** The answer demonstrates specific knowledge and understanding relevant to the question. It provides a simple, sustained line of reasoning with coherence and structure.
+- **Level 3:** The answer lacks the developed reasoning and logical structure required for Level 3. The explanations are not fully developed, and the reasoning is not sustained throughout.
+
+#### 4. **Determine a Mark:**
+- The answer falls into Level 2 as it provides specific knowledge and a simple, sustained line of reasoning. However, it lacks the depth and development required for Level 3.
+- Within Level 2, the answer demonstrates a range of specific knowledge but lacks detailed explanation and reasoning. Therefore, it should be awarded a mark towards the higher end of Level 2.
+
+#### 5. **Use Indicative Content as a Guide:**
+- The indicative content suggests that a Level 2 answer should provide specific knowledge and a simple, sustained line of reasoning.
+- The answer mentions the Alliance System, the assassination of Archduke Franz Ferdinand, and the Moroccan Crisis, which are relevant points.
+- The explanations are brief and lack depth, which aligns with the criteria for Level 2.
+
+#### 6. **Award No Marks for Irrelevant Answers:**
+- The answer is relevant to the question and addresses multiple factors related to the causes of the First World War.
+
+#### 7. **Review as Necessary:**
+- Upon re-reading the answer, it is clear that the student provides specific knowledge and a simple, sustained line of reasoning. However, the explanations lack depth and development, which limits the answer to Level 2.
+
+### Final Mark:
+- **Level:** 2
+- **Mark:** 7
+
+The answer demonstrates specific knowledge and a simple, sustained line of reasoning, which places it in Level 2. The explanations are brief and lack depth, so it should be awarded 7 marks within Level 2.","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 13528, 'prompt_token_cost': 0.06764, 'completion_tokens': 1508, 'completion_cost': 0.02262, 'total_cost': 0.09026}",7,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2306, 'prompt_token_cost': 0.01153, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.011545}",False,1721054448.23243,32.793054819107056
 aqa_history,4.2,hs_spag,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -1382,4 +2208,37 @@ days War was declared. Russia was dragged in due to its alliance with Serbia and
 Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
 France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
 when Franz Ferdinand was killed, Germany declared War.
-",4,4,,,,
+",4,4,,,,,1721054450.2382772,"### Step-by-Step Analysis
+
+#### Spelling, Punctuation, and Grammar (SPaG)
+
+1. **Spelling:**
+   - Correct: ""Alliance System,"" ""Triple Entente,"" ""Triple Alliance,"" ""archduke Franz Ferdinand,"" ""Serbia,"" ""Austria-Hungary,"" ""Schlieffen plan,"" ""Moroccan Crisis,"" ""Morocco,"" ""Kaiser,"" ""Algeciras,"" ""USA,"" ""Britain,"" ""France.""
+   - Incorrect: ""Britian"" (should be ""Britain""), ""could of"" (should be ""could have""), ""Allience"" (should be ""Alliance""), ""assasination"" (should be ""assassination""), ""os"" (should be ""of""), ""Hungery"" (should be ""Hungary""), ""intellignce"" (should be ""intelligence""), ""there"" (should be ""their""), ""therefor"" (should be ""therefore"").
+
+2. **Punctuation:**
+   - Missing commas: ""In some ways, the Alliance System was a major factor..."" and ""When Britain, Russia, and France signed the Triple Entente...""
+   - Incorrect use of commas: ""The Triple entente was used to make Germany back down but could of been a factor for war."" (should be ""The Triple Entente was used to make Germany back down, but it could have been a factor for war."")
+   - Missing periods: ""Within a days War was declared."" (should be ""Within a few days, war was declared."")
+   - Inconsistent capitalization: ""Triple entente"" (should be ""Triple Entente""), ""Allience"" (should be ""Alliance""), ""Assassin"" (should be ""assassin""), ""War"" (should be ""war""), ""Sent France"" (should be ""see how far France""), ""there"" (should be ""their"").
+
+3. **Grammar:**
+   - ""In Some ways the Alliance System was a major factor to outbreak of war because it gave Germany an excuse to declare it."" (should be ""In some ways, the Alliance System was a major factor in the outbreak of war because it gave Germany an excuse to declare it."")
+   - ""Once the two sides were created it was clear War was imminent but Germany and its allies were keen for war then in contrast France and Russia and Britain made a pact us Allience to detterent Germany."" (should be ""Once the two sides were created, it was clear war was imminent. Germany and its allies were keen for war, whereas France, Russia, and Britain made a pact as an alliance to deter Germany."")
+   - ""After the Assassin Austria-Hungery blamed Serbia and had intellignce the Black hand Gang was helped by the Serb government this gave the kaiser a motivation for war due to it alliance with Austria - Hungery."" (should be ""After the assassination, Austria-Hungary blamed Serbia and had intelligence that the Black Hand Gang was helped by the Serbian government. This gave the Kaiser a motivation for war due to its alliance with Austria-Hungary."")
+   - ""Within a days War was declared."" (should be ""Within a few days, war was declared."")
+   - ""The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance."" (should be ""The Kaiser did this to see how far France could be pushed, but Germany was humiliated when Britain supported France due to their alliance."")
+   - ""He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor when Franz Ferdinand was killed, Germany declared War."" (should be ""He wanted to prove Germany's strength, and it was clear he would not back down a third time. Therefore, when Franz Ferdinand was killed, Germany declared war."")
+
+#### Specialist Terms
+- The student uses a range of specialist terms such as ""Alliance System,"" ""Triple Entente,"" ""Triple Alliance,"" ""archduke Franz Ferdinand,"" ""Schlieffen plan,"" and ""Moroccan Crisis."" However, the usage is not always accurate or consistent.
+
+### Final Analysis
+- **Spelling and Punctuation:** The student spells and punctuates with reasonable accuracy, but there are several errors that need correction.
+- **Grammar:** The student uses rules of grammar with some control of meaning, but there are multiple instances where errors hinder the clarity of the response.
+- **Specialist Terms:** The student uses a limited range of specialist terms, but the usage is not always accurate or consistent.
+
+Given the criteria and the forgiving nature of the grading, the student demonstrates a reasonable level of accuracy in spelling, punctuation, and grammar, but there are enough errors to prevent a higher level. The use of specialist terms is limited and sometimes inaccurate.
+
+### Marks Awarded
+Based on the analysis, the student’s","{'burn_in_runs': 2, 'model': 'gpt-4o', 'prompt_tokens': 1888, 'prompt_token_cost': 0.00944, 'completion_tokens': 1822, 'completion_cost': 0.02733, 'total_cost': 0.03677}",0,"{'burn_in_runs': 1, 'model': 'gpt-4o', 'prompt_tokens': 2596, 'prompt_token_cost': 0.01298, 'completion_tokens': 1, 'completion_cost': 1.5e-05, 'total_cost': 0.012995}",False,1721054483.3926451,33.15436792373657
