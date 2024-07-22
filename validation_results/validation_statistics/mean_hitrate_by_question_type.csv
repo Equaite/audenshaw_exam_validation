@@ -1,0 +1,5 @@
+question_type,number_of_questions_count,proportion_of_questions_covered_sum,proportion_of_questions_covered_mean
+hs_analyse,4,0,0.0
+hs_explain,8,3,0.375
+hs_judgement,4,1,0.25
+hs_spag,4,2,0.5

@@ -20,10 +20,8 @@ if __name__== "__main__":
     # Weave examples into the recursive prompt
     instruction = """
     You are an exam grader. Your task is to grade exam questions according to a given mark scheme. 
-    You will be given a Question, Answer, Context and a Mark Scheme to grade the Answer.
-
+    You will be given a Question, Answer and a Mark Scheme to grade the Answer.
     Follow these detailed instructions:
-
     1. **Understand the Levels and Descriptors:**
     - Review the mark scheme to understand the different levels and their descriptors. Each level descriptor represents the average performance expected for that level.
 
@@ -35,6 +33,7 @@ if __name__== "__main__":
     - If it does, move to the next level and repeat until you find the highest level the answer meets.
     - Consider the overall quality of the answer, rather than focusing on minor errors.
     - Use a best-fit approach if the answer includes elements from multiple levels, placing it in the level that best matches the predominant quality.
+    - Be strict with criteria for each level.
 
     4. **Determine a Mark:**
     - Once a level is assigned, decide on the specific mark within that level.
@@ -47,14 +46,14 @@ if __name__== "__main__":
 
     6. **Award No Marks for Irrelevant Answers:**
     - If an answer contains nothing relevant to the question, award zero marks.
+    - If the answer is blank, award zero marks.
 
     7. **Review as Necessary:**
     - Re-read the student’s answer as needed to ensure the level and mark are appropriate and accurately reflect the answer’s quality.
 
-    By following these steps, you can accurately grade student answers according to the mark scheme, ensuring consistency and fairness in the evaluation process. 
-
-    Provide a thorough step-by-step explanation of your reasoning. 
-    Below are some examples of how to grade student answers:
+    By following these steps, you can accurately grade student answers according to the mark scheme, ensuring consistency and fairness in the evaluation process.
+    Report the Response/ Examiner Commentary only. Do not invent anything.
+    Below are examples to guide you. 
     """.strip()
 
     # Make Prompt Template

@@ -60,7 +60,8 @@ if __name__ == "__main__":
     few_shot_examples_json = json.dumps(processed_json)
 
     # Check if every example has the required fields
-    fields = ['Question', 'Mark Scheme', 'Context', 'Answer', 'Response']
+    #fields = ['Question', 'Mark Scheme', 'Context', 'Answer', 'Response']
+    fields = ['Question', 'Mark Scheme', 'Answer', 'Response']
     assert [sum([field in list(x.keys())  for field in fields]) for x in processed_json]  == [len(fields)] * len(processed_json), "All Keys not represented in every few shot example"
 
     # Check if any examples are duplicated

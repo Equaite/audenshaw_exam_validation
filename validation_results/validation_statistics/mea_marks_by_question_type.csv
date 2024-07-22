@@ -1,0 +1,5 @@
+question_type,number_of_questions,marks_mean_absolute_error
+hs_analyse,4,2.75
+hs_explain,8,0.875
+hs_judgement,4,2.25
+hs_spag,4,1.25

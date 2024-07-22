@@ -1,0 +1,6 @@
+question_id,question_type,total_marks,number_of_questions,hitrate_frequency,mean_hitrate
+1.0,hs_explain,4,4,1,0.25
+2.0,hs_explain,12,4,2,0.5
+3.0,hs_analyse,8,4,0,0.0
+4.1,hs_judgement,16,4,1,0.25
+4.2,hs_spag,4,4,2,0.5
