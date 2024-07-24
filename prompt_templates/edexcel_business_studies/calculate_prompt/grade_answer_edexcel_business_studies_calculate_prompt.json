@@ -1,0 +1,13 @@
+{
+    "input_variables": [
+        "answer",
+        "mark_scheme",
+        "question"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "You will be given a Question, Answer, and a Mark Scheme to grade the Answer.\n    The Question involves some basic mathematical calculations. You are encouraged to award a mark for the correct working despite the final answer being incorrect.\n    The maximum marks you can award are 2.\n\n    Question:\n    {question}\n\n    Mark Scheme:\n    {mark_scheme}\n\n    Answer:\n    {answer}\n\n    Response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

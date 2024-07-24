@@ -82,7 +82,11 @@ total_marks:
 £10 000 ÷ (£6.50 – £2.50)
 = 2,500 units
 Decrease = 4,000 – 2,500 (1)
-Answer: 1,500 units (1)",,bs_calculate
+Answer: 1,500 units (1)","Substitution into correct formula:
+£10 000 ÷ (£6.50 – £2.50)
+= 2,500 units
+Decrease = 4,000 – 2,500 (1)
+Answer: 1,500 units (1)",bs_calculate
 ,2.4,edexcel_business_studies,"Award 1 mark for identification of a way, plus 2 further marks for
 explaining this way up to a total of 3 marks.
 A small business could gain an advantage by charging lower prices
@@ -147,7 +151,9 @@ total_marks:
   - 1",bs_mcq
 ,3.2,edexcel_business_studies,"Substitution into correct formula:
 £5.20 x 7,200 (1)
-Answer: £37 440 (1)",,bs_calculate
+Answer: £37 440 (1)","Substitution into correct formula:
+£5.20 x 7,200 (1)
+Answer: £37 440 (1)",bs_calculate
 ,3.3,edexcel_business_studies,"Award 1 mark for identification of a disadvantage, plus 2 further
 marks for explaining this disadvantage, up to a total of 3 marks.
 One disadvantage is that the employees will want to leave the
@@ -380,10 +386,14 @@ Level_3:
     - []",bs_analyse
 ,5.1,edexcel_business_studies,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
-Answer: £1 600 (1)",,bs_calculate
+Answer: £1 600 (1)","Substitution into correct formula:
+£4 000 + (£8 600 - £11 000) (1)
+Answer: £1 600 (1)",bs_calculate
 ,5.2,edexcel_business_studies,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
-Answer: 50.52% (1)",,bs_calculate
+Answer: 50.52% (1)","Substitution into correct formula:
+(33,700 ÷ 66,700) x 100 (1)
+Answer: 50.52% (1)",bs_calculate
 ,5.3,edexcel_business_studies,"Using the internet as a source of secondary market
 research is a fast and convenient way to discover how
 many females live in Birmingham (AO2).
@@ -638,7 +648,12 @@ marking_notes:
 
 total_marks:
   - 1",bs_state
-,7.2,edexcel_business_studies,Coal,,bs_identify
+,7.2,edexcel_business_studies,Coal,"marking_criteria:
+  - Award mark if the example answer is mentioned exactly (case insensitive).
+example_answers:
+  - Coal
+total_marks:
+  - 1",bs_identify
 ,7.3,edexcel_business_studies,"Award up to 2 marks for linked points outlining a benefit to
 customers of Ripple. Award a maximum of 1 mark if points are not
 linked.

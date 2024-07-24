@@ -1,5 +1,0 @@
-subject_id,question_type,mean_llm_grading_total_cost,sum_llm_grading_total_cost,number_of_questions
-aqa_history,hs_analyse,0.07433125,0.297325,4
-aqa_history,hs_explain,0.09105687500000001,0.7284550000000001,8
-aqa_history,hs_judgement,0.0998475,0.39939,4
-aqa_history,hs_spag,0.038959999999999995,0.15583999999999998,4

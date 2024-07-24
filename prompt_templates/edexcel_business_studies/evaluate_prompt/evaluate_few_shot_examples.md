@@ -1,7 +1,5 @@
 ## Question:
-Evaluate whether crowdfunding is an effective source of finance for Good and
-Proper Tea. You should use the information provided as well as your knowledge of 
-business.
+Evaluate whether crowdfunding is an effective source of finance for Good and Proper Tea. You should use the information provided as well as your knowledge of business.
 
 ## Mark Scheme:
 Indicative_content:
@@ -13,14 +11,12 @@ Indicative_content:
   - As Good and Proper Tea is a new business, with a number of competitors, such promotion will be useful (AO3a).
   - However, crowd funding does mean that the profits of Good and Proper Tea will need to be shared with the investors. As the business had 372 backers, this will mean that the profits Emilie earns will be shared between a larger number of people (AO3b).
   - However, whether crowd funding is the best source of finance depends on the objectives of Emilie. The 372 investors have only risked their stake, for some as low as £1, and they are unlikely to be experts in the market (AO3b).
-
 Level_0:
   criteria:
     - No rewardable material.
   marks_awarded:
     maximum: 0
     minimum: 0
-
 Level_1:
   criteria:
     - Demonstrates elements of knowledge and understanding of business concepts and issues, with limited business terminology used (AO1b).
@@ -30,7 +26,6 @@ Level_1:
   marks_awarded:
     maximum: 4
     minimum: 1
-
 Level_2:
   criteria:
     - Demonstrates mostly accurate knowledge and understanding of business concepts and issues, including appropriate use of business terminology in places (AO1b).
@@ -40,7 +35,6 @@ Level_2:
   marks_awarded:
     maximum: 8
     minimum: 5
-
 Level_3:
   criteria:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
@@ -51,66 +45,20 @@ Level_3:
     maximum: 12
     minimum: 9
 
-
 ## Context:
-Good and Proper Tea was founded in 2012 by Emilie Holmes.
-The business website states:
-‘We source our teas from around the world, from Kenya to India,
-Japan to China and many more places in between. It is important
-to us that we know exactly where each tea comes from and who is
-responsible for harvesting the leaves we buy. We will always share
-this information with our customers’.
-The business started when Emilie
-converted an old Citroën van (pictured
-right) into a mobile brew bar. Emilie
-wanted to expand the business.
-To achieve this she needed finance.
-She decided to raise finance using
-crowdfunding through the Kickstarter
-website. 372 individual backers each
-provided between £1 and £1000. Good
-and Proper Tea was launched. The first
-cup of tea was brewed and sold in
-Shoreditch, London, in 2012.
-The success of the mobile business led Emilie to plan to open a shop selling the same
-high-quality teas. Once again she decided to use crowdfunding as her source of finance.
-This time, using the Crowdcube website, she successfully raised £140,000. The shop was
-opened in 2016 and is very successful.
-As Good and Proper Tea imports its most important ingredient, it is affected by changes
-in the exchange rate. Recent changes in the value of the pound mean that its costs have
-increased.
-
+Good and Proper Tea was founded in 2012 by Emilie Holmes. The business website states:
+‘We source our teas from around the world, from Kenya to India, Japan to China and many more places in between. It is important to us that we know exactly where each tea comes from and who is responsible for harvesting the leaves we buy. We will always share this information with our customers’.
+The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business. To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers each provided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012. The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful. As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its costs have increased.
 
 ## Answer:
-    
-Crowdfunding is when business to a source of     finance in which business’ ask for money online
-to launch a new idea in return for a reward      eg. shares in the company. Crowdfunding is effective for Good and Proper Tea because it allows them to raise a lot of interest free capital, this allows them to expand their hot beverage selling business without using retained profit, therefore it can use that to further expand its business, for example they could open more shops that sell their cups of tea. This would  have more sales, therefore more revenue would be generated, therefore Emilie Holmes business will reach its break-even point faster therefore generating more profit. However, in order to crowd fund you may have to give away shares, this decrease Emilie’s ownership of the business which could lead to her losing control of her business. which could lead to her losing control of her business. In conclusion crowdfunding is good if the idea is innovative and the public are willing to fund it.
+Crowdfunding is when business to a source of finance in which business’ ask for money online to launch a new idea in return for a reward eg. shares in the company. Crowdfunding is effective for Good and Proper Tea because it allows them to raise a lot of interest free capital, this allows them to expand their hot beverage selling business without using retained profit, therefore it can use that to further expand its business, for example they could open more shops that sell their cups of tea. This would  have more sales, therefore more revenue would be generated, therefore Emilie Holmes business will reach its break-even point faster therefore generating more profit. However, in order to crowd fund you may have to give away shares, this decrease Emilie’s ownership of the business which could lead to her losing control of her business. which could lead to her losing control of her business. In conclusion crowdfunding is good if the idea is innovative and the public are willing to fund it.
 
 ## Response:
-5 marks.
-The candidate starts off with a definition of crowdfunding which is accurate. In the
-second paragraph, the candidate starts to develop the rationale behind why
-crowdfunding is an effective way to raise capital through ‘interest free’ and ‘expand their
-hot beverage selling business without using retained profit’ and ‘therefore it can further
-expand’. At this point the candidate starts to drift off the question and starts to answer
-a question about the benefits of expansion. Nevertheless, sufficient linked strands have
-been generated to allow the response to reach Level 2 for Analysis or AO3a. The
-evaluation is contained in both paragraphs 3 and 4 and involves simple statements
-generating an overall score in Level 1. Application is primarily confined to the middle
-paragraph with the word ‘Emilie’ appearing in paragraph 3. This skill was awarded L1/2.
-Regarding understanding or AO1b, the candidate uses terminology well throughout the
-response and it is accurate, but because the candidate drifted off the question, Level 2
-was awarded for this skill.
+The candidate starts off with a definition of crowdfunding which is accurate. In the second paragraph, the candidate starts to develop the rationale behind why crowdfunding is an effective way to raise capital through ‘interest free’ and ‘expand their hot beverage selling business without using retained profit’ and ‘therefore it can further expand’. At this point the candidate starts to drift off the question and starts to answer a question about the benefits of expansion. Nevertheless, sufficient linked strands have been generated to allow the response to reach Level 2 for Analysis or AO3a. The evaluation is contained in both paragraphs 3 and 4 and involves simple statements generating an overall score in Level 1. Application is primarily confined to the middle paragraph with the word ‘Emilie’ appearing in paragraph 3. This skill was awarded L1/2. Regarding understanding or AO1b, the candidate uses terminology well throughout the response and it is accurate, but because the candidate drifted off the question, Level 2 was awarded for this skill.
 Overall, the response was placed in Level 2 and 5 marks were awarded.
 
-
-
-
-
 ## Question:
-Evaluate whether crowdfunding is an effective source of finance for Good and
-Proper Tea. You should use the information provided as well as your knowledge of 
-business.
+Evaluate whether crowdfunding is an effective source of finance for Good and Proper Tea. You should use the information provided as well as your knowledge of business.
 
 ## Mark Scheme:
 Indicative_content:
@@ -122,14 +70,12 @@ Indicative_content:
   - As Good and Proper Tea is a new business, with a number of competitors, such promotion will be useful (AO3a).
   - However, crowd funding does mean that the profits of Good and Proper Tea will need to be shared with the investors. As the business had 372 backers, this will mean that the profits Emilie earns will be shared between a larger number of people (AO3b).
   - However, whether crowd funding is the best source of finance depends on the objectives of Emilie. The 372 investors have only risked their stake, for some as low as £1, and they are unlikely to be experts in the market (AO3b).
-
 Level_0:
   criteria:
     - No rewardable material.
   marks_awarded:
     maximum: 0
     minimum: 0
-
 Level_1:
   criteria:
     - Demonstrates elements of knowledge and understanding of business concepts and issues, with limited business terminology used (AO1b).
@@ -139,7 +85,6 @@ Level_1:
   marks_awarded:
     maximum: 4
     minimum: 1
-
 Level_2:
   criteria:
     - Demonstrates mostly accurate knowledge and understanding of business concepts and issues, including appropriate use of business terminology in places (AO1b).
@@ -149,7 +94,6 @@ Level_2:
   marks_awarded:
     maximum: 8
     minimum: 5
-
 Level_3:
   criteria:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
@@ -160,52 +104,16 @@ Level_3:
     maximum: 12
     minimum: 9
 
-
 ## Context:
-Good and Proper Tea was founded in 2012 by Emilie Holmes.
-The business website states:
-‘We source our teas from around the world, from Kenya to India,
-Japan to China and many more places in between. It is important
-to us that we know exactly where each tea comes from and who is
-responsible for harvesting the leaves we buy. We will always share
-this information with our customers’.
-The business started when Emilie
-converted an old Citroën van (pictured
-right) into a mobile brew bar. Emilie
-wanted to expand the business.
-To achieve this she needed finance.
-She decided to raise finance using
-crowdfunding through the Kickstarter
-website. 372 individual backers each
-provided between £1 and £1000. Good
-and Proper Tea was launched. The first
-cup of tea was brewed and sold in
-Shoreditch, London, in 2012.
-The success of the mobile business led Emilie to plan to open a shop selling the same
-high-quality teas. Once again she decided to use crowdfunding as her source of finance.
-This time, using the Crowdcube website, she successfully raised £140,000. The shop was
-opened in 2016 and is very successful.
-As Good and Proper Tea imports its most important ingredient, it is affected by changes
-in the exchange rate. Recent changes in the value of the pound mean that its costs have
-increased.
-
+Good and Proper Tea was founded in 2012 by Emilie Holmes. The business website states:
+‘We source our teas from around the world, from Kenya to India, Japan to China and many more places in between. It is important to us that we know exactly where each tea comes from and who is responsible for harvesting the leaves we buy. We will always share this information with our customers’.
+The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business. To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers each provided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012. The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful. As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its costs have increased.
 
 ## Answer:
- Crowdfunding is where businesses use online crowdfunding websites to ask investors to invest in their business in exchange for shares, discounted products or access to event/exclusive offers. 
-
+Crowdfunding is where businesses use online crowdfunding websites to ask investors to invest in their business in exchange for shares, discounted products or access to event/exclusive offers. 
 A benefit to Good and proper tea of using crowdfunding is that it allows their business to grow. This is because they can obtain the finance needed to expand such as opening their shop to sell high quality tea. Therefore they can attract more consumers interested in buying tea sourced from countries such as Kenya. This is because the citizens based in Shoreditch, London is limited in its ability to stock and sell a wide range of tea. As a result sales of Japanese and other teas will increase with finance from crowdfunding. Therefore the revenue brought in from selling high quality tea will increase.
-
 However, crowdfunding can be unreliable as it relies on the continued interest and support of investors. As a result good and proper tea will have a increased risk attached to ventures such as opening a second shop outside of London to sell its high quality international tea. Therefore Good nad Proper tea may not always be able to expand its tea sales as it may wish to due to a short fall in investments. In conclusion, it depends whether Googd and Proper tea has enough support for its individual and innovatibe methods such as selling tea out of a van or investments from crowdfunding websites to continue, and that investors are satisfied with the success of the business. Only then can they continue to use crowdfunding as a long tem source of finance.    
 
 ## Response:
-6 marks.
-The candidate structures their response using three paragraphs. In the first paragraph, they
-consider the benefits of crowdfunding, but in only a limited way. Much of this first paragraph
-does not deal with the effectiveness of crowdfunding itself, but instead with the benefits of
-Good and Proper Tea growing. There is some Application (AO2) in this paragraph, with
-reference to ‘consumers interested in buying teas sourced from (different countries)’. The
-second paragraph offers some balance, but in a simple way, by considering the possible
-drawbacks of crowdfunding. This Evaluation (AO3b) is then developed by a final conclusion.
-However, this conclusion offers only simple insights and is based on a rather limited evaluation
-of the information.
-Overall, the response was found to be placed in Level 2.
+The candidate structures their response using three paragraphs. In the first paragraph, they consider the benefits of crowdfunding, but in only a limited way. Much of this first paragraph does not deal with the effectiveness of crowdfunding itself, but instead with the benefits of Good and Proper Tea growing. There is some Application (AO2) in this paragraph, with reference to ‘consumers interested in buying teas sourced from (different countries)’. The second paragraph offers some balance, but in a simple way, by considering the possible drawbacks of crowdfunding. This Evaluation (AO3b) is then developed by a final conclusion. However, this conclusion offers only simple insights and is based on a rather limited evaluation of the information.
+Overall, the response was placed in Level 2 and 6 marks were awarded.

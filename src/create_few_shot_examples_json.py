@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
     # Run example in terminal
     '''
-    python src/create_few_shot_examples_json.py --input ./prompt_templates/aqa_history/judgement_prompt/judgement_few_shot_examples.md --outfile ./prompt_templates/aqa_history/judgement_prompt/judgement_few_shot_examples.json
+    python src/create_few_shot_examples_json.py --inputfile ./prompt_templates/aqa_history/judgement_prompt/judgement_few_shot_examples.md --outfile ./prompt_templates/aqa_history/judgement_prompt/judgement_few_shot_examples.json
     '''
     
     parser = argparse.ArgumentParser()
@@ -60,8 +60,8 @@ if __name__ == "__main__":
     few_shot_examples_json = json.dumps(processed_json)
 
     # Check if every example has the required fields
-    #fields = ['Question', 'Mark Scheme', 'Context', 'Answer', 'Response']
-    fields = ['Question', 'Mark Scheme', 'Answer', 'Response']
+    fields = ['Question', 'Mark Scheme', 'Context', 'Answer', 'Response']
+    #fields = ['Question', 'Mark Scheme', 'Answer', 'Response']
     assert [sum([field in list(x.keys())  for field in fields]) for x in processed_json]  == [len(fields)] * len(processed_json), "All Keys not represented in every few shot example"
 
     # Check if any examples are duplicated

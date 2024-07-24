@@ -35,8 +35,6 @@ Level_3:
     maximum: 6
     minimum: 5
 
-## Context:
-
 ## Answer:
 Using E-commerce lowers fixed costs, since there is no need for a high street location, therefore less contribution is required to break-even, as a result the margin of safely increases, therefore profit margin increases. This leads to an increased profit. Also, e-commerce provides larger markets to sell to, therefore larger economies of scale leading to the ATC falling. This allows the business to charge lower prices or a higher profit margin.
 
@@ -80,9 +78,8 @@ Level_3:
     maximum: 6
     minimum: 5
 
-## Context:
-
 ## Answer:
+The fixed costs of the business are lower thus more profit is made for the same amount of revenue (profit=revenue-total costs) thus they will break even quicker thus they can start collecting retained profit quickly thus margin of safety is larger thus they have more money to expand the business (making new brick and mortar stores) thus total revenue increases.
 
 ## Response:
 The candidate provides a benefit ‘fixed costs of the business are lower’ and this is
