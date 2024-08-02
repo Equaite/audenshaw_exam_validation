@@ -1,0 +1,13 @@
+{
+    "input_variables": [
+        "answer",
+        "mark_scheme",
+        "question"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "You will be given a Question, Answer, and a Mark Scheme to grade the Answer.\n    The Question is a multiple choice question and the correct answers are listed in the mark scheme.\n    Award the marks if the Answer mentions the correct answers.\n\n    Question:\n    {question}\n\n    Mark Scheme:\n    {mark_scheme}\n\n    Answer:\n    {answer}\n\n    Response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

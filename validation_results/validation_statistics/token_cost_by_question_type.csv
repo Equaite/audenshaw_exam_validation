@@ -1,0 +1,15 @@
+subject_id,question_type,mean_llm_grading_total_cost,sum_llm_grading_total_cost,number_of_questions
+aqa_history,hs_analyse,0.058918571428571424,0.41242999999999996,7
+aqa_history,hs_explain,0.11674035714285713,1.6343649999999998,14
+aqa_history,hs_judgement,0.11515357142857142,0.806075,7
+aqa_history,hs_spag,0.01662142857142857,0.11635000000000001,7
+edexcel_business_studies,bs_analyse,0.016589375,0.132715,8
+edexcel_business_studies,bs_calculate,0.004921875,0.07875,16
+edexcel_business_studies,bs_discuss,0.015960000000000002,0.06384000000000001,4
+edexcel_business_studies,bs_evaluate,0.026015,0.10406,4
+edexcel_business_studies,bs_explain,0.010348541666666667,0.248365,24
+edexcel_business_studies,bs_identify,0.0045175,0.01807,4
+edexcel_business_studies,bs_justify,0.018824375,0.150595,8
+edexcel_business_studies,bs_mcq,0.0016,0.032,20
+edexcel_business_studies,bs_outline,0.014238333333333334,0.17086,12
+edexcel_business_studies,bs_state,0.004859375,0.038875,8

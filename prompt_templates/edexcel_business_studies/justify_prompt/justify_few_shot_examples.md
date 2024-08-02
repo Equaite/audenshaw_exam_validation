@@ -41,14 +41,9 @@ Level_3:
     minimum: 7
 
 ## Context:
-Good and Proper Tea was founded in 2012 by Emilie Holmes.
-The business website states:
+Good and Proper Tea was founded in 2012 by Emilie Holmes. The business website states:
 ‘We source our teas from around the world, from Kenya to India, Japan to China and many more places in between. It is important to us that we know exactly where each tea comes from and who is responsible for harvesting the leaves we buy. We will always share this information with our customers’.
-The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business.
-To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers eachprovided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012.
-The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful.
-As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its cost have
-increased.
+The business started when Emilie converted an old Citroën van (pictured right) into a mobile brew bar. Emilie wanted to expand the business. To achieve this she needed finance. She decided to raise finance using crowdfunding through the Kickstarter website. 372 individual backers each provided between £1 and £1000. Good and Proper Tea was launched. The first cup of tea was brewed and sold in Shoreditch, London, in 2012. The success of the mobile business led Emilie to plan to open a shop selling the same high-quality teas. Once again she decided to use crowdfunding as her source of finance. This time, using the Crowdcube website, she successfully raised £140,000. The shop was opened in 2016 and is very successful. As Good and Proper Tea imports its most important ingredient, it is affected by changes in the exchange rate. Recent changes in the value of the pound mean that its costs have increased.
 
 ## Answer:
 Emilie should pick option 2 as her authentic kenyan tea leaves are a source of added value. Buying cheaper ingredients would get rid of her USP. Therefore customers would choose her competitors over her tea leafs, therefore sales go down, therefore revenue goes down therefore it's harder to break even.

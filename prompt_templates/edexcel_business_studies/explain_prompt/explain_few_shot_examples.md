@@ -18,19 +18,11 @@ marking_notes:
 total_marks:
   - 3
 
-## Context:
-
-
 ## Answer:
 Social Media e.g. instagram can be used to collect polls of people's opinions by the amount of support the advert receives or through comments left on the post. 
 
 ## Response:
-
-2 Marks
-This question requires the candidate to 'Explain one way'. Thus, it is subtly different to an 'Explain one benefit...' question. The candidate has suggested a way through 'instagram can be used to collect polls of people's opinions...' and this is developed through 'by the amount of support  the advert receives...' The candidate then does not further develop their answer.
-
-
-
+This question requires the candidate to 'Explain one way'. Thus, it is subtly different to an 'Explain one benefit...' question. The candidate has suggested a way through 'instagram can be used to collect polls of people's opinions...' and this is developed through 'by the amount of support  the advert receives...' The candidate then does not further develop their answer. Overall, this answer should be awarded 2 marks.
 
 ## Question:
 Explain one way in which social media can be used to collect market research data.
@@ -52,12 +44,8 @@ marking_notes:
 total_marks:
   - 3
 
-
-## Context:
-
-
 ## Answer:
-they could post a questionaire on Linkedin with a possible prize if they do fill it in, as a result the recipient on Linkedin will be more inclined to fill this in, therefore it is likley that they will give information back to the company that the will use.
+They could post a questionaire on Linkedin with a possible prize if they do fill it in, as a result the recipient on Linkedin will be more inclined to fill this in, therefore it is likley that they will give information back to the company that the will use.
 
 ## Response:
-This candidate has thought through their response before they started their answer. The candidate gives the way through 'They could post a questionaire on LinkedIn with a possible prize if they do fill it in'. This is developed through 'as a result the recipient on LinkedIn will be more inclined to fill it in' which is further devloped through 'therefore it is likely that they will give information back to the company'. The candidate's response has stayed tightly focused on the question.
+This candidate has thought through their response before they started their answer. The candidate gives the way through 'They could post a questionaire on LinkedIn with a possible prize if they do fill it in'. This is developed through 'as a result the recipient on LinkedIn will be more inclined to fill it in' which is further devloped through 'therefore it is likely that they will give information back to the company'. The candidate's response has stayed tightly focused on the question. Overall, this answer should be awarded 3 marks.
