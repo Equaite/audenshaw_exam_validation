@@ -1,0 +1,15 @@
+subject_id,question_type,number_of_questions,scaled_error_metric
+aqa_history,hs_analyse,7,0.13605442176870747
+aqa_history,hs_explain,14,0.09341836734693876
+aqa_history,hs_judgement,7,0.12566137566137564
+aqa_history,hs_spag,7,0.3273809523809524
+edexcel_business_studies,bs_analyse,8,0.05694444444444442
+edexcel_business_studies,bs_calculate,16,
+edexcel_business_studies,bs_discuss,4,0.0833333333333333
+edexcel_business_studies,bs_evaluate,4,0.04848484848484848
+edexcel_business_studies,bs_explain,24,
+edexcel_business_studies,bs_identify,4,
+edexcel_business_studies,bs_justify,8,0.06249999999999997
+edexcel_business_studies,bs_mcq,20,
+edexcel_business_studies,bs_outline,12,
+edexcel_business_studies,bs_state,8,

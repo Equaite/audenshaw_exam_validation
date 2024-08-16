@@ -1,4 +1,4 @@
-subject_id,question_id,question_type,student_id,question_text,mark_scheme_text,context,answer_text,awarded_marks,total_marks,answer_id,linked_answer_id,topic_id,answer_scanned_image
+subject_id,question_id,question_type,student_id,question_text,mark_scheme_text,context,answer_text,awarded_marks,total_marks,answer_id,linked_answer_id,topic_id,answer_scanned_image,level_structure
 aqa_history,1.0,hs_explain,5000,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -43,7 +43,7 @@ Bolsheviks to steal from Russia and
 betray them, the Kaiser stood in
 the doorway rubbing his hands
 together shows that he will get
-something out of it.",1,4,,,,
+something out of it.",1,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5000,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -145,7 +145,7 @@ shows how big of a difference tanks
 made in war as they could 
 quickly destroy through German 
 soldiers and smash through anything 
-in its path.",4,12,,,,
+in its path.",4,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5000,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -206,7 +206,7 @@ Level_0:
   example_answer: []",,"The Schlieffen plan led to problems in 1914 as
  Germany wanted to have an empire like Britain or France. 
  This led to a large increase in power and size of the army in order to invade and colonise. 
- This led to problems as Britain, France and other global powers were starting to get worried about their empires.",0,8,,,,
+ This led to problems as Britain, France and other global powers were starting to get worried about their empires.",0,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -299,7 +299,7 @@ However, another main cause of the First World War was the assassination of Arch
 The Alliance System also meant that each country would have to help if one was attacked by Germany, 
 this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
 they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
-In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",8,16,,,,
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",8,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5000,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -366,7 +366,7 @@ However, another main cause of the First World War was the assassination of Arch
 The Alliance System also meant that each country would have to help if one was attacked by Germany, 
 this is the idea of the Triple Entente. Also, as Britain was allies with Belgium, 
 they Britain and France both promised to attack if Germany tried to invade Belgium and try to keep them out. 
-In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",3,4,,,,
+In conclusion, I do think the Alliance system was the main cause as in the end Germany was trying to invade many of Britains' France's or Russia's allies or colonies, so they had to declare war on Germany and fight back.",3,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 aqa_history,1.0,hs_explain,5001,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -402,7 +402,7 @@ Level_0:
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
 the doorway is the German Kaiser.","Contextually, source A displays how during the Russian resolution of 1917 which led to the bolsheviks becoming in power, the bolsheviks 'backstabbed the allies' and russia while Kaiser Wilhelm II is very eagerly watching in the background. This represents the allies frustration against russia and especially the bolsheviks as they left the war and had signed a peace treaty with Germany giving up significant portions of valueable land.
-",4,4,,,,
+",4,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5001,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -489,7 +489,7 @@ scattered them in all directions. They quickly destroyed the German threat.
 
 Tanks were first introduced in the battle of the Somme 1916, but were largely inneffective as they were slow (only reaching speeds of 4 mph), many tactics were
 
-not developed for them as the British thought of not much use for them. But by 1917 and 1918, tanks were being deployed in large rows of 200-300 tanks which would cross over no-mans land and destroy the barbed wire defences. In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower. These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.",7,12,,,,
+not developed for them as the British thought of not much use for them. But by 1917 and 1918, tanks were being deployed in large rows of 200-300 tanks which would cross over no-mans land and destroy the barbed wire defences. In source C, we see the mention of machine guns on the tanks as they were added as a way to bring more firepower. These machine guns were mounted on and could turn 360 degrees to inflict damage upon the enemies.",7,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5001,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -548,7 +548,7 @@ Level_0:
   criteria: []
   progression: []
   example_answer: []",,"The Schlieffen plan was heavily reliant on Russia taking a long time to mobilize and a very quick and decisive win against France (in 40 days). The plan was to have a large bulk of the German army invade France by cutting into Belgium, the Netherlands and Luxembourg to surprise the French, who would be anticipating an attack directly into France on the boarder between them. However, the Schlieffen plan failed as Russia only took 10 days to mobilize (faster than expected) and Belgium put up a fierce and resistance fight against the Germans (much more resistance than Germany had anticipated). Ultimately, invading through Belgium only helped the stalemate last longer as Britain was forced to join the war effort as invading Belgium initiated an 1843 treaty of London where Britain vowed to protect Belgium. This prolonged the war significantly, turning 40 days into 4 years.
-",8,8,,,,
+",8,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -635,7 +635,7 @@ Level_0:
   example_answer:
     - N/A",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
 
-In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",6,16,,,,
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",6,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5001,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -696,7 +696,7 @@ Level_1:
   example_answer: 
     - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with the statement as the alliances meant that Europe was divided in two different camps. The alliances were the main trigger for many of the events, wars and crises that led up to world war one. The black hand (a terrorist group) assasinated Archduke Franz Ferdinand (the heir to the austrian-hungarian throne) leaving only serbia to blame for the assasination. Austria-Hungary sent a couple requests to the Serbian government but the government accepted all except one (which allowed Austria-Hungary full control over the Serbian police force). Austria-Hungary soon declared war on Serbia which prompted Russia to declare war on Austria-Hungary in defence of Serbia, Germany to declare war on Russia, France to declare war on Germany. Then Germany invaded Belgium bringing Britain into the war as it triggered the 1843 treaty of London which Britain vowed to protect Belgium from invading forces. Because of Archduke Franz Ferdinand's death,Europe was involved in an all-out war.
 
-In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",3,4,,,,
+In 1871, shortly after Germany's unification, Germany and Austria-Hungary made an alliance together as they both shared similar cuteral identities,had shared the same common language of German and were politically close to each other. Later, the Italians joined the dual alliance to form the triple alliance with Germany and Austria-Hungary. In 1892, France and Russia formed an alliance together. This was a threat towards Germany as it meant they could be attacked from either the East or the West. Later in 1904, Britain formed an alliance with France, known as the Entente Cordiale (Friendly alliance). Then in 1906, Britain, France and Russia all came together to form the triple Entente. The alliance system made political disputes more intense as one disagreement could lead to a major war. This is clearly seen in the Moroccan crisises and the Balkan wars. The involvement of this many countries made it impossible to avoid an all  out war from breaking out in Europe, thus causing the start of World War One.",3,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 aqa_history,1.0,hs_explain,5002,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -740,7 +740,7 @@ anything about the bolskveiks trying to steal the gold. They
 have put 'BETRAYED' this is because Bosnia had asked
 russia for help whilst having war threats. So they 
 asked russia for help and it shows now that they are stealing
-money for the germans in WWI and they are taking it from the russians. ",0,4,,,,
+money for the germans in WWI and they are taking it from the russians. ",0,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 edexcel_business_studies,1.1,bs_mcq,5002,"Which one of the following could market mapping be used for?
 Select one answer
 A: Identifying how many customers there are in a market
@@ -750,11 +750,11 @@ D: To identify the location of a business","
 correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.2,bs_mcq,5002,,"correct_answer:
   - C
 total_marks:
-  - 1",,B,0,1,,,,
+  - 1",,B,0,1,,,,,
 edexcel_business_studies,1.3,bs_explain,5002,Explain one advantage of starting a business as a private limited company.,"marking_criteria:
   - Identification of an advantage
   - Explanation of the identified advantage
@@ -772,7 +772,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,One advantage of starting a business as a private limited company is that the business will have money and will not be able to struggle and may already have customers.,0,3,,,,
+  - 3",,One advantage of starting a business as a private limited company is that the business will have money and will not be able to struggle and may already have customers.,0,3,,,,,
 edexcel_business_studies,1.4,bs_explain,5002,Explain one way the internet may affect where a small business chooses to locate.,"marking_criteria:
   - Identification of a way (1 mark)
   - Explanation of the way (up to 2 additional marks)
@@ -787,7 +787,7 @@ marking_notes:
   - Accept any other appropriate response
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,The internet may rate it based on its location if it’s in a bad area it will be rated badly. If it’s in a good area it may will be rated good. The internet would also help a business to choose location depending on an area where sales are high.,0,3,,,,
+  - 3",,The internet may rate it based on its location if it’s in a bad area it will be rated badly. If it’s in a good area it may will be rated good. The internet would also help a business to choose location depending on an area where sales are high.,0,3,,,,,
 aqa_history,2.0,hs_explain,5002,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -874,19 +874,19 @@ scattered them in all directions. They quickly destroyed the German threat.
 
 In Source C it Shows that the german Soilder were preparing an attack on the british tank, but then 7 of the newest and fastest tanks named whippets came and drove straight into the german Soilders and scattered them in all directions, which this had destroyed the German threat. This helps the students studying military technology understand about how fast and powerful the Whippet was. In source B shows how useful and how good the strategy was used by the british soldiers were they could run across the battlefield without dying this helps the student studying Military technology.
 
-",3,12,,,,
+",3,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 edexcel_business_studies,2.1,bs_mcq,5002,,"correct_answer:
   - A
   - C
 total_marks:
   - 2
-",,"A, C",2,2,,,,
+",,"A, C",2,2,,,,,
 edexcel_business_studies,2.2,bs_mcq,5002,,"correct_answer:
   - B
   - D
 total_marks:
   - 2
-",,"B, D",2,2,,,,
+",,"B, D",2,2,,,,,
 edexcel_business_studies,2.3,bs_calculate,5002,"Table 1 contains information about a small business.
 
 fixed_costs: 
@@ -907,7 +907,7 @@ Decrease = 4,000 – 2,500 (1)
 Answer: 1,500 units (1)",,"£10,000 / 250 = 400
 6.50 * 4000 = 26000
 5.00 * 4000 = 20000
-2000 units",0,2,,,,
+2000 units",0,2,,,,,
 edexcel_business_studies,2.4,bs_explain,5002,Explain one way a small business could become more competitive.,"marking_criteria:
   - Identification of a way
   - Explanation of the way
@@ -921,7 +921,7 @@ marking_notes:
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 3",,A small business to be more competitive could find what products are having an increase in sales in certain places where many customers go this could lead to an increase in profit.,0,3,,,,
+  - 3",,A small business to be more competitive could find what products are having an increase in sales in certain places where many customers go this could lead to an increase in profit.,0,3,,,,,
 edexcel_business_studies,2.5,bs_explain,5002,Explain one advantage to a small business of meeting its legal obligations.,"
 marking_criteria:
   - Identification of an advantage
@@ -940,7 +940,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 6",,By a small business meeting its legal obligations this could make people want to work for a business by following a legal obligation like employee's wage or discrimination. or even paying them on time.,1,3,,,,
+  - 6",,By a small business meeting its legal obligations this could make people want to work for a business by following a legal obligation like employee's wage or discrimination. or even paying them on time.,1,3,,,,,
 aqa_history,3.0,hs_analyse,5002,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -998,16 +998,16 @@ Level_0:
     minimum: 0
   criteria: []
   progression: []
-  example_answer: []",,,0,8,,,,
+  example_answer: []",,,0,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 edexcel_business_studies,3.1,bs_mcq,5002,,"
 correct_answer:
   - A
 total_marks:
-  - 1",,A,1,1,,,,
+  - 1",,A,1,1,,,,,
 edexcel_business_studies,3.2,bs_calculate,5002,,"Substitution into correct formula:
 £5.20 x 7,200 (1)
 Answer: £37 440 (1)",,"7,200 * £5.20 
-37440",2,2,,,,
+37440",2,2,,,,,
 edexcel_business_studies,3.3,bs_explain,5002,Explain one disadvantage to a small business of not paying its employees on time.,"marking_criteria:
   - Identification of a disadvantage: 1 mark
   - Explanation of the disadvantage: up to 2 further marks
@@ -1018,7 +1018,7 @@ marking_notes:
   - Accept any other appropriate response.
   - Answers that list more than one disadvantage with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,Employees could eventually sue the job and could leave lots of negative things about the job and people will not want to work here.,0,3,,,,
+  - 3",,Employees could eventually sue the job and could leave lots of negative things about the job and people will not want to work here.,0,3,,,,,
 edexcel_business_studies,3.4,bs_explain,5002,Explain one advantage to a small business rom using retained profit as a source of finance.,"marking_criteria:
   - Identification of an advantage
   - Explaining the advantage
@@ -1036,7 +1036,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,By a business using retained profit as a source of finance it gain profit it makes them instead of having to pay the money back and borrowing it.,0,3,,,,
+  - 3",,By a business using retained profit as a source of finance it gain profit it makes them instead of having to pay the money back and borrowing it.,0,3,,,,,
 edexcel_business_studies,3.5,bs_discuss,5002,Discuss the impact on a small business from adapting existing products to develop new business ideas.,"Indicative_content:
   - Adapting existing products can take less time and creative input than creating original ideas (AO1b).
   - Adapting existing products may not be as innovative as creating original ideas (AO1b).
@@ -1083,7 +1083,7 @@ Level_3:
     minimum: 5
   criteria:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
-    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,"The impact of a small business from adapting existing products to develop new business ideas is that the existing producers may be a trending product and to develop new business ideas is just making it better this could lead to an increase in profit, as many people may want this new business ideas.",0,6,,,,
+    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,"The impact of a small business from adapting existing products to develop new business ideas is that the existing producers may be a trending product and to develop new business ideas is just making it better this could lead to an increase in profit, as many people may want this new business ideas.",0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 aqa_history,4.1,hs_judgement,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -1170,7 +1170,7 @@ Level_0:
   example_answer:
     - N/A",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
 
-Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",3,16,,,,
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",3,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 edexcel_business_studies,4.1,bs_outline,5002,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","marking_criteria:
   - Outline a way financial information in a business plan could help forecast success.
   - Points must be linked to award up to 2 marks.
@@ -1188,7 +1188,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",having a unique selling point (usp) by this price she could and her business could be recommended by this people who offer her services and are satisfied by it may help people about therefore this could save her money on advertising.,0,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",having a unique selling point (usp) by this price she could and her business could be recommended by this people who offer her services and are satisfied by it may help people about therefore this could save her money on advertising.,0,2,,,,,
 aqa_history,4.2,hs_spag,5002,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -1249,7 +1249,7 @@ Level_1:
   example_answer: 
     - The learner writes nothing. The learner’s response does not relate to the question. The learner’s achievement in SPaG does not reach the threshold performance level, for example, errors in spelling, punctuation, and grammar severely hinder meaning.",,"I agree with this statement to full extent. This is because a factor which led to World War 1 was the Morrocan crisis which this had France wanted to take over Morroco and Germany's kaiser went to Tangier to show support on Morrocos full independence. This was to see how far France would push. And Britain was allies with France so if Germany would war with France britian would be there for support.
 
-Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",0,4,,,,
+Another factor was when there was a rebillion in tukey and they used this as an opportunity to take advantage of Turkey's weakened state.",0,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 edexcel_business_studies,4.2,bs_analyse,5002,Analyse the impact of non-financial aims on Amelia's decision to start Lili Heating Ltd.,"Indicative_content:
   - The challenge of setting up a plumbing business in Birmingham, where competition is high, could be a driving force for Amelia (AO2).
   - Amelia may want to gain more independence after working for someone else for six years (AO2).
@@ -1296,18 +1296,18 @@ Level_3:
     - []","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One of her non-financial aims was that she wanted this as a way of women to get relatively closer with women doing their work in their house.,0,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One of her non-financial aims was that she wanted this as a way of women to get relatively closer with women doing their work in their house.,0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,5.1,bs_calculate,5002,,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
 Answer: £1 600 (1)",,"£4,000 + £8,600 = 12,600\n(-cash outflows - £11,000)
 £12,600 - £11,000 = 1600
-£1600",2,2,,,,
+£1600",2,2,,,,,
 edexcel_business_studies,5.2,bs_calculate,5002,,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
 Answer: 50.52% (1)",,"66,700 - 33,700 = 33,000
 Men - 33,000
 Women 33,700 ÷ 2 decimal places 34,000
-50.52 %",2,2,,,,
+50.52 %",2,2,,,,,
 edexcel_business_studies,5.3,bs_analyse,5002,Analyse the impact on Lili Heating Ltd of using the internet to collect secondary market research.,"Indicative_content:
   - Using the internet as a source of secondary market research is a fast and convenient way to discover how many females live in Birmingham (AO2).
   - The internet will not provide focused information to let Amelia know if there will be enough demand for her plumbing and building services (AO2).
@@ -1357,7 +1357,7 @@ Level_3:
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","By Lili Heating Ltd using the internet to collect secondary research is people may not be accurate online. However, finding out secondary market research could give you beneficial business impacts. It shows you what things they like in a service. Lili could also find out about the good services in plumbing through secondary market research. This could lead her work to a high standard. This means more people will know and use her services more. This could grow her business and could lead to an increase in profit.",1,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","By Lili Heating Ltd using the internet to collect secondary research is people may not be accurate online. However, finding out secondary market research could give you beneficial business impacts. It shows you what things they like in a service. Lili could also find out about the good services in plumbing through secondary market research. This could lead her work to a high standard. This means more people will know and use her services more. This could grow her business and could lead to an increase in profit.",1,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,6.1,bs_state,5002,"State one element of the marketing mix, other than price, for Lili Heating Ltd.","marking_criteria:
   - Stating one element of the marketing mix for Lili Heating Ltd.
 example_answers:
@@ -1367,7 +1367,7 @@ example_answers:
 marking_notes:
   - To award 1 mark there must be evidence of application.
 total_marks:
-  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",What work needs to be done and how it needs to be done to a high standard.,0,1,,,,
+  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",What work needs to be done and how it needs to be done to a high standard.,0,1,,,,,
 edexcel_business_studies,6.2,bs_outline,5002,Outline one reason why the government would want Lili Heating Ltd to be successful.,"marking_criteria:
   - Linked points outlining a reason why the government would want Lili Heating Ltd to be successful.
   - Maximum of 1 mark if points are not linked.
@@ -1384,7 +1384,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Because many female customers feel that they can relate more easily with doing repairs in their house.,0,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Because many female customers feel that they can relate more easily with doing repairs in their house.,0,2,,,,,
 edexcel_business_studies,6.3,bs_justify,5002,Justify which one of these two options Lili Heating Ltd should choose.,"Level_0:
   description: 
     - No rewardable material.
@@ -1451,7 +1451,7 @@ Level_3:
 ","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",I think Lili heating LTD should consider option 1 which is offer a discounted price to female customers. This is because if a woman gets a discount this could be forwarded to other women which is another way of promoting a business by people sharing it and telling friends and family. This could help towards promoting a business. Overall this will lead to an increase in profit and having an increase in profit for Lili heating LTD is good as she has just started and will not need to struggle of survival. And option 2 that doesn't help as much as option 1 towards business growth.,3,9,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",I think Lili heating LTD should consider option 1 which is offer a discounted price to female customers. This is because if a woman gets a discount this could be forwarded to other women which is another way of promoting a business by people sharing it and telling friends and family. This could help towards promoting a business. Overall this will lead to an increase in profit and having an increase in profit for Lili heating LTD is good as she has just started and will not need to struggle of survival. And option 2 that doesn't help as much as option 1 towards business growth.,3,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.1,bs_state,5002,State one example of a risk for an investor in Ripple.,"marking_criteria:
   - Stating one risk for investors in Ripple
 
@@ -1464,13 +1464,13 @@ marking_notes:
   - To award 1 mark there must be evidence of application.
 
 total_marks:
-  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",This can make one person own a share in a lot depending on how much. So a person can own more of a share. And they can lose out on more and can go bankrupt as they are a small business.,0,1,,,,
+  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",This can make one person own a share in a lot depending on how much. So a person can own more of a share. And they can lose out on more and can go bankrupt as they are a small business.,0,1,,,,,
 edexcel_business_studies,7.2,bs_identify,5002,"Using the information in Table 4, identify which type of energy use declined the most between 2018 and 2019.","marking_criteria:
   - Award mark if the example answer is mentioned exactly (case insensitive).
 example_answers:
   - Coal
 total_marks:
-  - 1",,Oil with 2.8% of use.,0,1,,,,
+  - 1",,Oil with 2.8% of use.,0,1,,,,,
 edexcel_business_studies,7.3,bs_outline,5002,Outline one benefit to customers from Ripple asking questions to identify its customer needs.,"marking_criteria:
   - Benefit to customers of Ripple
 example_answers:
@@ -1484,7 +1484,7 @@ marking_notes:
   - Award a maximum of 1 mark if points are not linked.
   - To award 2 marks there must be linked development and evidence of application.
 total_marks:
-  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","This will create a green energy plan to establish how much a customer should invest into Ripple. This will be favorited by people. People will recommend this business and people will use their services. This will lead into an increase in profit, as they are a small business.",2,2,,,,
+  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","This will create a green energy plan to establish how much a customer should invest into Ripple. This will be favorited by people. People will recommend this business and people will use their services. This will lead into an increase in profit, as they are a small business.",2,2,,,,,
 edexcel_business_studies,7.4,bs_justify,5002,Justify which one of these two options would have the most significant impact on the success of Ripple.,"Level_1:
   description: 
     - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
@@ -1529,7 +1529,7 @@ Level_3:
     - Training courses can be expensive. Sending new employees on these courses would increase the costs of Ripple. Therefore, if the government pays for this training then Ripple could focus more of its members’ investment into expanding the wind farm (AO3a).
     - However, the business is owned by the customers and the main objective may not be profit maximisation. This would limit the effect that any reduction in tax would have on the business (AO3b).
     - However, the business is located in a remote area of the country and may not need to employ many people to manage the wind farm. Therefore, they might not have enough training requirements to fully benefit from the government strategy (AO3b).
-","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","I think option 1 is more suitable by reducing the tax paid by a small business. If Ripple, the small business, pays a small amount this will make the business have an increase in profit because they will pay less and have a big increase in profit. This will help the business to grow and not be able to worry about being in survival.",2,9,,,,
+","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","I think option 1 is more suitable by reducing the tax paid by a small business. If Ripple, the small business, pays a small amount this will make the business have an increase in profit because they will pay less and have a big increase in profit. This will help the business to grow and not be able to worry about being in survival.",2,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.5,bs_evaluate,5002,Evaluate the importance of price in Ripple's marketing mix. You should use the information provided as well as your knowledge of business.,"Indicative_content:
   - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
   - Attempts to deconstruct business information and/or issues, finding limited connections between points (AO3a).
@@ -1645,7 +1645,7 @@ Level_3:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
     - Detailed application of knowledge and understanding of business concepts and issues to the business context throughout (AO2).
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).
-    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",this will help the business from not being able to struggle if the price is right ig its a good price people will recommend it to other people and this will help the business growth by telling family and friends can help to lead into an increase in profit.,2,12,,,,
+    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",this will help the business from not being able to struggle if the price is right ig its a good price people will recommend it to other people and this will help the business growth by telling family and friends can help to lead into an increase in profit.,2,12,,,,,"{1: [1, 4], 2: [5, 8], 3: [9, 12], 0: [0]}"
 aqa_history,1.0,hs_explain,5030,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -1680,7 +1680,7 @@ Level_0:
     minimum: 0
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
-the doorway is the German Kaiser.","In Source A, the Bolsheviks are stealing gold from Russia and the caption below is ""BETRAYED"". This title is truthfully used to describe how the Bolsheviks betrayed Russia and caused a disruption in the alliances. The source is a British cartoon, this could be because the British and Russia were in an alliance called the Triple Entente which consisted of Russia, Britain and France. The reason Russia is depicted as a woman and the Bolsheviks as a robber is because the Bolsheviks gained the trust of Russia and then betrayed them leaving Russia helpless.",2,4,,,,
+the doorway is the German Kaiser.","In Source A, the Bolsheviks are stealing gold from Russia and the caption below is ""BETRAYED"". This title is truthfully used to describe how the Bolsheviks betrayed Russia and caused a disruption in the alliances. The source is a British cartoon, this could be because the British and Russia were in an alliance called the Triple Entente which consisted of Russia, Britain and France. The reason Russia is depicted as a woman and the Bolsheviks as a robber is because the Bolsheviks gained the trust of Russia and then betrayed them leaving Russia helpless.",2,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5030,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -1765,7 +1765,7 @@ Firing their machine guns, they drove straight into the German soldiers, and
 scattered them in all directions. They quickly destroyed the German threat.
 ```","In Source B, the picture shows a section Of British soldiers advencing under artilery bourrage. The picture was published in a British newspaper and and could be an awareness to show the changes of technology to the citizens of great Britain. In this case, the changes in technology could be the artillery due to its raw increase accuracy and fire rate. Another charge in technology was fighter planes. The way that the fighter get could damage people and find them was due to a savee secret compartment where they could throw bombs out of it creating the havoc among the soilders on the groud. Some planes had a camera attached to the plane so it could take a birds eye view picture to find and locate the exact co-ordinates to attack them. However, In Source C It tells the reader about a tank operator called Frank Mitchell who is writing about his experiences in the spring offensive in 1918. He was describing his experiences using tanks and how powerful they could be. They quickly destroyed German trench. Shows how this new machine could stop anything in its track and even was a defense mechanism to stop the new machine guns.
 
-To an Historian these & other sources are both useful in there own use. Source B describes the way artillery barrage had become worse and more accurate to the enemy soldiers. Source C also shows the way new technology such as tanks can help the opposition win the war.",5,12,,,,
+To an Historian these & other sources are both useful in there own use. Source B describes the way artillery barrage had become worse and more accurate to the enemy soldiers. Source C also shows the way new technology such as tanks can help the opposition win the war.",5,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5030,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -1846,7 +1846,7 @@ for the british due to the fact
 that the Germans were attacking 
 them and cause a large
 amount of fatal injury and 
-death.",1,8,,,,
+death.",1,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5030,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -1937,7 +1937,7 @@ The main two alliances were the triple alliance which involved Germany Austria-H
 
 The way Germany handed a 'blank cheque' over to Austria-Hungary could also have started the argument or the main cause due to it presenting almost a brotherhood to both countries making them a powerful combination.
 
-In my opinion, the alliances is a massive factor of the first World war and It is in fact the main cause, however it also shows how both alliances divided to fight against each other and how the other countries composed of loyalty but also betrayal. ",7,16,,,,
+In my opinion, the alliances is a massive factor of the first World war and It is in fact the main cause, however it also shows how both alliances divided to fight against each other and how the other countries composed of loyalty but also betrayal. ",7,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5030,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -2002,7 +2002,7 @@ The main two alliances were the triple alliance which involved Germany Austria-H
 
 The way Germany handed a 'blank cheque' over to Austria-Hungary could also have started the argument or the main cause due to it presenting almost a brotherhood to both countries making them a powerful combination.
 
-In my opinion, the alliances is a massive factor of the first World war and It is in fact the main cause, however it also shows how both alliances divided to fight against each other and how the other countries composed of loyalty but also betrayal. ",3,4,,,,
+In my opinion, the alliances is a massive factor of the first World war and It is in fact the main cause, however it also shows how both alliances divided to fight against each other and how the other countries composed of loyalty but also betrayal. ",3,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 aqa_history,1.0,hs_explain,5057,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -2037,7 +2037,7 @@ Level_0:
     minimum: 0
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
-the doorway is the German Kaiser.",,0,4,,,,
+the doorway is the German Kaiser.",,0,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5057,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -2122,7 +2122,7 @@ Firing their machine guns, they drove straight into the German soldiers, and
 scattered them in all directions. They quickly destroyed the German threat.
 ```","Source B shows a attacking technique known as the creeping barrage. Source C is a account from a veteran who fought in spring offensive. These sources are useful for a historian. Source C talks about whippets a new tank. In 1916, when tanks were first used they struggled to break enemy lines. Within 2 years they were able to move quickly into enemy lines. I believe the usage of tanks in the spring offensive was a key reason germany specialised unit, storm troopers, even after artillery fire and mustard gas.
 
-Source B is a propaganda news article showing a new attack the creeping barrage. It was used in Verdun to break the stalemate by providing covers for soldiers. It demonstrates how accurate artillery fire had become and how well timed the army had become. However due to it being British propaganda it hides the issues from the public. For example if any of the timing were of by even a second it could lead to men dieng by there own artillery this happened and hundreds died. Both sources are usefull but they hide the issues with new technology because of the government controll over media in war. ",4,12,,,,
+Source B is a propaganda news article showing a new attack the creeping barrage. It was used in Verdun to break the stalemate by providing covers for soldiers. It demonstrates how accurate artillery fire had become and how well timed the army had become. However due to it being British propaganda it hides the issues from the public. For example if any of the timing were of by even a second it could lead to men dieng by there own artillery this happened and hundreds died. Both sources are usefull but they hide the issues with new technology because of the government controll over media in war. ",4,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5057,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -2184,7 +2184,7 @@ Level_0:
 
 The first issue this caused was a war on two front west France, east Russia. This meant that Germany was spread thin on supply meaning the soldiers began to starve as they couldn't transport food to 2 fronts. For survival the Germans began to dig trenches so the British and the French did too.
 
-This was the second issue the creation of trenches led to a stalemate. During this thousands of men died but no land was taken due to periods of heavy artillery fire. In addition the trenches condition caused issues as disease spread fast so hundreds died due to a lack of hygiene for example trench foot from the muddy floor and cholera was spread due to flees bitting the infected and spreading it.",4,8,,,,
+This was the second issue the creation of trenches led to a stalemate. During this thousands of men died but no land was taken due to periods of heavy artillery fire. In addition the trenches condition caused issues as disease spread fast so hundreds died due to a lack of hygiene for example trench foot from the muddy floor and cholera was spread due to flees bitting the infected and spreading it.",4,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5057,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -2276,7 +2276,7 @@ The alliances also escalated the balkans crisis into major war as Austria Hungar
 The Alliance caused conflict as other countries wanting to join for example Serbia and Bosnia turned to unite with Russia as they were Slavic Brothers. Bosnia had a revolution against Austria where Arche duke frans ferdinand was assasinated because they wanted to escape Austria's controll and join russia. This led to the to point ultimatum which would be the reason war broke out. Due to the alliance all the countries were dragged in even ones who did nothing in the Balkans crisis.
 
 There would have been less conflict if alliances weren't made.
-",6,16,,,,
+",6,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5057,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -2343,7 +2343,7 @@ The Alliance caused conflict as other countries wanting to join for example Serb
 
 There would have been less conflict if alliances weren't made.
 
-",3,4,,,,
+",3,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 aqa_history,1.0,hs_explain,5058,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -2379,7 +2379,7 @@ Level_0:
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
 the doorway is the German Kaiser.","From Source A, we can see a depiction of a Russian Bolshevik revolutionist with ‘German gold’ trying to maim what looks out to be the tsarist depiction of Russia, and in the background we can see the German Kaiser Wilhelm the second plotting. Contextually we can infer that sential Communist Lenin was sent from Switzerland to Russia where he was exiled to stir up tensions on Russia so that the Germans could get some relief off the Eastern front. The style of clothing that the Russian Imperialist is wearing represents royalty which ties into the fact that Russia had its monarchy killed during the revolution to show its harsh and neglect that it gave to the Russian people centuries prior. Lenin was sent by Kaiser Wilhelm as he knew a time like this for Russia would be perfect as he was brought major famine and poverty to Russia, so he wanted change.
-",4,4,,,,
+",4,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5058,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -2466,7 +2466,7 @@ scattered them in all directions. They quickly destroyed the German threat.
 
 explosion, the Germans couldn't also see the advancing troops in front of them which caused major distress. Source C brings the idea of tanks into the question which was a revolutionary idea at the time as there was anything like it. In September 1916 the first battalion of tanks were deployed into the Battle of the Somme which allowed for the ease of movement to continue. Trenches had become ineffective for the Germany as they could have just been ran over. Barbed wire which was a massive problem until this point also became ineffective as tanks could have just flattened them causing no distress from when explosives blew them up which only led to them becoming noisy. The tanks had a 360 turret which was later developed which could shoot from anywhere. In the Battle of Cambrai, 1917 they were able to use the tanks for a circular formation in rows as the Battle of the Somme let only 50 tanks remaining from the 400 used. Towards the end of the war which was a vital asset for the allied victory as the Germans could really fight back.
 
-",10,12,,,,
+",10,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5058,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -2524,7 +2524,7 @@ Level_0:
     minimum: 0
   criteria: []
   progression: []
-  example_answer: []",,"In the 19th Century just after the Franco-Prussian war which was a victory for Prussia, Alfred von Schlieffen created a plan which was fairly simple in a way to take out two of Europe’s biggest powers: France and Russia doing this by gathering a number of 750,000 troops, going through Alsace-Lorraine taking out France before diverting for Russia taking both out in the general scheme, however there was major flaws to this. Number one was that sometime before the war, France had created the Maginot line to protect himself from Germany if they were to ever attack again. This meant Germany had to divert for Belgium. However, in 1839 the Treaty of London was signed with Britain giving full support for Belgium as they gained independence from any country willing to attack them. This meant if Germany diverted for Belgium they would face a double threat with Britain joining the war. The Belgian army too would be employed adding resistance towards the Germans. On the Eastern side, Russia before the war was able to muster up men in the course of 4 weeks which wasn't apart of Germany plan as they assumed Russia would be the attack as a surprise. This led to a war on two fronts. The BEF also came in time to support the invasion before the Germans got to Paris.",8,8,,,,
+  example_answer: []",,"In the 19th Century just after the Franco-Prussian war which was a victory for Prussia, Alfred von Schlieffen created a plan which was fairly simple in a way to take out two of Europe’s biggest powers: France and Russia doing this by gathering a number of 750,000 troops, going through Alsace-Lorraine taking out France before diverting for Russia taking both out in the general scheme, however there was major flaws to this. Number one was that sometime before the war, France had created the Maginot line to protect himself from Germany if they were to ever attack again. This meant Germany had to divert for Belgium. However, in 1839 the Treaty of London was signed with Britain giving full support for Belgium as they gained independence from any country willing to attack them. This meant if Germany diverted for Belgium they would face a double threat with Britain joining the war. The Belgian army too would be employed adding resistance towards the Germans. On the Eastern side, Russia before the war was able to muster up men in the course of 4 weeks which wasn't apart of Germany plan as they assumed Russia would be the attack as a surprise. This led to a war on two fronts. The BEF also came in time to support the invasion before the Germans got to Paris.",8,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5058,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -2613,7 +2613,7 @@ Level_0:
 
 Another alliance between the French and the Belgians also stopped and aggrovated German plans for WWI in attacking france Belgian led to Britain joining the war which would become a burden for the Kaiser. This caused a massive divide in the Nations of Europe which was a factor of the July crisis which ultimately ended up with the start of world war one. In conclusion we can see that the build up of allinnces between certain countries in Europe and Asia (Japanese and the British) led to a mess as various problems were split through various different nations. This includes Italy who was originally part of the Triple Alliance with Germany and Austria but however to unprecedented events switched to the Entente side by the start of the war.
 
-",12,16,,,,
+",12,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5058,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -2676,7 +2676,7 @@ Level_1:
 
 Another alliance between the French and the Belgians also stopped and aggrovated German plans for WWI in attacking france Belgian led to Britain joining the war which would become a burden for the Kaiser. This caused a massive divide in the Nations of Europe which was a factor of the July crisis which ultimately ended up with the start of world war one. In conclusion we can see that the build up of allinnces between certain countries in Europe and Asia (Japanese and the British) led to a mess as various problems were split through various different nations. This includes Italy who was originally part of the Triple Alliance with Germany and Austria but however to unprecedented events switched to the Entente side by the start of the war.
 
-",3,4,,,,
+",3,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 aqa_history,1.0,hs_explain,5091,Source A is critical of the Bolsheviks during the First World War. How do you know? Explain your answer using Source A and your contextual knowledge.,"Level_2:
   description: 
     - Developed analysis of source based on content and/or provenance
@@ -2711,7 +2711,7 @@ Level_0:
     minimum: 0
   criteria:
     - Response does not address the question","Source A:  A British cartoon entitled ‘Betrayed’, published in December 1917. The figure in
-the doorway is the German Kaiser.","Source A shows a bearded man tussling with a young woman and stealing her wealth. This has been used to show the actions of the Bolsheviks in December 1917 and how, encouraged by the kaiser in the doorway, they stole wealth from there own country, and gave it to the Germans. We know in late 1917 Russia signed the Treaty of Brest-Litovsk and lost lots of its land and resources in return for a cease fire in the Eastern Front. The British created the cartoon to show how the Triple Entente had been betrayed by russia and to criticise there actions; Russian withdrawl from the War meant war was only now fought from one front.",4,4,,,,
+the doorway is the German Kaiser.","Source A shows a bearded man tussling with a young woman and stealing her wealth. This has been used to show the actions of the Bolsheviks in December 1917 and how, encouraged by the kaiser in the doorway, they stole wealth from there own country, and gave it to the Germans. We know in late 1917 Russia signed the Treaty of Brest-Litovsk and lost lots of its land and resources in return for a cease fire in the Eastern Front. The British created the cartoon to show how the Triple Entente had been betrayed by russia and to criticise there actions; Russian withdrawl from the War meant war was only now fought from one front.",4,4,,,,,"{2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,2.0,hs_explain,5091,How useful are Sources B and C to an historian studying military technology and tactics in the First World War? Explain your answer using Sources B and C and your contextual knowledge.,"Level_4:
   description: 
     - Complex evaluation of both sources with sustained judgment based on content and provenance
@@ -2804,7 +2804,7 @@ hand fighting because of the tanks physiological and
 devastating effects they had on the enemy. Source C 
 is useful to a historian because it has personal 
 story from someone actually experiencing the power 
-of tanks, showing how the threat they brought. ",9,12,,,,
+of tanks, showing how the threat they brought. ",9,12,,,,,"{4: [10, 12], 3: [7, 9], 2: [4, 6], 1: [1, 3], 0: [0]}"
 aqa_history,3.0,hs_analyse,5091,Write an account of how the Schlieffen Plan led to problems in 1914.,"Level_4:
   description: 
     - Answer is presented in a coherent narrative/account that demonstrates a range of accurate and detailed knowledge and understanding that is relevant to the question
@@ -2864,7 +2864,7 @@ Level_0:
   progression: []
   example_answer: []",,"The Schlieffen plan already had some problems to it, even before it was put into practise. For example it relied on the slow mobilisation of Russia. As the Germans would find out, the Russian army mobilised in just 10 days and had already consigned plans to attack in the East. This meant the Germans would have to fight a war on two fronts, exactly what was trying to be avoided. Furthermore after the death of Alfred Von Schlieffen in 1913, the next general made the army smaller for the assault on France, and also missed Holland from the plan entirely. This meant the Germans would have a weaker force in battle, additioning to them having to divide there army in half to fight in two fronts.
 
-The German plan also relied on Belgium’s invasion which they thought would be quick and easy. However, the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement. This gave France and Russia time to communicate and mobilise. Furthermore the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty. Therefore when they invaded Belgium and entered through France, The BEF was sent out to stop the Germany army. to May 1914 France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan.",8,8,,,,
+The German plan also relied on Belgium’s invasion which they thought would be quick and easy. However, the Belgian army put up stiff resistance trying forts and its small army, slowing down the German advancement. This gave France and Russia time to communicate and mobilise. Furthermore the German army underestimated the pact Britain had with Belgium in the 1890's, supporting its neutralaty. Therefore when they invaded Belgium and entered through France, The BEF was sent out to stop the Germany army. to May 1914 France and the BEF fought the Germans at the battle of Mons, contributing to stalemate the failure of the Schielfen plan.",8,8,,,,,"{4: [7, 8], 3: [5, 6], 2: [3, 4], 1: [1, 2], 0: [0]}"
 aqa_history,4.1,hs_judgement,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - Complex explanation of stated factor and other factor(s) leading to a sustained judgement
@@ -2957,7 +2957,7 @@ days War was declared. Russia was dragged in due to its alliance with Serbia and
 
 Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
 France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
-when Franz Ferdinand was killed, Germany declared War.",10,16,,,,
+when Franz Ferdinand was killed, Germany declared War.",10,16,,,,,"{4: [12, 16], 3: [9, 12], 2: [5, 8], 1: [1, 4], 0: [0]}"
 aqa_history,4.2,hs_spag,5091,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,"Level_4:
   description: 
     - High Performance
@@ -3025,7 +3025,7 @@ days War was declared. Russia was dragged in due to its alliance with Serbia and
 Finally the Moroccan Crisis was another reason why Germany were happy for a war to start.
 France wanted to take over Morocco but Germany also wanted to expand its empire so the kaiser sent a warship into the ports of Morocco to show Germany wanted to be part of World affairs too. The French were outraged and a meeting in Algeciras (Spain) with the USA, Britain, Germany and France calmed the situation down preventing early war. The kaiser did this to see how Sent France could be pushed but Germany was humiliated when Britain Supported France due to there alliance. In 1911 the French were called into Morocco to settle a rebellion but Germany accused France of invading the country. Ultimately it was declared France would take full control of Morocco which humiliated the Kaiser for a Second time. He wanted to prove Germany's strength and it was clear he would not back down a third time, therefor 
 when Franz Ferdinand was killed, Germany declared War.
-",4,4,,,,
+",4,4,,,,,"{4: [4], 3: [2, 3], 2: [1], 1: [0]}"
 edexcel_business_studies,1.1,bs_mcq,5095,"Which one of the following could market mapping be used for?
 Select one answer
 A: Identifying how many customers there are in a market
@@ -3035,11 +3035,11 @@ D: To identify the location of a business","
 correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.2,bs_mcq,5095,,"correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.3,bs_explain,5095,Explain one advantage of starting a business as a private limited company.,"marking_criteria:
   - Identification of an advantage
   - Explanation of the identified advantage
@@ -3057,7 +3057,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,One advantage of starting a private limited company is that you don't need to pay debts off of which you may have outside the business.,0,3,,,,
+  - 3",,One advantage of starting a private limited company is that you don't need to pay debts off of which you may have outside the business.,0,3,,,,,
 edexcel_business_studies,1.4,bs_explain,5095,Explain one way the internet may affect where a small business chooses to locate.,"marking_criteria:
   - Identification of a way (1 mark)
   - Explanation of the way (up to 2 additional marks)
@@ -3073,19 +3073,19 @@ marking_notes:
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 total_marks:
   - 3",,"The internet will affect this in many ways one of which is they may decide to locate furhter away as on the internet its very easy to deliver the product being sold.
-",1,3,,,,
+",1,3,,,,,
 edexcel_business_studies,2.1,bs_mcq,5095,,"correct_answer:
   - A
   - C
 total_marks:
   - 2
-",,"A, C",2,2,,,,
+",,"A, C",2,2,,,,,
 edexcel_business_studies,2.2,bs_mcq,5095,,"correct_answer:
   - B
   - D
 total_marks:
   - 2
-",,"B, D",2,2,,,,
+",,"B, D",2,2,,,,,
 edexcel_business_studies,2.3,bs_calculate,5095,"Table 1 contains information about a small business.
 
 fixed_costs: 
@@ -3103,7 +3103,7 @@ Using the information in Table 1, calculate the decrease in the break even level
 £10 000 ÷ (£6.50 – £2.50)
 = 2,500 units
 Decrease = 4,000 – 2,500 (1)
-Answer: 1,500 units (1)",,"10,000 / 2.5 = 4,000",0,2,,,,
+Answer: 1,500 units (1)",,"10,000 / 2.5 = 4,000",0,2,,,,,
 edexcel_business_studies,2.4,bs_explain,5095,Explain one way a small business could become more competitive.,"marking_criteria:
   - Identification of a way
   - Explanation of the way
@@ -3118,7 +3118,7 @@ marking_notes:
 
 total_marks:
   - 3",,"One way a small business could improve their competitiveness is they could move location to be closer to competitors and attract those customers that would usually go to the competitors.
-",0,3,,,,
+",0,3,,,,,
 edexcel_business_studies,2.5,bs_explain,5095,Explain one advantage to a small business of meeting its legal obligations.,"
 marking_criteria:
   - Identification of an advantage
@@ -3137,18 +3137,18 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 6",,A small business meeting legal obligations helps as it builds a reputation with teh bank having a better chance to get a loan for improvements on products,0,3,,,,
+  - 6",,A small business meeting legal obligations helps as it builds a reputation with teh bank having a better chance to get a loan for improvements on products,0,3,,,,,
 edexcel_business_studies,3.1,bs_mcq,5095,,"
 correct_answer:
   - A
 total_marks:
-  - 1",,A,1,1,,,,
+  - 1",,A,1,1,,,,,
 edexcel_business_studies,3.2,bs_calculate,5095,,"Substitution into correct formula:
 £5.20 x 7,200 (1)
 Answer: £37 440 (1)",,"7200 * 5.20 = 37440
 520 * 7200 = 3744000
 3744000 / 100 = 37440
-37440",2,2,,,,
+37440",2,2,,,,,
 edexcel_business_studies,3.3,bs_explain,5095,Explain one disadvantage to a small business of not paying its employees on time.,"marking_criteria:
   - Identification of a disadvantage: 1 mark
   - Explanation of the disadvantage: up to 2 further marks
@@ -3160,7 +3160,7 @@ marking_notes:
   - Answers that list more than one disadvantage with no explanation will be awarded a maximum of 1 mark.
 total_marks:
   - 3",,"Small businesses sometimes won't pay their employees on time which makes the employee become unhappy. With this mindset,  they won't pay employees won't work as hard as before.
-",2,3,,,,
+",2,3,,,,,
 edexcel_business_studies,3.4,bs_explain,5095,Explain one advantage to a small business rom using retained profit as a source of finance.,"marking_criteria:
   - Identification of an advantage
   - Explaining the advantage
@@ -3178,7 +3178,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,,0,3,,,,
+  - 3",,,0,3,,,,,
 edexcel_business_studies,3.5,bs_discuss,5095,Discuss the impact on a small business from adapting existing products to develop new business ideas.,"Indicative_content:
   - Adapting existing products can take less time and creative input than creating original ideas (AO1b).
   - Adapting existing products may not be as innovative as creating original ideas (AO1b).
@@ -3225,7 +3225,7 @@ Level_3:
     minimum: 5
   criteria:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
-    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,This is a very good method as it complys with consumer needs for example if customers asked for a hydroflask with a cooling filter and a company did this is would attract people to your shop and you and grow in popularity.,0,6,,,,
+    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,This is a very good method as it complys with consumer needs for example if customers asked for a hydroflask with a cooling filter and a company did this is would attract people to your shop and you and grow in popularity.,0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,4.1,bs_outline,5095,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","marking_criteria:
   - Outline a way financial information in a business plan could help forecast success.
   - Points must be linked to award up to 2 marks.
@@ -3244,7 +3244,7 @@ total_marks:
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","A business plan can help as it sets goals for the year such as make X amount of profit.
-",1,2,,,,
+",1,2,,,,,
 edexcel_business_studies,4.2,bs_analyse,5095,Analyse the impact of non-financial aims on Amelia's decision to start Lili Heating Ltd.,"Indicative_content:
   - The challenge of setting up a plumbing business in Birmingham, where competition is high, could be a driving force for Amelia (AO2).
   - Amelia may want to gain more independence after working for someone else for six years (AO2).
@@ -3291,14 +3291,14 @@ Level_3:
     - []","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",An impact of non-financial aims for Arelias decision to start he business is that she may not get a lot of male custoers as her main selling point is that she is a woman thinks women would fell that her customers can relate more with her than a male doing the job.,0,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",An impact of non-financial aims for Arelias decision to start he business is that she may not get a lot of male custoers as her main selling point is that she is a woman thinks women would fell that her customers can relate more with her than a male doing the job.,0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,5.1,bs_calculate,5095,,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
-Answer: £1 600 (1)",,£1600,2,2,,,,
+Answer: £1 600 (1)",,£1600,2,2,,,,,
 edexcel_business_studies,5.2,bs_calculate,5095,,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
 Answer: 50.52% (1)",,"66,700 / 33700
-52.475%",0,2,,,,
+52.475%",0,2,,,,,
 edexcel_business_studies,5.3,bs_analyse,5095,Analyse the impact on Lili Heating Ltd of using the internet to collect secondary market research.,"Indicative_content:
   - Using the internet as a source of secondary market research is a fast and convenient way to discover how many females live in Birmingham (AO2).
   - The internet will not provide focused information to let Amelia know if there will be enough demand for her plumbing and building services (AO2).
@@ -3348,7 +3348,7 @@ Level_3:
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",The secondary information gathered could be less useful depending on dates this is because it could be out of date research tehrefore usless to her business. Another impact for seconday research on Amelia's business is that it could be not relevant to her business. Therefore she would be using data collected thats not even relevant.,2,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",The secondary information gathered could be less useful depending on dates this is because it could be out of date research tehrefore usless to her business. Another impact for seconday research on Amelia's business is that it could be not relevant to her business. Therefore she would be using data collected thats not even relevant.,2,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,6.1,bs_state,5095,"State one element of the marketing mix, other than price, for Lili Heating Ltd.","marking_criteria:
   - Stating one element of the marketing mix for Lili Heating Ltd.
 example_answers:
@@ -3358,7 +3358,7 @@ example_answers:
 marking_notes:
   - To award 1 mark there must be evidence of application.
 total_marks:
-  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,1,,,,
+  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,1,,,,,
 edexcel_business_studies,6.2,bs_outline,5095,Outline one reason why the government would want Lili Heating Ltd to be successful.,"marking_criteria:
   - Linked points outlining a reason why the government would want Lili Heating Ltd to be successful.
   - Maximum of 1 mark if points are not linked.
@@ -3375,7 +3375,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One reason for the government wanting Lili Heating Ltd to be successful is that she is an entrepreneur who will have to pay taxes on all her money meaning that they get more money from her taxes.,2,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One reason for the government wanting Lili Heating Ltd to be successful is that she is an entrepreneur who will have to pay taxes on all her money meaning that they get more money from her taxes.,2,2,,,,,
 edexcel_business_studies,6.3,bs_justify,5095,Justify which one of these two options Lili Heating Ltd should choose.,"Level_0:
   description: 
     - No rewardable material.
@@ -3443,7 +3443,7 @@ Level_3:
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","I think that option 2 would be a better option because social media wouldn't cost any money therefore would be easier to gain attraction. Option 1 is a viable option, however her USP is already that she is a woman which would attract women already, showing that she doesn't need to use option 1. In conclusion, while option one is a good idea option 2 is a great one as it provides free advertising for the business and will often attract more people than just giving out a discount.
-",3,9,,,,
+",3,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.1,bs_state,5095,State one example of a risk for an investor in Ripple.,"marking_criteria:
   - Stating one risk for investors in Ripple
 
@@ -3456,13 +3456,13 @@ marking_notes:
   - To award 1 mark there must be evidence of application.
 
 total_marks:
-  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,1,,,,
+  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,1,,,,,
 edexcel_business_studies,7.2,bs_identify,5095,"Using the information in Table 4, identify which type of energy use declined the most between 2018 and 2019.","marking_criteria:
   - Award mark if the example answer is mentioned exactly (case insensitive).
 example_answers:
   - Coal
 total_marks:
-  - 1",,"Coal fell by the most from 2018 to 2019, falling by 2.8%, which was closely followed by nuclear at 2.2%.",1,1,,,,
+  - 1",,"Coal fell by the most from 2018 to 2019, falling by 2.8%, which was closely followed by nuclear at 2.2%.",1,1,,,,,
 edexcel_business_studies,7.3,bs_outline,5095,Outline one benefit to customers from Ripple asking questions to identify its customer needs.,"marking_criteria:
   - Benefit to customers of Ripple
 example_answers:
@@ -3477,7 +3477,7 @@ marking_notes:
   - To award 2 marks there must be linked development and evidence of application.
 total_marks:
   - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","One benefit is that it then provided with a set price which is based on their greenhouse gas electricity amount.
-",1,2,,,,
+",1,2,,,,,
 edexcel_business_studies,7.4,bs_justify,5095,Justify which one of these two options would have the most significant impact on the success of Ripple.,"Level_1:
   description: 
     - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
@@ -3525,7 +3525,7 @@ Level_3:
 ","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","The most significant in my opinion is to pay less rent (option 1). This would help significantly because there would be more profit that month to spend on other locations. For example, improving products. 
 Although option 2 does have some decent benefits, it can also have downsides. For example, some employees may not take in the information provided and more than likely the training will be very basic and the business will have to pay for extended training.
 
-In conclusion, option is the best as it provides the most significant benefits.",0,9,,,,
+In conclusion, option is the best as it provides the most significant benefits.",0,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.5,bs_evaluate,5095,Evaluate the importance of price in Ripple's marketing mix. You should use the information provided as well as your knowledge of business.,"Indicative_content:
   - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
   - Attempts to deconstruct business information and/or issues, finding limited connections between points (AO3a).
@@ -3642,7 +3642,7 @@ Level_3:
     - Detailed application of knowledge and understanding of business concepts and issues to the business context throughout (AO2).
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).
     - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","The importance of price for Ripple is that it claims its the best priced energy efficient company which attracts customers to the company as the customers would want cheap energy so they can have more items such as going shopping.
-Price also helps Ripple because with the money provided by customers, they can upgrade technology and make it even cheaper.",1,12,,,,
+Price also helps Ripple because with the money provided by customers, they can upgrade technology and make it even cheaper.",1,12,,,,,"{1: [1, 4], 2: [5, 8], 3: [9, 12], 0: [0]}"
 edexcel_business_studies,1.1,bs_mcq,5129,"Which one of the following could market mapping be used for?
 Select one answer
 A: Identifying how many customers there are in a market
@@ -3652,11 +3652,11 @@ D: To identify the location of a business","
 correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.2,bs_mcq,5129,,"correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.3,bs_explain,5129,Explain one advantage of starting a business as a private limited company.,"marking_criteria:
   - Identification of an advantage
   - Explanation of the identified advantage
@@ -3674,7 +3674,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,Starting as a private limited company means that the person who starts the business and owns it makes any decisions for the business themselves. This means that the business can be run and work to the preference of the owner.,0,3,,,,
+  - 3",,Starting as a private limited company means that the person who starts the business and owns it makes any decisions for the business themselves. This means that the business can be run and work to the preference of the owner.,0,3,,,,,
 edexcel_business_studies,1.4,bs_explain,5129,Explain one way the internet may affect where a small business chooses to locate.,"marking_criteria:
   - Identification of a way (1 mark)
   - Explanation of the way (up to 2 additional marks)
@@ -3689,19 +3689,19 @@ marking_notes:
   - Accept any other appropriate response
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,The internet affects the location as the business could choose to go online because you can reach a more vast number of possible customers a lot easier and faster rather than having people come to your physical shop.,2,3,,,,
+  - 3",,The internet affects the location as the business could choose to go online because you can reach a more vast number of possible customers a lot easier and faster rather than having people come to your physical shop.,2,3,,,,,
 edexcel_business_studies,2.1,bs_mcq,5129,,"correct_answer:
   - A
   - C
 total_marks:
   - 2
-",,"A, C",2,2,,,,
+",,"A, C",2,2,,,,,
 edexcel_business_studies,2.2,bs_mcq,5129,,"correct_answer:
   - B
   - D
 total_marks:
   - 2
-",,"B, D",2,2,,,,
+",,"B, D",2,2,,,,,
 edexcel_business_studies,2.3,bs_calculate,5129,"Table 1 contains information about a small business.
 
 fixed_costs: 
@@ -3722,7 +3722,7 @@ Decrease = 4,000 – 2,500 (1)
 Answer: 1,500 units (1)",,"6.50 - 2.50 = 4.00 
 10000/4 = 2500
 4000-2500 = 1500
-1500",2,2,,,,
+1500",2,2,,,,,
 edexcel_business_studies,2.4,bs_explain,5129,Explain one way a small business could become more competitive.,"marking_criteria:
   - Identification of a way
   - Explanation of the way
@@ -3736,7 +3736,7 @@ marking_notes:
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 3",,A small business could become more competitive by relocating to a busier location such as a town/city centre as there is more people which means there is a higher chance of new customers buying from your business.,2,3,,,,
+  - 3",,A small business could become more competitive by relocating to a busier location such as a town/city centre as there is more people which means there is a higher chance of new customers buying from your business.,2,3,,,,,
 edexcel_business_studies,2.5,bs_explain,5129,Explain one advantage to a small business of meeting its legal obligations.,"
 marking_criteria:
   - Identification of an advantage
@@ -3755,17 +3755,17 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 6",,If a small business meets legal obligations any staff that work there will be happier and more likely to stay as there is laws to help make a working environment safe for staff in a business.,2,3,,,,
+  - 6",,If a small business meets legal obligations any staff that work there will be happier and more likely to stay as there is laws to help make a working environment safe for staff in a business.,2,3,,,,,
 edexcel_business_studies,3.1,bs_mcq,5129,,"
 correct_answer:
   - A
 total_marks:
-  - 1",,A,1,1,,,,
+  - 1",,A,1,1,,,,,
 edexcel_business_studies,3.2,bs_calculate,5129,,"Substitution into correct formula:
 £5.20 x 7,200 (1)
 Answer: £37 440 (1)",,"revenue = unites sold * price of unites
 7200 x 5.20 = 37440
-£37440",2,2,,,,
+£37440",2,2,,,,,
 edexcel_business_studies,3.3,bs_explain,5129,Explain one disadvantage to a small business of not paying its employees on time.,"marking_criteria:
   - Identification of a disadvantage: 1 mark
   - Explanation of the disadvantage: up to 2 further marks
@@ -3776,7 +3776,7 @@ marking_notes:
   - Accept any other appropriate response.
   - Answers that list more than one disadvantage with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,If a business does not pay employees on time the employee is likely to leave the business as they aren't being paid on time this means that there are less employees in the business making it harder to manage.,2,3,,,,
+  - 3",,If a business does not pay employees on time the employee is likely to leave the business as they aren't being paid on time this means that there are less employees in the business making it harder to manage.,2,3,,,,,
 edexcel_business_studies,3.4,bs_explain,5129,Explain one advantage to a small business rom using retained profit as a source of finance.,"marking_criteria:
   - Identification of an advantage
   - Explaining the advantage
@@ -3794,7 +3794,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,If a small business uses retained profit as a source of finance it means that they won't owe anyone any amount of money so they won't be required to pay it back to anyone with possible interest meaning they lose money.,2,3,,,,
+  - 3",,If a small business uses retained profit as a source of finance it means that they won't owe anyone any amount of money so they won't be required to pay it back to anyone with possible interest meaning they lose money.,2,3,,,,,
 edexcel_business_studies,3.5,bs_discuss,5129,Discuss the impact on a small business from adapting existing products to develop new business ideas.,"Indicative_content:
   - Adapting existing products can take less time and creative input than creating original ideas (AO1b).
   - Adapting existing products may not be as innovative as creating original ideas (AO1b).
@@ -3843,7 +3843,7 @@ Level_3:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,"If a small business uses existing products and adapts them it will mean the business has a product but also already have competition as there is a variety of that product that already exists so customers may not buy the adaptation of the product as there is already one that exists.
 
-However adopting an existing product could be better as there is already a product and customer base for you and you just have to adapt the product to meet customer needs meaning more people will buy from you as you have improved the product for consumers.",2,6,,,,
+However adopting an existing product could be better as there is already a product and customer base for you and you just have to adapt the product to meet customer needs meaning more people will buy from you as you have improved the product for consumers.",2,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,4.1,bs_outline,5129,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","marking_criteria:
   - Outline a way financial information in a business plan could help forecast success.
   - Points must be linked to award up to 2 marks.
@@ -3861,7 +3861,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Financial information can help Lili Heating Ltd as it she requires a loan or overdraft from a bank she can show them her financial forecast to make it easier for her to get a loan.,2,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Financial information can help Lili Heating Ltd as it she requires a loan or overdraft from a bank she can show them her financial forecast to make it easier for her to get a loan.,2,2,,,,,
 edexcel_business_studies,4.2,bs_analyse,5129,Analyse the impact of non-financial aims on Amelia's decision to start Lili Heating Ltd.,"Indicative_content:
   - The challenge of setting up a plumbing business in Birmingham, where competition is high, could be a driving force for Amelia (AO2).
   - Amelia may want to gain more independence after working for someone else for six years (AO2).
@@ -3908,15 +3908,15 @@ Level_3:
     - []","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One of her non-financial aims is to make it easier for women to use these types of businesses with care which is a social objective in Amelias business. This is beneficial for the business as it means they already have a customer base that requires this type of business.,1,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",One of her non-financial aims is to make it easier for women to use these types of businesses with care which is a social objective in Amelias business. This is beneficial for the business as it means they already have a customer base that requires this type of business.,1,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,5.1,bs_calculate,5129,,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
 Answer: £1 600 (1)",,"4000 + 8600 = 12600
 12600 - 11000 = 1600
-£1600",2,2,,,,
+£1600",2,2,,,,,
 edexcel_business_studies,5.2,bs_calculate,5129,,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
-Answer: 50.52% (1)",,50.52%,2,2,,,,
+Answer: 50.52% (1)",,50.52%,2,2,,,,,
 edexcel_business_studies,5.3,bs_analyse,5129,Analyse the impact on Lili Heating Ltd of using the internet to collect secondary market research.,"Indicative_content:
   - Using the internet as a source of secondary market research is a fast and convenient way to discover how many females live in Birmingham (AO2).
   - The internet will not provide focused information to let Amelia know if there will be enough demand for her plumbing and building services (AO2).
@@ -3968,7 +3968,7 @@ Amelia is now in a position where she wants to start her own plumbing business c
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","Because Lili Heating Ltd used the internet for secondary research, the research she has found may not be specific to her business or customer target so she could be using the wrong information. So she could lose money as she hasn't got the correct information for her business.
 
-Also if she uses market research, the information she gathers could be out of date and no longer applied for her business idea. This means that she could be looking at information that doesn't include new businesses in her target market.",3,6,,,,
+Also if she uses market research, the information she gathers could be out of date and no longer applied for her business idea. This means that she could be looking at information that doesn't include new businesses in her target market.",3,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,6.1,bs_state,5129,"State one element of the marketing mix, other than price, for Lili Heating Ltd.","marking_criteria:
   - Stating one element of the marketing mix for Lili Heating Ltd.
 example_answers:
@@ -3978,7 +3978,7 @@ example_answers:
 marking_notes:
   - To award 1 mark there must be evidence of application.
 total_marks:
-  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",convenience,0,1,,,,
+  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",convenience,0,1,,,,,
 edexcel_business_studies,6.2,bs_outline,5129,Outline one reason why the government would want Lili Heating Ltd to be successful.,"marking_criteria:
   - Linked points outlining a reason why the government would want Lili Heating Ltd to be successful.
   - Maximum of 1 mark if points are not linked.
@@ -3995,7 +3995,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",The government would want her to be successful because she is filling a gap in the market so she will make lots of revenue that the government can tax.,2,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",The government would want her to be successful because she is filling a gap in the market so she will make lots of revenue that the government can tax.,2,2,,,,,
 edexcel_business_studies,6.3,bs_justify,5129,Justify which one of these two options Lili Heating Ltd should choose.,"Level_0:
   description: 
     - No rewardable material.
@@ -4064,7 +4064,7 @@ Amelia is now in a position where she wants to start her own plumbing business c
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","I think Lili Heating Ltd should choose option B as it won't effect her business financially as online advertising is free so she won't lose any money on advertising on promotion. This mean that she can reach a wider range of consumers for a lot cheaper.
 
-Also if she uses social media to advertise it is a lot easier and more accessible for people rather than other methods of advertisement. This means she is more likely to have customers as more people are aware of her business.",3,9,,,,
+Also if she uses social media to advertise it is a lot easier and more accessible for people rather than other methods of advertisement. This means she is more likely to have customers as more people are aware of her business.",3,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.1,bs_state,5129,State one example of a risk for an investor in Ripple.,"marking_criteria:
   - Stating one risk for investors in Ripple
 
@@ -4077,13 +4077,13 @@ marking_notes:
   - To award 1 mark there must be evidence of application.
 
 total_marks:
-  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",The business is trying to be the cheapest supplier for energy so the quality of the wind turbines could be bad meaning no energy is made.,0,1,,,,
+  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",The business is trying to be the cheapest supplier for energy so the quality of the wind turbines could be bad meaning no energy is made.,0,1,,,,,
 edexcel_business_studies,7.2,bs_identify,5129,"Using the information in Table 4, identify which type of energy use declined the most between 2018 and 2019.","marking_criteria:
   - Award mark if the example answer is mentioned exactly (case insensitive).
 example_answers:
   - Coal
 total_marks:
-  - 1",,Coal has declined the most from 2018 to 2019.,1,1,,,,
+  - 1",,Coal has declined the most from 2018 to 2019.,1,1,,,,,
 edexcel_business_studies,7.3,bs_outline,5129,Outline one benefit to customers from Ripple asking questions to identify its customer needs.,"marking_criteria:
   - Benefit to customers of Ripple
 example_answers:
@@ -4097,7 +4097,7 @@ marking_notes:
   - Award a maximum of 1 mark if points are not linked.
   - To award 2 marks there must be linked development and evidence of application.
 total_marks:
-  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","Because Ripple ask questions to identify customer needs, customers are less likely to overpay for energy they don't need.",2,2,,,,
+  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.","Because Ripple ask questions to identify customer needs, customers are less likely to overpay for energy they don't need.",2,2,,,,,
 edexcel_business_studies,7.4,bs_justify,5129,Justify which one of these two options would have the most significant impact on the success of Ripple.,"Level_1:
   description: 
     - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
@@ -4146,7 +4146,7 @@ Level_3:
 
 Also, if the business has trained staff, they won't need to try and hire staff without training meaning they won't break any laws in the employment laws, so they won't be fined, meaning they save money and their reputation as a business.
 
-Also if the government pays for training the business can hire more people as they won't have to pay for training making it easier to manage the business and make it less likely that they are understaffed and can't run the business it could be dangerous.",3,9,,,,
+Also if the government pays for training the business can hire more people as they won't have to pay for training making it easier to manage the business and make it less likely that they are understaffed and can't run the business it could be dangerous.",3,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.5,bs_evaluate,5129,Evaluate the importance of price in Ripple's marketing mix. You should use the information provided as well as your knowledge of business.,"Indicative_content:
   - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
   - Attempts to deconstruct business information and/or issues, finding limited connections between points (AO3a).
@@ -4262,7 +4262,7 @@ Level_3:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
     - Detailed application of knowledge and understanding of business concepts and issues to the business context throughout (AO2).
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).
-    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",Price is very important as the business is competing to be the cheapest supplier of renewable energy as well as charging a fair price for both the customer and the business as running and maintaining wind turbines is expensive.,1,12,,,,
+    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",Price is very important as the business is competing to be the cheapest supplier of renewable energy as well as charging a fair price for both the customer and the business as running and maintaining wind turbines is expensive.,1,12,,,,,"{1: [1, 4], 2: [5, 8], 3: [9, 12], 0: [0]}"
 edexcel_business_studies,1.1,bs_mcq,5161,"Which one of the following could market mapping be used for?
 Select one answer
 A: Identifying how many customers there are in a market
@@ -4272,11 +4272,11 @@ D: To identify the location of a business","
 correct_answer:
   - C
 total_marks:
-  - 1",,C,1,1,,,,
+  - 1",,C,1,1,,,,,
 edexcel_business_studies,1.2,bs_mcq,5161,,"correct_answer:
   - C
 total_marks:
-  - 1",,A,0,1,,,,
+  - 1",,A,0,1,,,,,
 edexcel_business_studies,1.3,bs_explain,5161,Explain one advantage of starting a business as a private limited company.,"marking_criteria:
   - Identification of an advantage
   - Explanation of the identified advantage
@@ -4294,7 +4294,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark
 
 total_marks:
-  - 3",,You get to be your own boss which means you can pick your own times and you don’t have to.,0,3,,,,
+  - 3",,You get to be your own boss which means you can pick your own times and you don’t have to.,0,3,,,,,
 edexcel_business_studies,1.4,bs_explain,5161,Explain one way the internet may affect where a small business chooses to locate.,"marking_criteria:
   - Identification of a way (1 mark)
   - Explanation of the way (up to 2 additional marks)
@@ -4309,19 +4309,19 @@ marking_notes:
   - Accept any other appropriate response
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,A business would need to use the internet because it can get popular from media and people would only want to go to a place with wifi/internet services.,0,3,,,,
+  - 3",,A business would need to use the internet because it can get popular from media and people would only want to go to a place with wifi/internet services.,0,3,,,,,
 edexcel_business_studies,2.1,bs_mcq,5161,,"correct_answer:
   - A
   - C
 total_marks:
   - 2
-",,"A, C",2,2,,,,
+",,"A, C",2,2,,,,,
 edexcel_business_studies,2.2,bs_mcq,5161,,"correct_answer:
   - B
   - D
 total_marks:
   - 2
-",,"B, D",2,2,,,,
+",,"B, D",2,2,,,,,
 edexcel_business_studies,2.3,bs_calculate,5161,"Table 1 contains information about a small business.
 
 fixed_costs: 
@@ -4339,7 +4339,7 @@ Using the information in Table 1, calculate the decrease in the break even level
 £10 000 ÷ (£6.50 – £2.50)
 = 2,500 units
 Decrease = 4,000 – 2,500 (1)
-Answer: 1,500 units (1)",,3200000 units,0,2,,,,
+Answer: 1,500 units (1)",,3200000 units,0,2,,,,,
 edexcel_business_studies,2.4,bs_explain,5161,Explain one way a small business could become more competitive.,"marking_criteria:
   - Identification of a way
   - Explanation of the way
@@ -4353,7 +4353,7 @@ marking_notes:
   - Answers that list more than one way with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 3",,If they expand their business where the products they sell are already being portrayed in other shops.,0,3,,,,
+  - 3",,If they expand their business where the products they sell are already being portrayed in other shops.,0,3,,,,,
 edexcel_business_studies,2.5,bs_explain,5161,Explain one advantage to a small business of meeting its legal obligations.,"
 marking_criteria:
   - Identification of an advantage
@@ -4372,15 +4372,15 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 6",,Customers would be more persuaded to go to a place which has legal obligations and legal properties.,0,3,,,,
+  - 6",,Customers would be more persuaded to go to a place which has legal obligations and legal properties.,0,3,,,,,
 edexcel_business_studies,3.1,bs_mcq,5161,,"
 correct_answer:
   - A
 total_marks:
-  - 1",,D,0,1,,,,
+  - 1",,D,0,1,,,,,
 edexcel_business_studies,3.2,bs_calculate,5161,,"Substitution into correct formula:
 £5.20 x 7,200 (1)
-Answer: £37 440 (1)",,£37.44,0,2,,,,
+Answer: £37 440 (1)",,£37.44,0,2,,,,,
 edexcel_business_studies,3.3,bs_explain,5161,Explain one disadvantage to a small business of not paying its employees on time.,"marking_criteria:
   - Identification of a disadvantage: 1 mark
   - Explanation of the disadvantage: up to 2 further marks
@@ -4391,7 +4391,7 @@ marking_notes:
   - Accept any other appropriate response.
   - Answers that list more than one disadvantage with no explanation will be awarded a maximum of 1 mark.
 total_marks:
-  - 3",,can look bad on employment cases and customers would want to shop where employees get paid,1,3,,,,
+  - 3",,can look bad on employment cases and customers would want to shop where employees get paid,1,3,,,,,
 edexcel_business_studies,3.4,bs_explain,5161,Explain one advantage to a small business rom using retained profit as a source of finance.,"marking_criteria:
   - Identification of an advantage
   - Explaining the advantage
@@ -4410,7 +4410,7 @@ marking_notes:
 
 total_marks:
   - 3",,"Then you wont have to put much money from your bank as the source of finance will cover pay/ insurance issues in the business
-",0,3,,,,
+",0,3,,,,,
 edexcel_business_studies,3.5,bs_discuss,5161,Discuss the impact on a small business from adapting existing products to develop new business ideas.,"Indicative_content:
   - Adapting existing products can take less time and creative input than creating original ideas (AO1b).
   - Adapting existing products may not be as innovative as creating original ideas (AO1b).
@@ -4457,7 +4457,7 @@ Level_3:
     minimum: 5
   criteria:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
-    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,"Because then they'll know what products sell and what don't, so getting ideas of other companies and adjusting it can help develop new business ideas.",0,6,,,,
+    - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).",,"Because then they'll know what products sell and what don't, so getting ideas of other companies and adjusting it can help develop new business ideas.",0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,4.1,bs_outline,5161,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.","marking_criteria:
   - Outline a way financial information in a business plan could help forecast success.
   - Points must be linked to award up to 2 marks.
@@ -4475,7 +4475,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Better equipment and more workers,0,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",Better equipment and more workers,0,2,,,,,
 edexcel_business_studies,4.2,bs_analyse,5161,Analyse the impact of non-financial aims on Amelia's decision to start Lili Heating Ltd.,"Indicative_content:
   - The challenge of setting up a plumbing business in Birmingham, where competition is high, could be a driving force for Amelia (AO2).
   - Amelia may want to gain more independence after working for someone else for six years (AO2).
@@ -4522,13 +4522,13 @@ Level_3:
     - []","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,5.1,bs_calculate,5161,,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
-Answer: £1 600 (1)",,,0,2,,,,
+Answer: £1 600 (1)",,,0,2,,,,,
 edexcel_business_studies,5.2,bs_calculate,5161,,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
-Answer: 50.52% (1)",,,0,2,,,,
+Answer: 50.52% (1)",,,0,2,,,,,
 edexcel_business_studies,5.3,bs_analyse,5161,Analyse the impact on Lili Heating Ltd of using the internet to collect secondary market research.,"Indicative_content:
   - Using the internet as a source of secondary market research is a fast and convenient way to discover how many females live in Birmingham (AO2).
   - The internet will not provide focused information to let Amelia know if there will be enough demand for her plumbing and building services (AO2).
@@ -4578,7 +4578,7 @@ Level_3:
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,6,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,6,,,,,"{0: [0], 1: [1, 2], 2: [3, 4], 3: [5, 6]}"
 edexcel_business_studies,6.1,bs_state,5161,"State one element of the marketing mix, other than price, for Lili Heating Ltd.","marking_criteria:
   - Stating one element of the marketing mix for Lili Heating Ltd.
 example_answers:
@@ -4588,7 +4588,7 @@ example_answers:
 marking_notes:
   - To award 1 mark there must be evidence of application.
 total_marks:
-  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,1,,,,
+  - 3","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,1,,,,,
 edexcel_business_studies,6.2,bs_outline,5161,Outline one reason why the government would want Lili Heating Ltd to be successful.,"marking_criteria:
   - Linked points outlining a reason why the government would want Lili Heating Ltd to be successful.
   - Maximum of 1 mark if points are not linked.
@@ -4605,7 +4605,7 @@ total_marks:
   - 2","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,2,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,2,,,,,
 edexcel_business_studies,6.3,bs_justify,5161,Justify which one of these two options Lili Heating Ltd should choose.,"Level_0:
   description: 
     - No rewardable material.
@@ -4672,7 +4672,7 @@ Level_3:
 ","Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
-Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,9,,,,
+Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",,0,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.1,bs_state,5161,State one example of a risk for an investor in Ripple.,"marking_criteria:
   - Stating one risk for investors in Ripple
 
@@ -4685,13 +4685,13 @@ marking_notes:
   - To award 1 mark there must be evidence of application.
 
 total_marks:
-  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,1,,,,
+  - 1","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,1,,,,,
 edexcel_business_studies,7.2,bs_identify,5161,"Using the information in Table 4, identify which type of energy use declined the most between 2018 and 2019.","marking_criteria:
   - Award mark if the example answer is mentioned exactly (case insensitive).
 example_answers:
   - Coal
 total_marks:
-  - 1",,,0,1,,,,
+  - 1",,,0,1,,,,,
 edexcel_business_studies,7.3,bs_outline,5161,Outline one benefit to customers from Ripple asking questions to identify its customer needs.,"marking_criteria:
   - Benefit to customers of Ripple
 example_answers:
@@ -4705,7 +4705,7 @@ marking_notes:
   - Award a maximum of 1 mark if points are not linked.
   - To award 2 marks there must be linked development and evidence of application.
 total_marks:
-  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,2,,,,
+  - 2","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,2,,,,,
 edexcel_business_studies,7.4,bs_justify,5161,Justify which one of these two options would have the most significant impact on the success of Ripple.,"Level_1:
   description: 
     - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
@@ -4750,7 +4750,7 @@ Level_3:
     - Training courses can be expensive. Sending new employees on these courses would increase the costs of Ripple. Therefore, if the government pays for this training then Ripple could focus more of its members’ investment into expanding the wind farm (AO3a).
     - However, the business is owned by the customers and the main objective may not be profit maximisation. This would limit the effect that any reduction in tax would have on the business (AO3b).
     - However, the business is located in a remote area of the country and may not need to employ many people to manage the wind farm. Therefore, they might not have enough training requirements to fully benefit from the government strategy (AO3b).
-","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,9,,,,
+","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,9,,,,,"{0: [0], 1: [1, 3], 2: [4, 6], 3: [7, 9]}"
 edexcel_business_studies,7.5,bs_evaluate,5161,Evaluate the importance of price in Ripple's marketing mix. You should use the information provided as well as your knowledge of business.,"Indicative_content:
   - Limited application of knowledge and understanding of business concepts and issues to the business context (AO2).
   - Attempts to deconstruct business information and/or issues, finding limited connections between points (AO3a).
@@ -4866,4 +4866,4 @@ Level_3:
     - Demonstrates accurate knowledge and understanding of business concepts and issues throughout, including appropriate use of business terminology (AO1b).
     - Detailed application of knowledge and understanding of business concepts and issues to the business context throughout (AO2).
     - Deconstructs business information and/or issues, finding detailed interconnected points with logical chains of reasoning (AO3a).
-    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,12,,,,
+    - Draws a valid and well-reasoned conclusion based on a thorough evaluation of business information and issues (AO3b).","Ripple is an energy company aimed at providing green and renewable energy to homes and businesses across the UK. It is the country’s first consumer-owned wind farm, generating green energy that does not have a damaging effect on the environment. Instead of customers paying Ripple to supply them with energy they become members of the business and buy a part of a wind farm located in a remote area of South Wales. Customers are then supplied with energy to their homes based on the amount of money they invested. The amount of money that customers can invest varies on their energy needs, but Ripple claims that it can supply energy cheaper than its competitors. The process of becoming a member is very simple. Firstly, Ripple will ask customers a few questions to identify their energy needs. It will then create a green energy plan to establish how much each customer should invest into the wind farm. Ripple manages the wind farm and provides energy to each customer’s home or business. Ripple’s business plan fits in with the UK government’s cleaner energy strategy. This strategy includes plans for the country to have net zero carbon emissions by 2050 and to create 220,000 new jobs in the green energy sector of the economy.",,0,12,,,,,"{1: [1, 4], 2: [5, 8], 3: [9, 12], 0: [0]}"
