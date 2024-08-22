@@ -67,8 +67,7 @@ if __name__== "__main__":
         - The learner’s response does not relate to the question
         - The learner’s achievement in SPaG does not reach the threshold performance level, for example errors in spelling, punctuation and grammar severely hinder meaning
 
-    Below you are given the Question and Answer..
-    Provide a thorough step-by-step explanation of your reasoning.
+    Below you are given the Question and Answer.
 
     Question:
     {question}
