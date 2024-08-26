@@ -5,11 +5,28 @@ A: Identifying how many customers there are in a market
 B: Identifying how many employees work in a business
 C: Spotting where there is a gap in the market 
 D: To identify the location of a business",bs_mcq,,1
-1.2,edexcel_business_studies,,,,bs_mcq,,1
+1.2,edexcel_business_studies,,,"Which one of the following is an impact of a decrease in interest rates?
+Select one answer
+A: Businesses will borrow less money
+B: Customers will borrow less money
+C: Customers will borrow more money
+D: Repayments on loans should go up",bs_mcq,,1
 1.3,edexcel_business_studies,,,Explain one advantage of starting a business as a private limited company.,bs_explain,,3
 1.4,edexcel_business_studies,,,Explain one way the internet may affect where a small business chooses to locate.,bs_explain,,3
-2.1,edexcel_business_studies,,,,bs_mcq,,2
-2.2,edexcel_business_studies,,,,bs_mcq,,2
+2.1,edexcel_business_studies,,,"Which two of the following are examples of customer needs?
+Select two answers
+A: Choice
+B: Profit
+C: Quality
+D: Risk
+E: Taxation",bs_mcq,,2
+2.2,edexcel_business_studies,,,"Which two of the following are roles of an entrepreneur?
+Select two answers
+A: Going to university
+B: Organising resources
+C: Personal Satisfaction
+D: Taking risks
+E: To be a sole trader",bs_mcq,,2
 2.3,edexcel_business_studies,,,"Table 1 contains information about a small business.
 
 fixed_costs: 
@@ -26,8 +43,14 @@ The business increases the selling price of its product to 6.50 per unit.
 Using the information in Table 1, calculate the decrease in the break even level of output. You are advised to show your workings.",bs_calculate,,2
 2.4,edexcel_business_studies,,,Explain one way a small business could become more competitive.,bs_explain,,3
 2.5,edexcel_business_studies,,,Explain one advantage to a small business of meeting its legal obligations.,bs_explain,,3
-3.1,edexcel_business_studies,,,,bs_mcq,,1
-3.2,edexcel_business_studies,,,,bs_calculate,,2
+3.1,edexcel_business_studies,,,"Which one of the following could a small business use to add value?
+Select one answer
+A: Locate in a convenient place
+B: Pay a higher rate of taxation
+C: Reduce its cash inflows
+D: Use a long-term source of finance",bs_mcq,,1
+3.2,edexcel_business_studies,,,"Figure 1 shows the number of units sold per month by a business from February to April. The selling price for each unit was 5.20
+Using the information in Figure 1, calculate the revenue for March. You are advised to show your workings.",bs_calculate,,2
 3.3,edexcel_business_studies,,,Explain one disadvantage to a small business of not paying its employees on time.,bs_explain,,3
 3.4,edexcel_business_studies,,,Explain one advantage to a small business rom using retained profit as a source of finance.,bs_explain,,3
 3.5,edexcel_business_studies,,,Discuss the impact on a small business from adapting existing products to develop new business ideas.,bs_discuss,,6
@@ -39,8 +62,18 @@ Amelia’s business plan also included a wide range of financial information to 
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",6
-5.1,edexcel_business_studies,,,,bs_calculate,,2
-5.2,edexcel_business_studies,,,,bs_calculate,,2
+5.1,edexcel_business_studies,,,"Table 2 shows forecasts from the business plan for month one of Lili Heating Ltd.
+
+cash_inflows: 
+        8600
+cash_outflows: 
+        11000
+opening_balance:
+        4000
+
+Using the information in Table 2, calculate Lili Heating Ltd's forecasted closing balance at the end of month one. You are advised to show your workings.",bs_calculate,,2
+5.2,edexcel_business_studies,,,"As part of her market research Amelia collected quantitative research from the Birmingham City Council website. Some of this information can be seen in Table 3.
+Using the information in Table 3, calculate to 2 decimal places, the percentage of people in the age group 45-59 that are female. You are advised to show your workings.",bs_calculate,,2
 5.3,edexcel_business_studies,,,Analyse the impact on Lili Heating Ltd of using the internet to collect secondary market research.,bs_analyse,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
@@ -80,3 +113,66 @@ scattered them in all directions. They quickly destroyed the German threat.
 3,aqa_history,,,Write an account of how the Schlieffen Plan led to problems in 1914.,hs_analyse,,8
 4.1,aqa_history,,,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,hs_judgement,,16
 4.2,aqa_history,,,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,hs_spag,,4
+1.1,aqa_biology_foundation,,,,,,
+1.2,aqa_biology_foundation,,,,,,
+1.3,aqa_biology_foundation,,,,,,
+1.4,aqa_biology_foundation,,,,,,
+1.5,aqa_biology_foundation,,,,,,
+1.6,aqa_biology_foundation,,,,,,
+1.7,aqa_biology_foundation,,,,,,
+1.8,aqa_biology_foundation,,,,,,
+1.9,aqa_biology_foundation,,,,,,
+2.1,aqa_biology_foundation,,,,,,
+2.2,aqa_biology_foundation,,,,,,
+2.3,aqa_biology_foundation,,,,,,
+2.4,aqa_biology_foundation,,,,,,
+2.5,aqa_biology_foundation,,,,,,
+2.6,aqa_biology_foundation,,,,,,
+2.7,aqa_biology_foundation,,,,,,
+2.8,aqa_biology_foundation,,,,,,
+2.9,aqa_biology_foundation,,,,,,
+3.1,aqa_biology_foundation,,,,,,
+3.2,aqa_biology_foundation,,,,,,
+3.3,aqa_biology_foundation,,,,,,
+3.4,aqa_biology_foundation,,,,,,
+3.5,aqa_biology_foundation,,,,,,
+3.6,aqa_biology_foundation,,,,,,
+3.7,aqa_biology_foundation,,,,,,
+3.8,aqa_biology_foundation,,,,,,
+3.9,aqa_biology_foundation,,,,,,
+4.1,aqa_biology_foundation,,,,,,
+4.2,aqa_biology_foundation,,,,,,
+4.3,aqa_biology_foundation,,,,,,
+4.4,aqa_biology_foundation,,,,,,
+4.5,aqa_biology_foundation,,,,,,
+4.6,aqa_biology_foundation,,,,,,
+4.7,aqa_biology_foundation,,,,,,
+4.8,aqa_biology_foundation,,,,,,
+4.9,aqa_biology_foundation,,,,,,
+5.1,aqa_biology_foundation,,,,,,
+5.2,aqa_biology_foundation,,,,,,
+5.3,aqa_biology_foundation,,,,,,
+5.4,aqa_biology_foundation,,,,,,
+5.5,aqa_biology_foundation,,,,,,
+5.6,aqa_biology_foundation,,,,,,
+5.7,aqa_biology_foundation,,,,,,
+5.8,aqa_biology_foundation,,,,,,
+5.9,aqa_biology_foundation,,,,,,
+6.1,aqa_biology_foundation,,,,,,
+6.2,aqa_biology_foundation,,,,,,
+6.3,aqa_biology_foundation,,,,,,
+6.4,aqa_biology_foundation,,,,,,
+6.5,aqa_biology_foundation,,,,,,
+6.6,aqa_biology_foundation,,,,,,
+6.7,aqa_biology_foundation,,,,,,
+6.8,aqa_biology_foundation,,,,,,
+6.9,aqa_biology_foundation,,,,,,
+7.1,aqa_biology_foundation,,,,,,
+7.2,aqa_biology_foundation,,,,,,
+7.3,aqa_biology_foundation,,,,,,
+7.4,aqa_biology_foundation,,,,,,
+7.5,aqa_biology_foundation,,,,,,
+7.6,aqa_biology_foundation,,,,,,
+7.7,aqa_biology_foundation,,,,,,
+7.8,aqa_biology_foundation,,,,,,
+7.9,aqa_biology_foundation,,,,,,

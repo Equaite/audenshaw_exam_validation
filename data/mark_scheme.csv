@@ -82,11 +82,13 @@ total_marks:
 £10 000 ÷ (£6.50 – £2.50)
 = 2,500 units
 Decrease = 4,000 – 2,500 (1)
-Answer: 1,500 units (1)","Substitution into correct formula:
-£10 000 ÷ (£6.50 – £2.50)
-= 2,500 units
-Decrease = 4,000 – 2,500 (1)
-Answer: 1,500 units (1)",bs_calculate
+Answer: 1,500 units (1)","marking_criteria:
+  - Substitution into correct formula
+  - £10 000 ÷ (£6.50 – £2.50) = 2,500 units
+  - Decrease = 4,000 – 2,500 (1)
+  - Answer: 1,500 units (1)
+total_marks:
+  - 2",bs_calculate
 ,2.4,edexcel_business_studies,"Award 1 mark for identification of a way, plus 2 further marks for
 explaining this way up to a total of 3 marks.
 A small business could gain an advantage by charging lower prices
@@ -143,7 +145,7 @@ marking_notes:
   - Answers that list more than one advantage with no explanation will be awarded a maximum of 1 mark.
 
 total_marks:
-  - 6",bs_explain
+  - 3",bs_explain
 ,3.1,edexcel_business_studies,The only correct answer is A – Locate in a convenient place,"
 correct_answer:
   - A
@@ -151,9 +153,11 @@ total_marks:
   - 1",bs_mcq
 ,3.2,edexcel_business_studies,"Substitution into correct formula:
 £5.20 x 7,200 (1)
-Answer: £37 440 (1)","Substitution into correct formula:
-£5.20 x 7,200 (1)
-Answer: £37 440 (1)",bs_calculate
+Answer: £37 440 (1)","marking_criteria:
+  - Substitution into correct formula: £5.20 x 7,200 (1)
+  - Answer: £37 440 (1)
+total_marks:
+  - 2",bs_calculate
 ,3.3,edexcel_business_studies,"Award 1 mark for identification of a disadvantage, plus 2 further
 marks for explaining this disadvantage, up to a total of 3 marks.
 One disadvantage is that the employees will want to leave the
@@ -386,14 +390,21 @@ Level_3:
     - []",bs_analyse
 ,5.1,edexcel_business_studies,"Substitution into correct formula:
 £4 000 + (£8 600 - £11 000) (1)
-Answer: £1 600 (1)","Substitution into correct formula:
-£4 000 + (£8 600 - £11 000) (1)
-Answer: £1 600 (1)",bs_calculate
+Answer: £1 600 (1)","marking_criteria:
+  - Substitution into correct formula:
+  - £4 000 + (£8 600 - £11 000) (1)
+  - Answer: £1 600 (1)
+total_marks:
+  - 2",bs_calculate
 ,5.2,edexcel_business_studies,"Substitution into correct formula:
 (33,700 ÷ 66,700) x 100 (1)
-Answer: 50.52% (1)","Substitution into correct formula:
-(33,700 ÷ 66,700) x 100 (1)
-Answer: 50.52% (1)",bs_calculate
+Answer: 50.52% (1)","marking_criteria:
+  - Substitution into correct formula:
+    - (33,700 ÷ 66,700) x 100 (1)
+  - Answer:
+    - 50.52% (1)
+total_marks:
+  - 2",bs_calculate
 ,5.3,edexcel_business_studies,"Using the internet as a source of secondary market
 research is a fast and convenient way to discover how
 many females live in Birmingham (AO2).
