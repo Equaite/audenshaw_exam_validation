@@ -1,0 +1,15 @@
+subject_id,question_type,number_of_questions_count,level_hitrate_proportion_of_questions_covered_sum,level_hitrate_proportion_of_questions_covered_nanmean
+aqa_history,hs_analyse,39,17.0,0.4358974358974359
+aqa_history,hs_explain,78,38.0,0.48717948717948717
+aqa_history,hs_judgement,39,21.0,0.5384615384615384
+aqa_history,hs_spag,39,25.0,0.6410256410256411
+edexcel_business_studies,bs_analyse,52,32.0,0.6153846153846154
+edexcel_business_studies,bs_calculate,104,0.0,
+edexcel_business_studies,bs_discuss,26,11.0,0.4230769230769231
+edexcel_business_studies,bs_evaluate,26,19.0,0.7307692307692307
+edexcel_business_studies,bs_explain,156,0.0,
+edexcel_business_studies,bs_identify,26,0.0,
+edexcel_business_studies,bs_justify,52,36.0,0.6923076923076923
+edexcel_business_studies,bs_mcq,130,0.0,
+edexcel_business_studies,bs_outline,78,0.0,
+edexcel_business_studies,bs_state,52,0.0,

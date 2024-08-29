@@ -1,3 +1,3 @@
-subject_id,mean_hitrate,mean_same_level_hitrate,mean_same_level_hitrate_pm1,mean_scaled_error_metric,number_of_questions,elapsed_time_in_minutes,llm_grading_total_cost
-aqa_history,0.27,0.91,0.6,0.16,35,4.0132874568303425,2.96
-edexcel_business_studies,0.61,1.0,0.83,0.06,108,9.254368078708648,1.05
+subject_id,mean_hitrate,mean_llm_level_hitrate,mean_scaled_error_metric,number_of_questions,elapsed_time_in_minutes,llm_grading_total_cost
+aqa_history,0.29,0.52,0.12,195,15.280520625909169,16.44
+edexcel_business_studies,0.67,0.63,0.08,702,37.552002469698586,6.96
