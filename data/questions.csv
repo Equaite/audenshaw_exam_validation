@@ -54,7 +54,7 @@ Using the information in Figure 1, calculate the revenue for March. You are advi
 3.3,edexcel_business_studies,,,Explain one disadvantage to a small business of not paying its employees on time.,bs_explain,,3
 3.4,edexcel_business_studies,,,Explain one advantage to a small business rom using retained profit as a source of finance.,bs_explain,,3
 3.5,edexcel_business_studies,,,Discuss the impact on a small business from adapting existing products to develop new business ideas.,bs_discuss,,6
-4.1,edexcel_business_studies,,,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area. Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes. As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard. Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",bs_outline,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
+4.1,edexcel_business_studies,,,Outline one way that financial information in a business plan could help Lili Heating Ltd.,bs_outline,"Amelia Cooper trained as a plumber six years ago. Since then she has worked for a building company that carries out repairs to houses and business premises in the Birmingham area.
 Amelia is now in a position where she wants to start her own plumbing business called Lili Heating Ltd. Even though there are many plumbers in the Birmingham area Amelia feels she has a unique selling point – she is a woman. Many female customers feel that they can relate more closely with a woman doing repairs in their homes.
 As part of her business plan, Amelia has identified some clear aims and objectives and conducted a large amount of market research using the internet. Her target market requires clear advice on what work needs to be done and how much she will charge. Amelia also thinks she can cut down on advertising costs by getting her customers to recommend Lili Heating Ltd to their friends and families. For this to happen she knows that her work must be of the highest standard.
 Amelia’s business plan also included a wide range of financial information to help her forecast the potential success of the business and see if she would need an overdraft.",2
@@ -113,66 +113,208 @@ scattered them in all directions. They quickly destroyed the German threat.
 3,aqa_history,,,Write an account of how the Schlieffen Plan led to problems in 1914.,hs_analyse,,8
 4.1,aqa_history,,,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,hs_judgement,,16
 4.2,aqa_history,,,The Alliance System was the main cause of the First World War.' How far do you agree with this statement? Explain your answer.,hs_spag,,4
-1.1,aqa_biology_foundation,,,,,,
-1.2,aqa_biology_foundation,,,,,,
-1.3,aqa_biology_foundation,,,,,,
-1.4,aqa_biology_foundation,,,,,,
-1.5,aqa_biology_foundation,,,,,,
-1.6,aqa_biology_foundation,,,,,,
-1.7,aqa_biology_foundation,,,,,,
-1.8,aqa_biology_foundation,,,,,,
-1.9,aqa_biology_foundation,,,,,,
-2.1,aqa_biology_foundation,,,,,,
-2.2,aqa_biology_foundation,,,,,,
-2.3,aqa_biology_foundation,,,,,,
-2.4,aqa_biology_foundation,,,,,,
-2.5,aqa_biology_foundation,,,,,,
-2.6,aqa_biology_foundation,,,,,,
-2.7,aqa_biology_foundation,,,,,,
-2.8,aqa_biology_foundation,,,,,,
-2.9,aqa_biology_foundation,,,,,,
-3.1,aqa_biology_foundation,,,,,,
-3.2,aqa_biology_foundation,,,,,,
-3.3,aqa_biology_foundation,,,,,,
-3.4,aqa_biology_foundation,,,,,,
-3.5,aqa_biology_foundation,,,,,,
-3.6,aqa_biology_foundation,,,,,,
-3.7,aqa_biology_foundation,,,,,,
-3.8,aqa_biology_foundation,,,,,,
-3.9,aqa_biology_foundation,,,,,,
-4.1,aqa_biology_foundation,,,,,,
-4.2,aqa_biology_foundation,,,,,,
-4.3,aqa_biology_foundation,,,,,,
-4.4,aqa_biology_foundation,,,,,,
-4.5,aqa_biology_foundation,,,,,,
-4.6,aqa_biology_foundation,,,,,,
-4.7,aqa_biology_foundation,,,,,,
-4.8,aqa_biology_foundation,,,,,,
-4.9,aqa_biology_foundation,,,,,,
-5.1,aqa_biology_foundation,,,,,,
-5.2,aqa_biology_foundation,,,,,,
-5.3,aqa_biology_foundation,,,,,,
-5.4,aqa_biology_foundation,,,,,,
-5.5,aqa_biology_foundation,,,,,,
-5.6,aqa_biology_foundation,,,,,,
-5.7,aqa_biology_foundation,,,,,,
-5.8,aqa_biology_foundation,,,,,,
-5.9,aqa_biology_foundation,,,,,,
-6.1,aqa_biology_foundation,,,,,,
-6.2,aqa_biology_foundation,,,,,,
-6.3,aqa_biology_foundation,,,,,,
-6.4,aqa_biology_foundation,,,,,,
-6.5,aqa_biology_foundation,,,,,,
-6.6,aqa_biology_foundation,,,,,,
-6.7,aqa_biology_foundation,,,,,,
-6.8,aqa_biology_foundation,,,,,,
-6.9,aqa_biology_foundation,,,,,,
-7.1,aqa_biology_foundation,,,,,,
-7.2,aqa_biology_foundation,,,,,,
-7.3,aqa_biology_foundation,,,,,,
-7.4,aqa_biology_foundation,,,,,,
-7.5,aqa_biology_foundation,,,,,,
-7.6,aqa_biology_foundation,,,,,,
-7.7,aqa_biology_foundation,,,,,,
-7.8,aqa_biology_foundation,,,,,,
-7.9,aqa_biology_foundation,,,,,,
+1.1,aqa_biology_foundation,,,"
+Which food contains the highest percentage of carbohydrate? Tick  one box.
+A: Beans
+B: Chicken
+C: Orange
+D: Rice",bio_mc,,1
+1.2,aqa_biology_foundation,,,Estimate the percentage of water found in beans.,bio_any_n_from_exact,,1
+1.3,aqa_biology_foundation,,,"Look at Figure .1
+Why would eating only beans provide a more balanced diet than eating only chicken?",bio_any_n_from_approximate,,1
+1.4,aqa_biology_foundation,,,"Sugars are produced when enzymes break down starch.
+What is the name of the enzyme which breaks down strach to produce sugar?
+A: Amylase
+B: Bile
+C: Lipase
+D: Protease",bio_mc,,1
+1.5,aqa_biology_foundation,,,"Which chemical could be used to test for glucose?
+A: Benedict's reagent
+B: Biuret reagent
+C: lodine solution
+D: Sulfuric acid",bio_mc,,1
+1.6,aqa_biology_foundation,,,What colour change would be seen in a positive test for glucose?,bio_any_n_from_exact,,1
+1.7,aqa_biology_foundation,,,"Which person has severe diabetes?
+A:A
+B:B
+C:C
+D:D",bio_mc,,1
+1.8,aqa_biology_foundation,,,Glucose is absorbed into the bloodstream in part X. Name part X.,bio_any_n_from_exact,,1
+1.9,aqa_biology_foundation,,,"Some glucose is absorbed into the bloodstream against the concentration gradient by the process of ____
+Water moves out of part Yand into the bloodstream by the process of ____",bio_any_n_from_exact,,2
+2.1,aqa_biology_foundation,,,"What is diffusion?
+A: The movement of particles from a high concentration to a low concentration
+B: The movement of particles from a low concentration ot a high concentration
+C: The movement of water from a concentrated solution to a more dilute solution",bio_mc,,1
+2.2,aqa_biology_foundation,,,"Describe how one feature of the axolotl's gills increases the rate of diffusion of oxygen.
+Use information from Figure 3.",bio_any_n_from_approximate,,2
+2.3,aqa_biology_foundation,,,"When stem cells specialise to produce gil cells, this process is known as",bio_any_n_from_exact,,1
+2.4,aqa_biology_foundation,,,"Complete the sentence. Choose from the box.
+To grow a new gill the stem cells divide by ___",bio_fill_in_the_blank,,1
+2.5,aqa_biology_foundation,,,"Which one of the following does not contain stem cells?
+A: Bone Marrow
+B: Embryos
+C: Hair
+D: Meristem tissue",bio_mc,,1
+2.6,aqa_biology_foundation,,,"Axolotis are small animals.
+Axolotis are used in stem cell research. What are two advantages of using axolotls ni stem cel research?
+A: Axolotls are cheap to feed
+B: Axolotls are easy to breed
+C: Axolotls are endangered
+D: Axolotls live in water
+E: Acolotl research is cruel",bio_mc,,2
+2.7,aqa_biology_foundation,,,"Where does oxygen enter the bloodstream?
+A: A
+B: B
+C: C
+D: D",bio_mc,,1
+2.8,aqa_biology_foundation,,,Name part E on Figure 4.,bio_any_n_from_exact,,1
+2.9,aqa_biology_foundation,,,"Which blood vessel carries blood ot the lungs?
+A: Aorta
+B: Pulmonary artery
+C: Vena cava",bio_mc,,1
+3.1,aqa_biology_foundation,,,"The layer of cells lining the upper surface and lower surface of a leaf is the ___
+The part of the leaf where most photosynthesis occurs is the ___
+Water is transported to the leaf in the ___",bio_fill_in_blank,,3
+3.2,aqa_biology_foundation,,,"The cells labelled Xcontrol the width of the stomata. What are the cells labelled X?
+
+A: Guard Cells
+B: Mesophyll Cells
+C: Root hair cells
+D: stem cells",bio_mc,,1
+3.3,aqa_biology_foundation,,,"What is the function of the stomata?
+A: To alow light into the leaf
+B: To let carbon dioxide into the leaf
+C: To let sugars out of the leaf
+D: To protect the leaf from pathogens",bio_mc,,1
+3.4,aqa_biology_foundation,,,"
+How is water lost from a leaf?
+A: By evaporation
+B: By respiration
+C: by translocation",bio_mc,,1
+3.5,aqa_biology_foundation,,,"Calculate the difference ni the volume of water lost by plant Acompared to plant Bni the first hour.
+",bio_any_n_from_approximate,,2
+3.6,aqa_biology_foundation,,,"What could cause plant A to lose water at a faster rate than plant B?
+A: Plant A has fewer stomata per leaf.
+B: Plant A is smaller.
+C: Plant A has more leaves.
+D: Plant A has smaller leaves.",bio_mc,,1
+3.7,aqa_biology_foundation,,,"
+After the first 2 hours, both plants were moved ot a new room.
+Suggest one reason why both plants lost water at a faster rate ni the new room.",bio_any_n_from_exact,,1
+3.8,aqa_biology_foundation,,,Describe one way the holly plant is adapted to stop it being eaten by animals.,bio_any_n_from_exact,,1
+4.1,aqa_biology_foundation,,,"Which two variables did the student control in the method?
+A: Mass of sugar
+B: pH of the mixture
+C: Temperature
+D: Volume of foam
+E: Volume of yeast and water",bio_mc,,2
+4.2,aqa_biology_foundation,,,"
+What is value X in Table 3? Use Figure 8.",bio_any_n_from_exact,,1
+4.3,aqa_biology_foundation,,,"Which gas causes the foam to rise?
+A: Carbon dioxide
+B: Hydrogen
+C: Nitrogen
+D: Oxygen",bio_mc,,1
+4.4,aqa_biology_foundation,,,What conclusion can you make about the relationship between the mass of sugar used and the volume of gas produced?,bio_any_n_from_approximate,,1
+4.5,aqa_biology_foundation,,,Why was no foam produced in the mixture with 0 g of sugar?,bio_any_n_from_approximate,,1
+4.6,aqa_biology_foundation,,,Why was the measuring cylinder with 0 g of sugar included in the investigation?,bio_any_n_from_approximate,,1
+4.7,aqa_biology_foundation,,,The top of the mixture can be covered with a layer of oil after step 3 in the method. Suggest why the layer of oil stops the yeast respiring aerobically,bio_any_n_from_approximate,,1
+4.8,aqa_biology_foundation,,,"What other substance is produced during anaerobic respiration in yeast?
+A: Ethanol
+B: Hydrochloric acid
+C: Lactic acid
+D: Water",bio_mc,,1
+5.1,aqa_biology_foundation,,,"The man has a bacterial infection.
+What is the most likely cause of the man's symptoms?
+A: Gonorrhoea
+B: HIV
+C: Measles
+D: Salmonella poisoning",bio_mc,,1
+5.2,aqa_biology_foundation,,,"The man took a ful course of antibiotics.
+The man's symptoms did not improve.
+Why did the antibiotics not cure the symptoms?
+A: The bacteria are immune to the antibiotics.
+B: The bacteria are resistant to the antibiotics.
+C: The man is immune to the antibiotics.
+D: The man is resistant to the antibiotics.",bio_mc,,1
+5.3,aqa_biology_foundation,,,"Using a condom can stop the bacteria being passed to another person during sexual intercourse.
+Suggest a different way the man could avoid passing the bacteria on to someone else.",bio_any_n_from_approximate,,1
+5.4,aqa_biology_foundation,,,"Compare the effectiveness of the three antibiotics at killing the different types
+of bacteria.",bio_level,,6
+5.5,aqa_biology_foundation,,,"
+Which milk sample is shown in Figure 10?
+A: Sample E
+B: Sample F
+C: Sample G
+D: Samples H",bio_mc,,1
+5.6,aqa_biology_foundation,,,Calculate the mean number of bacteria in the four samples in Table 4.,bio_calculate,,2
+5.7,aqa_biology_foundation,,,"Calculate the mean number of bacteria per mm' of milk in the samples. Complete the following steps.
+Calculate the total area of the counting chamber in Figure 10.
+____
+The depth of the counting chamber is 0.01 mm
+Calculate the volume of the counting chamber in Figure 10.
+Use the equation:
+volume = area x depth
+____
+Calculate the mean number of bacteria per mm' of milk ni the samples. Use the equation:
+mean number of bacteria per mm of milk = mean number of bacteria from Question 056/volume of counting chamber.
+____",bio_fill_in_blank,,3
+5.8,aqa_biology_foundation,,,"Which of the milk samples could not be sold for humans to drink?
+A: P
+B: Q
+C: R
+D: S",bio_mc,,1
+5.9,aqa_biology_foundation,,,Why should milk sold for humans to drink not contain large numbers of bacteria?,bio_any_n_from_approximate,,1
+6.1,aqa_biology_foundation,,,Which organ system is the heart a part of?,bio_any_n_from_exact,,1
+6.2,aqa_biology_foundation,,,Draw a ring around one valve on Figure 1.,bio_draw_diagram,,1
+6.3,aqa_biology_foundation,,,What is the function of the valves in the heart?,bio_any_n_from_approximate,,1
+6.4,aqa_biology_foundation,,,"
+Valves are also found inside some blood vessels. Which type of blood vessel contains valves?",bio_any_n_from_exact,,1
+6.5,aqa_biology_foundation,,,"Suggest two reasons why a patient may choose a mechanical valve
+and not a biological valve from a pig.",bio_any_n_from_approximate,,2
+6.6,aqa_biology_foundation,,,Suggest one reason why a patient may choose a biological valve from a pig and not a mechanical valve.,bio_any_n_from_approximate,,1
+6.7,aqa_biology_foundation,,,"A person may develop other medical conditions.
+Draw one line from each medical condition to the correct treatment.",bio_draw_diagram,,2
+7.1,aqa_biology_foundation,,,"The cell contains a nucleus.
+What is the function of the nucleus?",bio_any_n_from_approximate,,1
+7.2,aqa_biology_foundation,,,Name one type of cell that does not contain a nucleus.,bio_any_n_from_approximate,,1
+7.3,aqa_biology_foundation,,,Draw a simple diagram of the cell ni Figure 12. Label two parts of the cell.,bio_any_n_from_exact,,2
+7.4,aqa_biology_foundation,,,Name one structure found in a plant cell but not found in an animal cell.,bio_any_n_from_exact,,1
+7.5,aqa_biology_foundation,,,The real length from point Xto point Yis 0.06 mm Calculate the magnification.,bio_calculate,,3
+7.6,aqa_biology_foundation,,,"The cells shown in Figure 13 were viewed using a light microscope.
+Give two advantages of using an electron microscope instead of a light microscope.",bio_any_n_from_approximate,,2
+8.1,aqa_biology_foundation,,,"Mosquitoes carry a pathogen that causes malaria.
+What type of pathogen causes malaria?
+A: A bacterium
+B: A fungus
+C: A protist
+D: A virus",bio_mc,,1
+8.2,aqa_biology_foundation,,,Give one piece of evidence that supports the statement.,bio_any_n_from_approximate,,1
+8.3,aqa_biology_foundation,,,Suggest one reason why the statement may not be valid.,bio_any_n_from_approximate,,1
+8.4,aqa_biology_foundation,,,Predict the number of people per 100 000 who died from malaria ni 2017 fi the trend stayed the same.,bio_any_n_from_approximate,,1
+8.5,aqa_biology_foundation,,,"Use of mosquito nets has helped to reduce the number of deaths from malaria each year.
+Suggest one other reason for the reduced number of deaths from malaria each year.",bio_any_n_from_approximate,,1
+8.6,aqa_biology_foundation,,,"Describe how the human body:
+-prevents pathogens from entering
+-defends itself against pathogens inside the body.",bio_level,,6
+9.1,aqa_biology_foundation,,,This question is about photosynthesis. Complete the word equation for photosynthesis:,bio_chemical_equation,,2
+9.2,aqa_biology_foundation,,,"What was the independent variable in the investigation?
+A: Power output of bulb
+B: Rate of photosynthesis
+C: Time to collect oxygen
+D: Volume of oxygen collected",bio_mc,,1
+9.3,aqa_biology_foundation,,,Suggest two ways the method could be improved so the results would be more valid.,bio_any_n_from_approximate,,2
+9.4,aqa_biology_foundation,,,Calculate value X in Table 9.,bio_calculate,,1
+9.5,aqa_biology_foundation,,,"Complete Figure 15.
+You should:
+- label the x-axis
+- use a suitable scale
+-plot the data from Table 9 and your answer to Question 9.4
+- draw a line of best fit",bio_draw_diagram,,4
+9.6,aqa_biology_foundation,,,Determine the expected rate of photosynthesis with a bulb of power output 75 watts. Use Figure 15.,bio_weird,,1
+9.7,aqa_biology_foundation,,,"Which graph shows the effect of temperature on the rate of photosynthesis?
+A: 
+B: 
+C: 
+D: ",bio_mc,,1
